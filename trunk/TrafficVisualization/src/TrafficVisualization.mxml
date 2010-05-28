@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:WindowedApplication xmlns:fx="http://ns.adobe.com/mxml/2009" 
+					   xmlns:s="library://ns.adobe.com/flex/spark" 
+					   xmlns:mx="library://ns.adobe.com/flex/mx" xmlns:View="View.*">
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+		<mx:SolidColorStroke id="DateAxisStroke" color="#9B9B9B"
+							 weight="8" alpha=".75" caps="none" />
+	</fx:Declarations>
+	
+	<fx:Script>
+		<![CDATA[
+			import flashx.textLayout.events.DamageEvent;
+			
+			import mx.collections.ArrayCollection;
+			import mx.charts.events.ChartItemEvent;
+			
+			[Bindable]private var graphAC:ArrayCollection = new ArrayCollection( [
+				{ TYPE: "URL", Date:"2010-04-12",Data: "127.0.0.1"},
+				{ TYPE: "KB", Date:"2010-04-13",Data: "localhost"},
+				{ TYPE: "MC", Date:"2010-04-14",Data: "www.google.com"} ]);
+			
+			[Bindable]private var timelineAC:ArrayCollection = new ArrayCollection([{TYPE:"Base", Date:"2010-04-12"},
+				{TYPE:"Base", Date:"2010-04-13"},
+				{TYPE:"Base", Date:"2010-04-14"}]);
+			  
+			[Bindable]private var xcategoryAC = new ArrayCollection([{TYPE:"URL"}, {TYPE:"Base"}, {TYPE:"KB"}, {TYPE:"MC"}]);
+			
+			public function parseDate(s:String):Date{
+			   //Get an array of Strings from the dash-seperated String
+				var a:Array = s.split("-");
+				//Create the new Date Object, Subtract one from the month property
+				var newDate:Date = new Date(a[0], a[1]-1, a[2]);
+				return newDate;
+			}
+		]]>
+	</fx:Script>
+	
+	<!-- states -->
+	<s:states>
+		<s:State name="up"/>
+		<s:State name="over"/>
+		<s:State name="down" basedOn="over"/>
+	</s:states>
+	
+	<!-- skinClass="MyPanelSkins" -->
+	
+	<s:Panel width="100%" height="568" skinClass="MyPanelSkins"
+			 title="Network Visualization" x="0" y="0">
+		<s:VGroup horizontalCenter="0">
+			<s:HGroup>
+				<!--Canvas Size Controller, Move the cursor can change the size of components in the convas -->
+				<s:Label text="Width:"/>
+				<s:HSlider id="sliderW"
+						   minimum="100"
+						   maximum="600"
+						   value="300"
+						   liveDragging="true" />
+				<s:Label text="Height:"/>
+				<s:HSlider id="sliderH"
+						   minimum="100"
+						   maximum="550"
+						   value="200"
+						   liveDragging="true" />
+			</s:HGroup>
+		
+			
+			<!--Main Display Area xmlns:view="view.*" -->
+			<!--<s:Scroller width="600" height="550" horizontalScrollPolicy="auto" verticalScrollPolicy="auto"> -->
+			<mx:Canvas id="bdr" width="{sliderW.value}" height="{sliderH.value}" borderVisible="false">
+				<mx:PlotChart id="myTrafficChart" width="100%" height="100%" showDataTips="true" selectionMode="none" visible="true" >
+             
+					<mx:backgroundElements>
+						<!--Define the line among plot items and between plot item and line item-->
+						<mx:GridLines visible="false"/>
+					</mx:backgroundElements>
+					
+					<mx:SeriesSlide id="exp" direction="down" elementOffset="150" />
+					
+					<mx:horizontalAxis>
+					 	<mx:DateTimeAxis id="DateAxis" dataUnits="days" autoAdjust="true" parseFunction="parseDate"/>
+			    	</mx:horizontalAxis>
+					
+					<mx:horizontalAxisRenderers>
+						<mx:AxisRenderer axis="{DateAxis}" showLabels="false" showLine="false" tickPlacement="none" minorTickPlacement="none">
+							<mx:axisStroke>{DateAxisStroke}</mx:axisStroke>
+						</mx:AxisRenderer>
+					</mx:horizontalAxisRenderers>
+					
+			    	<mx:verticalAxis>
+						<mx:CategoryAxis id="TypeAxis" dataProvider="{xcategoryAC}" categoryField="TYPE" />
+			    	</mx:verticalAxis>
+ 
+					<mx:verticalAxisRenderers>
+					 	<mx:AxisRenderer axis="{TypeAxis}" showLabels="false" showLine="false"
+						  	tickPlacement="none" minorTickPlacement="none"/>
+					</mx:verticalAxisRenderers>
+				
+					
+					
+					<mx:series>
+						<mx:PlotSeries dataProvider="{graphAC}" xField="Date" yField="TYPE" itemRenderer="RecDataItem" showDataEffect="exp" hideDataEffect="exp"/>
+						
+						<mx:LineSeries dataProvider="{timelineAC}" xField="Date" yField="TYPE" form="horizontal" itemRenderer="TimeDataItem" >
+									   <mx:lineStroke>
+										   <s:SolidColorStroke color="0x000000" weight="2" alpha="1.0" caps="square"/>
+										</mx:lineStroke>
+						</mx:LineSeries>
+					</mx:series>
+					
+					
+				
+					
+					<!--mx:Legend dataProvider="{graphAC}" color = "0x323232" /-->
+					
+				</mx:PlotChart>
+			</mx:Canvas>
+			<!--</s:Scroller> -->
+
+			
+			<!--Detail Information of UserInput or URL  -->
+			<s:Panel width="100%" height="89"
+					 skinClass="MyPanelSkins"
+					 title="Details" x="0" y="0">
+			</s:Panel>
+			
+			
+		</s:VGroup>
+	</s:Panel>
+	
+	
+	
+</s:WindowedApplication>
