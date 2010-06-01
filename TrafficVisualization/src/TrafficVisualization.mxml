@@ -12,8 +12,9 @@
 		<![CDATA[
 			import flashx.textLayout.events.DamageEvent;
 			
-			import mx.collections.ArrayCollection;
 			import mx.charts.events.ChartItemEvent;
+			import mx.collections.ArrayCollection;
+			import mx.controls.Alert;
 			
 			[Bindable]private var graphAC:ArrayCollection = new ArrayCollection( [
 				{ TYPE: "URL", Date:"2010-04-12",Data: "127.0.0.1"},
@@ -24,7 +25,7 @@
 				{TYPE:"Base", Date:"2010-04-13"},
 				{TYPE:"Base", Date:"2010-04-14"}]);
 			  
-			[Bindable]private var xcategoryAC = new ArrayCollection([{TYPE:"URL"}, {TYPE:"Base"}, {TYPE:"KB"}, {TYPE:"MC"}]);
+			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{TYPE:"URL"}, {TYPE:"Base"}, {TYPE:"KB"}, {TYPE:"MC"}]);
 			
 			public function parseDate(s:String):Date{
 			   //Get an array of Strings from the dash-seperated String
@@ -33,6 +34,21 @@
 				var newDate:Date = new Date(a[0], a[1]-1, a[2]);
 				return newDate;
 			}
+
+			protected function itemExpandClickHandler(event:MouseEvent):void
+			{
+				// TODO Auto-generated method stub
+				Alert.show("Expand Request");
+			}
+
+
+			protected function itemDataClick(event:MouseEvent):void
+			{
+				// TODO Auto-generated method stub
+				Alert.show("Data Click");
+			}
+
+
 		]]>
 	</fx:Script>
 	
@@ -68,12 +84,13 @@
 			<!--Main Display Area xmlns:view="view.*" -->
 			<!--<s:Scroller width="600" height="550" horizontalScrollPolicy="auto" verticalScrollPolicy="auto"> -->
 			<mx:Canvas id="bdr" width="{sliderW.value}" height="{sliderH.value}" borderVisible="false">
-				<mx:PlotChart id="myTrafficChart" width="100%" height="100%" showDataTips="true" selectionMode="none" visible="true" >
+				<mx:PlotChart id="myTrafficChart" width="100%" height="100%" showDataTips="true" selectionMode="none" visible="true"  >
              
 					<mx:backgroundElements>
 						<!--Define the line among plot items and between plot item and line item-->
 						<mx:GridLines visible="false"/>
 					</mx:backgroundElements>
+					
 					
 					<mx:SeriesSlide id="exp" direction="down" elementOffset="150" />
 					
@@ -95,23 +112,30 @@
 					 	<mx:AxisRenderer axis="{TypeAxis}" showLabels="false" showLine="false"
 						  	tickPlacement="none" minorTickPlacement="none"/>
 					</mx:verticalAxisRenderers>
-				
-					
 					
 					<mx:series>
-						<mx:PlotSeries dataProvider="{graphAC}" xField="Date" yField="TYPE" itemRenderer="RecDataItem" showDataEffect="exp" hideDataEffect="exp"/>
+						<mx:PlotSeries dataProvider="{graphAC}" xField="Date" yField="TYPE" itemRenderer="RecDataRenderer" showDataEffect="exp" hideDataEffect="exp" click="itemDataClick(event)"/>
 						
-						<mx:LineSeries dataProvider="{timelineAC}" xField="Date" yField="TYPE" form="horizontal" itemRenderer="TimeDataItem" >
+						<mx:LineSeries dataProvider="{timelineAC}" xField="Date" yField="TYPE" form="horizontal" itemRenderer="TimeLineDateRenderer" click="itemExpandClickHandler(event)">
 									   <mx:lineStroke>
 										   <s:SolidColorStroke color="0x000000" weight="2" alpha="1.0" caps="square"/>
 										</mx:lineStroke>
 						</mx:LineSeries>
+						<mx:HLOCSeries 
+							openField="Date" 
+							closeField="Type" lowField="Date" 
+							highField="Type" dataProvider="GraphAC">    
+							<mx:stroke>
+								<s:SolidColorStroke weight="1"/>
+							</mx:stroke>
+						</mx:HLOCSeries>
 					</mx:series>
 					
 					
 				
 					
 					<!--mx:Legend dataProvider="{graphAC}" color = "0x323232" /-->
+					
 					
 				</mx:PlotChart>
 			</mx:Canvas>
