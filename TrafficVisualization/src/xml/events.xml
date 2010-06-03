@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+
+<event date="2010-4-7 10:59:19.832"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com</URL></event>
+
+<event date="2010-4-7 10:59:21.922"><TYPE>KB</TYPE><TL>Base</TL><Data>ho</Data></event>
+
+<event date="2010-4-7 10:59:22.428"><TYPE>KB</TYPE><TL>Base</TL><Data>t</Data></event>
+
+<event date="2010-4-7 10:59:23.489"><TYPE>KB</TYPE><TL>Base</TL><Data>d</Data></event>
+
+<event date="2010-4-7 10:59:24.845"><TYPE>KB</TYPE><TL>Base</TL><Data>trai</Data></event>
+
+<event date="2010-4-7 10:59:25.658"><TYPE>KB</TYPE><TL>Base</TL><Data>you</Data></event>
+
+<event date="2010-4-7 10:59:31.271"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
+
+<event date="2010-4-7 10:59:40.909"><TYPE>KB</TYPE><TL>Base</TL><Data>dragonwww.</Data></event>
+
+<event date="2010-4-7 10:59:41.928"><TYPE>KB</TYPE><TL>Base</TL><Data>google.</Data></event>
+
+<event date="2010-4-7 10:59:42.629"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+
+<event date="2010-4-7 10:59:42.622"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com</URL></event>
+
+<event date="2010-4-7 10:59:47.953"><TYPE>KB</TYPE><TL>Base</TL><Data>alic</Data></event>
+
+<event date="2010-4-7 10:59:48.452"><TYPE>KB</TYPE><TL>Base</TL><Data>i</Data></event>
+
+<event date="2010-4-7 10:59:52.751"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
+
+<event date="2010-4-7 10:59:55.174"><TYPE>MC</TYPE><TL>Base</TL><Data>http://www.google.com/movies?hl=en&sort=1&mid=60c7febb4cc3843b&ei=5p28S4fOK8P68AbHrNDQCA&near=blacksburg&view=list#photos2010-4-7</Data></event>
+
+<event date="2010-4-7 10:59:55.191"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
+
+<event date="11:0:6.699 "><TYPE>MC</TYPE><TL>Base</TL><Data>http://www.imdb.com/title/tt1014759/
+</Data></event>
+
+<event date="2010-4-7 11:0:6.703"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.imdb.com/title</URL></event>
+
+<event date="2010-4-12 20:57:38.166"><TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 20:57:39.462"><TYPE>KB</TYPE><TL>Base</TL><Data>cnn.</Data></event>
+<event date="2010-4-12 20:57:40.129"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 20:57:40.168"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.cnn.com/</URL></event>
+<event date="2010-4-12 20:57:53.936"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.akamai.com/html</URL></event>
+<event date="2010-4-12 20:58:37.646"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/</URL></event>
+<event date="2010-4-12 20:58:42.34"><TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 20:58:43.338"><TYPE>KB</TYPE><TL>Base</TL><Data>youtube.</Data></event>
+<event date="2010-4-12 20:58:44.4"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 20:58:44.103"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.youtube.com/</URL>></event>
+<event date="2010-4-12 20:58:47.479"><TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 20:58:49.687"><TYPE>KB</TYPE><TL>Base</TL><Data>akamai.</Data></event>
+<event date="2010-4-12 20:58:50.365"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 20:58:50.358"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.akamai.com/</URL></event>
+<event date="2010-4-12 20:58:54.154"><TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 20:58:54.884"><TYPE>KB</TYPE><TL>Base</TL><Data>cnn.</Data></event>
+<event date="2010-4-12 20:58:55.468"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 20:58:55.535"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.cnn.com/</URL></event>
+<event date="2010-4-12 20:59:0.766"><TYPE>KB</TYPE><TL>Base</TL><Data>www</Data></event>
+<event date="2010-4-12 20:59:1.733"><TYPE>KB</TYPE><TL>Base</TL><Data>digg</Data></event>
+<event date="2010-4-12 20:59:2.358"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 20:59:2.349"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.digg.com/</URL></event>
+<event date="2010-4-12 20:59:6.844"><TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 20:59:7.820"><TYPE>KB</TYPE><TL>Base</TL><Data>baidu.</Data></event>
+<event date="2010-4-12 20:59:8.442"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 20:59:8.559"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.baidu.com/</URL></event>
+<event date="2010-4-12 21:1:47.761"><TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 21:1:48.627"><TYPE>KB</TYPE><TL>Base</TL><Data>google.</Data></event>
+<event date="2010-4-12 21:1:49.296"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 21:1:49.276"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.google.com/</URL></event>
+<event date="2010-4-12 21:1:53.934">TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 21:1:56.32"><TYPE>KB</TYPE><TL>Base</TL><Data>cnn.</Data></event>
+<event date="2010-4-12 21:1:56.782"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 21:1:56.778"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.cnn.com/</URL></event>
+<event date="2010-4-12 21:2:1.474"><TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 21:2:4.746"><TYPE>KB</TYPE><TL>Base</TL><Data>digg.</Data></event>
+<event date="2010-4-12 21:2:5.913"><TYPE>KB</TYPE><TL>Base</TL><Data>cpm</Data></event>
+<event date="2010-4-12 21:2:5.907"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.digg.cpm/</URL></event>
+<event date="2010-4-12 21:2:5.907"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.digg.cpm/</URL></event>
+<event date="2010-4-12 21:2:9.286"><TYPE>KB</TYPE><TL>Base</TL><Data>[BACKSPACE][BACKSPACE]om</Data></event>
+<event date="2010-4-12 21:2:9.269"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.digg.cpm/</URL></event>
+<event date="2010-4-12 21:2:14.997"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> analytics.live.com/Sync.html/</URL></event>
+<event date="2010-4-12 21:2:24.21"><TYPE>MC</TYPE><TL>Base</TL><Data>http://amfix.blogs.cnn.com/
+2010/04/12/assessing-chinas-impact-on-america/?hpt=C1
+</Data></event>
+<event date="2010-4-12 21:2:24.42"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> amfix.blogs.cnn.com/2010</URL></event>
+<event date="2010-4-12 21:2:29.991"><TYPE>KB</TYPE><TL>Base</TL><Data>www</Data></event>
+<event date="2010-4-12 21:2:32.456"><TYPE>KB</TYPE><TL>Base</TL><Data>youtube</Data></event>
+<event date="2010-4-12 21:2:33.161"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 21:2:33.155"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.youtube.com/</URL></event>
+<event date="2010-4-12 21:2:39.630"><TYPE>KB</TYPE><TL>Base</TL><Data>akamai</Data></event>
+<event date="2010-4-12 21:2:40.480"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 21:2:40.471"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> akamai.com/</URL></event>
+<event date="2010-4-12 21:3:52.100"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.google.com/</URL></event>
+<event date="2010-4-12 21:03:52.116"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 66.249.81.104/</URL></event>
+<event date="2010-4-12 21:03.52.575"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 74.125.93.138/</URL></event>
+<event date="2010-4-12 21:4:24.462"><TYPE>KB</TYPE><TL>Base</TL><Data>www.</Data></event>
+<event date="2010-4-12 21:4:25.321"><TYPE>KB</TYPE><TL>Base</TL><Data>google.</Data></event>
+<event date="2010-4-12 21:4:26.9"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
+<event date="2010-4-12 21:4:26.0"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> www.google.com/</URL></event>
+<event date="2010-4-12 21:04:26.216"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 74.125.93.138</URL></event>
+<event date="2010-4-12 21:04:26.322"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 66.249.81.104</URL></event>
+<event date="2010-4-12 21:04:26.602"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 74.125.172.35</URL></event>
+<event date="2010-4-12 21:4:31.197"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> amfix.blogs.cnn.com/2010</URL></event>
+<event date="2010-4-12 21:04:31.326"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 76.74.254.121</URL></event>
+<event date="2010-4-12 21:04:31.544"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 198.78.215.126</URL></event>
+<event date="2010-4-12 21:04:31.565"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 72.21.91.19</URL></event>
+<event date="2010-4-12 21:04:31.668"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 64.94.107.29</URL></event>
+<event date="2010-4-12 21:04:31.669"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 66.114.52.34</URL></event>
+<event date="2010-4-12 21:04:31.679"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 74.200.247.60</URL></event>
+<event date="2010-4-12 21:04:32.926"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 74.125.172.35</URL></event>
+<event date="2010-4-12 21:5:36.824"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> digg.com</URL></event>
+<event date="2010-4-12 21:05:37.128"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 98.142.98.50</URL></event>
+<event date="2010-4-12 21:05:37.128"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 198.82.164.41</URL></event>
+<event date="2010-4-12 21:05:41.582"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> digg.com/</URL></event>
+<event date="2010-4-12 21:05:43.603"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 64.191.203.30</URL></event>
+<event date="2010-4-12 21:05:43.857"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 98.142.98.50</URL></event>
+<event date="2010-4-12 21:05:44.35"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 65.54.77.92</URL></event>
+<event date="2010-4-12 21:5:44.430"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> digg.com/ad</URL></event>
+<event date="2010-4-12 21:05:44.446"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 64.191.203.30</URL></event>
+<event date="2010-4-12 21:05:44.684"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 98.142.98.50</URL></event>
+<event date="2010-4-12 21:05:44.846"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 66.249.81.148</URL></event>
+<event date="2010-4-12 21:05:44.864"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 66.235.133.33</URL></event>
+<event date="2010-4-12 21:05:44.978"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 72.14.204.149</URL></event>
+<event date="2010-4-12 21:05:45.59"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL> 65.55.149.120</URL></event>
+
+</events>
+  
