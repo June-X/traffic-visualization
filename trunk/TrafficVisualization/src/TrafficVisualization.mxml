@@ -6,30 +6,38 @@
 		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
 		<mx:SolidColorStroke id="DateAxisStroke" color="#9B9B9B"
 							 weight="8" alpha=".75" caps="none" />
+		<fx:Model id="dataset" source="../xml/sample.xml"/>	
+		<s:ArrayCollection id="mygraphAC" source="{ArrayUtil.toArray(dataset.events)}"/>
 	</fx:Declarations>
-	
+
 	<fx:Script>
 		<![CDATA[
 			import flashx.textLayout.events.DamageEvent;
 			
 			import mx.charts.events.ChartItemEvent;
 			import mx.collections.ArrayCollection;
+			import mx.collections.XMLListCollection;
 			import mx.controls.Alert;
+			import mx.utils.ArrayUtil;
 			
-			[Bindable]private var graphAC:ArrayCollection = new ArrayCollection( [
+			/*
+			[Bindable]private var mygraphAC:ArrayCollection = new ArrayCollection(( [
 				{ TYPE: "URL", Date:"2010-04-12",Data: "127.0.0.1", TL:"Base"},
 				{ TYPE: "URL1", Date:"2010-04-12",Data: "127.0.0.1", TL:"Base"},
 				{ TYPE: "KB", Date:"2010-04-13",Data: "localhost", TL:"Base"},
 				{ TYPE: "MC", Date:"2010-04-14",Data: "www.google.com", TL:"Base"}]);
-			 
+			 */
 			 //Dynamically generate this in future 
-			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{TYPE:"URL1"}, {TYPE:"URL"}, {TYPE:"Base"}, {TYPE:"KB"}, {TYPE:"MC"}]);
+			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{TYPE:"URL"}, {TYPE:"Base"}, {TYPE:"KB"}, {TYPE:"MC"}]);
 			
 			public function parseDate(s:String):Date{
 			   //Get an array of Strings from the dash-seperated String
-				var a:Array = s.split("-");
+				var a:Array = s.split(" ");
+				var d:Array = a[0].split("-");
+				var b:Array = a[1].split(".");
+				var t:Array = b[0].split(":");
 				//Create the new Date Object, Subtract one from the month property
-				var newDate:Date = new Date(a[0], a[1]-1, a[2]);
+				var newDate:Date = new Date(d[0], d[1]-1, d[2], t[0], t[1], t[2], b[1]);
 				return newDate;
 			}
 
@@ -94,7 +102,7 @@
 					<!-- mx:SeriesSlide id="exp" direction="down" elementOffset="150" / -->
 					
 					<mx:horizontalAxis>
-					 	<mx:DateTimeAxis id="DateAxis" dataUnits="days" autoAdjust="true" parseFunction="parseDate"/>
+					 	<mx:CategoryAxis id="DateAxis" dataProvider="{mygraphAC}" categoryField="date"/>
 			    	</mx:horizontalAxis>
 					
 					<mx:horizontalAxisRenderers>
@@ -114,7 +122,7 @@
 					
 					<!--itemRenderer="TimeLineDateRenderer" -->
 					<mx:series>
-						<mx:PlotSeries id="pdata" dataProvider="{graphAC}" xField="Date" yField="TYPE" click="itemDataClick(event)">
+						<mx:PlotSeries id="pdata" xField="date" yField="TYPE"  dataProvider="{mygraphAC}" click="itemDataClick(event)">
 							<mx:itemRenderer>
 								<fx:Component >
 									<s:Panel title="URL" skinClass="MyDataDisplayPanel" width="1000" height="100">
@@ -124,13 +132,13 @@
 							</mx:itemRenderer>
 						</mx:PlotSeries>
 						
-						<mx:LineSeries dataProvider="{graphAC}" xField="Date" yField="TL" width="1" height="1" itemRenderer="TimeLineDateRenderer" click="itemExpandClickHandler(event)">
+						<mx:LineSeries id="ldata" xField="date" yField="TL"  dataProvider="{mygraphAC}" width="1" height="1" itemRenderer="TimeLineDateRenderer" click="itemExpandClickHandler(event)">
 									   <mx:lineStroke>
 										   <s:SolidColorStroke color="0x000080" weight="2" alpha="1.0" caps="square"/>
 										</mx:lineStroke>
 						</mx:LineSeries>
-						<mx:HLOCSeries xField="Date" openField="TYPE" closeField="TL" lowField="TYPE" 
-							highField="TL" dataProvider="{graphAC}" >    
+						<mx:HLOCSeries id="vdata"  dataProvider="{mygraphAC}" xField="date" openField="TYPE" closeField="TL" lowField="TYPE" 
+							highField="TL" >    
 							<mx:stroke>
 								<s:SolidColorStroke weight="1" color="0xF0F8FF"/>
 							</mx:stroke>

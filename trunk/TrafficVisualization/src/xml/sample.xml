@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+
+<event date="2010-4-7 10:59:19.832"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com</URL></event>
+
+<event date="2010-4-7 10:59:21.922"><TYPE>KB</TYPE><TL>Base</TL><Data>ho</Data></event>
+
+<event date="2010-4-7 10:59:22.428"><TYPE>KB</TYPE><TL>Base</TL><Data>t</Data></event>
+
+<event date="2010-4-7 10:59:23.489"><TYPE>KB</TYPE><TL>Base</TL><Data>d</Data></event>
+
+</events>
