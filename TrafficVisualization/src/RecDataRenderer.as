@@ -10,8 +10,10 @@ package
 	import mx.skins.ProgrammaticSkin;
 	import mx.controls.Label;
 	import mx.core.UIComponent;
+	import mx.charts.LineChart;
 	import mx.charts.PlotChart;
 	import mx.charts.series.items.PlotSeriesItem;
+	import mx.charts.series.items.LineSeriesSegment;
 	
 	public class RecDataRenderer extends UIComponent implements IDataRenderer
 	{
@@ -22,7 +24,7 @@ package
 			super();
 			_label = new Label();
 			addChild(_label);
-			_label.setStyle("color",0xFFFFFF);        
+			_label.setStyle("color",0xFFFFFF);  
 		}
 		private var _chartItem:ChartItem;
 		
@@ -38,6 +40,7 @@ package
 			_chartItem = ChartItem(value);
 			
 			if(_chartItem != null)
+				//Read data from here, using XML reader by reading by index
 				_label.text = PlotSeriesItem(_chartItem).xValue.toString();
 		}
 		
@@ -64,7 +67,7 @@ package
 			g.lineTo(rc.left,rc.top);
 			g.endFill();
 			
-			_label.setActualSize((_label.getExplicitOrMeasuredWidth()* 1000),(_label.getExplicitOrMeasuredHeight()*1000));
+			_label.setActualSize((_label.getExplicitOrMeasuredWidth()),(_label.getExplicitOrMeasuredHeight()));
 			_label.move(unscaledWidth - _label.getExplicitOrMeasuredWidth(),
 				unscaledHeight/2 - _label.getExplicitOrMeasuredHeight()/2);
 		}
