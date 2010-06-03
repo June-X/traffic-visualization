@@ -59,8 +59,8 @@ in accordance with the terms of the license agreement accompanying it.
 	<s:Rect left="0" right="0" bottom="0" top="0" >
 		<s:fill>
 			<s:LinearGradient rotation="90" >
-				<s:GradientEntry color="0xFFFFFF" />
-				<s:GradientEntry color="0x1a1919" />
+				<s:GradientEntry color="0xCCCCCC" />
+				<s:GradientEntry color="0x323232" />
 			</s:LinearGradient>
 		</s:fill>
 	</s:Rect>
