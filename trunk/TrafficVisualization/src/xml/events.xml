@@ -29,7 +29,7 @@
 
 <event date="2010-4-7 10:59:52.751"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
 
-<event date="2010-4-7 10:59:55.174"><TYPE>MC</TYPE><TL>Base</TL><Data>http://www.google.com/movies?hl=en&sort=1&mid=60c7febb4cc3843b&ei=5p28S4fOK8P68AbHrNDQCA&near=blacksburg&view=list#photos2010-4-7</Data></event>
+<event date="2010-4-7 10:59:55.174"><TYPE>MC</TYPE><TL>Base</TL><Data>http://www.google.com/movies</Data></event>
 
 <event date="2010-4-7 10:59:55.191"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
 

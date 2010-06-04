@@ -6,8 +6,8 @@
 		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
 		<mx:SolidColorStroke id="DateAxisStroke" color="#9B9B9B"
 							 weight="8" alpha=".75" caps="none" />
-		<fx:Model id="dataset" source="../xml/sample.xml"/>	
-		<s:ArrayCollection id="mygraphAC" source="{ArrayUtil.toArray(dataset.events)}"/>
+		<fx:Model id="dataset" source="../xml/sample2.xml"/>	
+		<s:ArrayCollection id="mygraphAC" source="{ArrayUtil.toArray(dataset.event)}"/>
 	</fx:Declarations>
 
 	<fx:Script>
@@ -28,7 +28,7 @@
 				{ TYPE: "MC", Date:"2010-04-14",Data: "www.google.com", TL:"Base"}]);
 			 */
 			 //Dynamically generate this in future 
-			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{TYPE:"URL"}, {TYPE:"Base"}, {TYPE:"KB"}, {TYPE:"MC"}]);
+			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{TYPE:"URL"}, {TYPE:"Base"}, {TYPE:"MC"}, {TYPE:"KB"}]);
 			
 			public function parseDate(s:String):Date{
 			   //Get an array of Strings from the dash-seperated String
@@ -40,13 +40,14 @@
 				var newDate:Date = new Date(d[0], d[1]-1, d[2], t[0], t[1], t[2], b[1]);
 				return newDate;
 			}
-
+			
+			/*
 			protected function itemExpandClickHandler(event:MouseEvent):void
 			{
 				// TODO Auto-generated method stub
 				Alert.show("Expand Request");
 			}
-
+			*/
 
 			protected function itemDataClick(event:MouseEvent):void
 			{
@@ -68,7 +69,7 @@
 	
 	<!-- skinClass="MyPanelSkins" -->
 	
-	<s:Panel width="100%" height="568" skinClass="MyPanelSkins"
+	<s:Panel id="myPanel" width="100%" height="568" skinClass="MyPanelSkins"
 			 title="Network Visualization" x="0" y="0">
 		<s:VGroup horizontalCenter="0">
 			<s:HGroup>
@@ -76,7 +77,7 @@
 				<s:Label text="Width:"/>
 				<s:HSlider id="sliderW"
 						   minimum="100"
-						   maximum="600"
+						   maximum="{myPanel.width}"
 						   value="300"
 						   liveDragging="true" />
 				<s:Label text="Height:"/>
@@ -90,8 +91,8 @@
 			
 			<!--Main Display Area xmlns:view="view.*" -->
 			<!--<s:Scroller width="600" height="550" horizontalScrollPolicy="auto" verticalScrollPolicy="auto"> -->
-			<mx:Canvas id="bdr" width="{sliderW.value}" height="{sliderH.value}" borderVisible="false">
-				<mx:LineChart id="myTrafficChart" width="100%" height="100%" showDataTips="false" selectionMode="none" visible="true"  >
+			<mx:Canvas id="bdr" width="{sliderW.value}" height="{sliderH.value}" borderVisible="false" depth="0">
+				<mx:LineChart id="myTrafficChart" width="100%" height="100%" showDataTips="true" selectionMode="none" visible="true"  >
              
 					<mx:backgroundElements>
 						<!--Define the line among plot items and between plot item and line item-->
@@ -102,7 +103,7 @@
 					<!-- mx:SeriesSlide id="exp" direction="down" elementOffset="150" / -->
 					
 					<mx:horizontalAxis>
-					 	<mx:CategoryAxis id="DateAxis" dataProvider="{mygraphAC}" categoryField="date"/>
+					 	<mx:DateTimeAxis id="DateAxis" dataUnits="minutes" labelUnits="minutes" parseFunction="parseDate" />
 			    	</mx:horizontalAxis>
 					
 					<mx:horizontalAxisRenderers>
@@ -122,23 +123,26 @@
 					
 					<!--itemRenderer="TimeLineDateRenderer" -->
 					<mx:series>
-						<mx:PlotSeries id="pdata" xField="date" yField="TYPE"  dataProvider="{mygraphAC}" click="itemDataClick(event)">
+						<mx:PlotSeries id="pdata" xField="date" yField="TYPE"  dataProvider="{mygraphAC}" click="itemDataClick(event)" depth="3">
 							<mx:itemRenderer>
 								<fx:Component >
-									<s:Panel title="URL" skinClass="MyDataDisplayPanel" width="1000" height="100">
-										<s:Label />
+									<s:Panel title="title" skinClass="MyDataDisplayPanel" top="0" right="5">
+										<s:layout>
+											<s:VerticalLayout/>
+										</s:layout>
+										<mx:Text text="event" top="0"/>
 									</s:Panel>
 								</fx:Component>	
 							</mx:itemRenderer>
 						</mx:PlotSeries>
 						
-						<mx:LineSeries id="ldata" xField="date" yField="TL"  dataProvider="{mygraphAC}" width="1" height="1" itemRenderer="TimeLineDateRenderer" click="itemExpandClickHandler(event)">
+						<mx:LineSeries id="ldata" xField="date" yField="TL"  dataProvider="{mygraphAC}" width="1" height="1" itemRenderer="MyTimeLineRenderer" depth="3">
 									   <mx:lineStroke>
 										   <s:SolidColorStroke color="0x000080" weight="2" alpha="1.0" caps="square"/>
-										</mx:lineStroke>
+									   </mx:lineStroke>
 						</mx:LineSeries>
 						<mx:HLOCSeries id="vdata"  dataProvider="{mygraphAC}" xField="date" openField="TYPE" closeField="TL" lowField="TYPE" 
-							highField="TL" >    
+							highField="TL" depth="1">    
 							<mx:stroke>
 								<s:SolidColorStroke weight="1" color="0xF0F8FF"/>
 							</mx:stroke>

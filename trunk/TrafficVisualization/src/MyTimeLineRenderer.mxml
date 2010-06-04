@@ -1,11 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+///////////////////////////////////////////////////////////////////////////////
+// Licensed Materials - Property of IBM
+// 5724-Y31,5724-Z78
+// © Copyright IBM Corporation 2007, 2010. All Rights Reserved.
+//
+// Note to U.S. Government Users Restricted Rights:
+// Use, duplication or disclosure restricted by GSA ADP Schedule
+// Contract with IBM Corp.
+///////////////////////////////////////////////////////////////////////////////
+-->
 <s:Group xmlns:fx="http://ns.adobe.com/mxml/2009" 
 		 xmlns:s="library://ns.adobe.com/flex/spark" 
-		 xmlns:mx="library://ns.adobe.com/flex/mx" width="400" height="300">
-	<s:layout>
-		<s:BasicLayout/>
-	</s:layout>
-	<fx:Declarations>
-		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
-	</fx:Declarations>
+		 xmlns:mx="library://ns.adobe.com/flex/mx" width="22" height="22"
+		 buttonMode="true"
+		 mouseDown="{currentState = 'down'}"
+		 mouseOver="{currentState = event.buttonDown ? 'down' : 'over'}"
+		 mouseOut="{currentState = 'up'}"
+		 creationComplete="{currentState = 'up'}" click="expand_clickHandler(event)">
+	<fx:Script>
+		<![CDATA[
+			import mx.charts.series.PlotSeries;
+			import mx.controls.Alert;
+			
+			
+			[Bindable]
+			public var expanded:Boolean = false;
+
+			protected function expand_clickHandler(event:MouseEvent):void
+			{
+				// TODO update corresponding plot series, add some item into plot series
+				expanded = !expanded;	
+				Alert.show("Expanded Request");
+				event.stopImmediatePropagation();
+			}
+
+		]]>
+	</fx:Script>
+	<s:states>
+		<s:State name="up"/>
+		<s:State name="over"/>
+		<s:State name="down" basedOn="over"/>
+	</s:states>
+	<s:Rect top="0" left="0" right="0" bottom="0">
+		<s:fill>
+			<s:LinearGradient rotation="-45">
+				<s:GradientEntry color="0xFFFFFF" alpha="0.1" alpha.over="0.5" color.down="0xFFFFFF"/>
+				<s:GradientEntry color="0xFFFFFF" alpha="0.1" alpha.over="0.6" color.over="0xFFFFFF"
+								 color.down="0xAAAAAA"/>
+				<s:GradientEntry color="0xFFFFFF" alpha="0.1" alpha.over="0.7" color.over="0xFFFFFF"
+								 color.down="0xCECECE"/>
+			</s:LinearGradient>
+		</s:fill>
+	</s:Rect>
+	<s:Rect top="0" left="0" right="0" bottom="0">
+		<s:stroke>
+			<s:SolidColorStroke color="0xAAAAAA" alpha=".9" scaleMode="none"/>
+		</s:stroke>
+	</s:Rect>
+	<s:Line top="3" bottom="3" horizontalCenter="0" verticalCenter="0"
+			visible="{expanded}">
+		<s:stroke>
+			<s:SolidColorStroke color="0xFFFFFF" color.over="0xFFFFFF" weight="2"
+								color.down="0x222222" pixelHinting="true" caps="square"/>
+		</s:stroke>
+	</s:Line>
+	<s:Line left="3" right="3" horizontalCenter="0" verticalCenter="0">
+		<s:stroke>
+			<s:SolidColorStroke color="0xFFFFFF" color.over="0xFFFFFF" weight="2"
+								color.down="0x222222" pixelHinting="true" caps="square"/>
+		</s:stroke>
+	</s:Line>
 </s:Group>
