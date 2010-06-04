@@ -31,6 +31,17 @@ package
 			return _chartItem;
 		}
 		
+		public function splitDate(s:String):Date{
+			//Get an array of Strings from the dash-seperated String
+			var a:Array = s.split(" ");
+			var d:Array = a[0].split("-");
+			var b:Array = a[1].split(".");
+			var t:Array = b[0].split(":");
+			//Create the new Date Object, Subtract one from the month property
+			var newDate:Date = new Date(null, null,null, t[0], t[1], t[2], null);
+			return newDate;
+		}
+		
 		public function set data(value:Object):void
 		{
 			if (_chartItem == value)
@@ -38,8 +49,11 @@ package
 			_chartItem = ChartItem(value);
 			
 			if(_chartItem != null)
-				_label.text = LineSeriesItem(_chartItem).xValue.toString();
+				_label.text = splitDate(LineSeriesItem(_chartItem).xValue.toString()).toLocaleTimeString();
 		}
+		
+		
+
 		
 		private static const fills:Array = [0xFF0000,0x00FF00,0x0000FF,
 			0x00FFFF,0xFF00FF,0xFFFF00,

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+
+<event date="2010-4-7 10:59:21.922"><TYPE>KB</TYPE><TL>Base</TL><Data>howtotrainyourdragon</Data></event>
+
+<event date="2010-4-7 10:59:31.271"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
+
+
+<event date="2010-4-7 10:59:42.622"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com</URL></event>
+
+<event date="2010-4-7 10:59:47.953"><TYPE>KB</TYPE><TL>Base</TL><Data>alice</Data></event>
+
+<event date="2010-4-7 10:59:52.751"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
+
+<event date="2010-4-7 10:59:55.174"><TYPE>MC</TYPE><TL>Base</TL><Data>http://www.google.com/movies</Data></event>
+
+</events>
