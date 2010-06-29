@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<events>
-
-<event date="2010-4-7 10:59:19.832"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com</URL></event>
-
-<event date="2010-4-7 10:59:21.922"><TYPE>KB</TYPE><TL>Base</TL><Data>ho</Data></event>
-
-<event date="2010-4-7 10:59:22.428"><TYPE>KB</TYPE><TL>Base</TL><Data>t</Data></event>
-
-<event date="2010-4-7 10:59:23.489"><TYPE>KB</TYPE><TL>Base</TL><Data>d</Data></event>
-
-<event date="2010-4-7 10:59:24.845"><TYPE>KB</TYPE><TL>Base</TL><Data>trai</Data></event>
-
-<event date="2010-4-7 10:59:25.658"><TYPE>KB</TYPE><TL>Base</TL><Data>you</Data></event>
-
-<event date="2010-4-7 10:59:31.271"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
-
-<event date="2010-4-7 10:59:40.909"><TYPE>KB</TYPE><TL>Base</TL><Data>dragonwww.</Data></event>
-
-<event date="2010-4-7 10:59:41.928"><TYPE>KB</TYPE><TL>Base</TL><Data>google.</Data></event>
-
-<event date="2010-4-7 10:59:42.629"><TYPE>KB</TYPE><TL>Base</TL><Data>com</Data></event>
-
-<event date="2010-4-7 10:59:42.622"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com</URL></event>
-
-<event date="2010-4-7 10:59:47.953"><TYPE>KB</TYPE><TL>Base</TL><Data>alic</Data></event>
-
-<event date="2010-4-7 10:59:48.452"><TYPE>KB</TYPE><TL>Base</TL><Data>i</Data></event>
-
-<event date="2010-4-7 10:59:52.751"><TYPE>URL</TYPE><TL>Base</TL><IP></IP><URL>www.google.com/movies</URL></event>
-
-<event date="2010-4-7 10:59:55.174"><TYPE>MC</TYPE><TL>Base</TL><Data>http://www.google.com/movies</Data></event>
-
-</events>
+<lists>
+<item date="2010-4-12 21:1:47.761" type="KB" tl="BASE" item="www.google.com" />
+<item date="2010-04-12 21:03:52.116647" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com" />
+<item date="2010-04-12 21:03:52.265255" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/intl/en_ALL/images/logo.gif" />
+<item date="2010-4-12 21:4:24.462" type="KB" tl="BASE" item="www." />
+<item date="2010-4-12 21:4:25.321" type="KB" tl="BASE" item="google." />
+<item date="2010-04-12 21:04:25.2331" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/" />
+<item date="2010-4-12 21:4:26.9" type="KB" tl="BASE" item="com" />
+<item date="2010-04-12 21:04:26.216489" type="URL" tl="BASE" ip="74.125.93.138" domain="google.com" URL="clients1.google.com/generate_204" />
+<item date="2010-04-12 21:04:26.322577" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/csi" />
+<item date="2010-4-12 21:1:48.627" type="KB" tl="BASE" item="google." />
+<item date="2010-4-12 21:1:49.296" type="KB" tl="BASE" item="com" />
+<item date="2010-4-12 21:1:53.934" type="KB" tl="BASE" item="www." />				
+<item date="2010-4-12 21:7:8.551" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />	
+</lists>		
