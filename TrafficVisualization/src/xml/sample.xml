@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lists>
-<item date="2010-4-12 21:1:47.761" type="KB" tl="BASE" item="www.google.com" />
+<item date="2010-4-12 21:1:47.761" type="KB" tl="BASE" keys="www.google.com" />
 <item date="2010-04-12 21:03:52.116647" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com" />
 <item date="2010-04-12 21:03:52.265255" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/intl/en_ALL/images/logo.gif" />
-<item date="2010-4-12 21:4:24.462" type="KB" tl="BASE" item="www." />
-<item date="2010-4-12 21:4:25.321" type="KB" tl="BASE" item="google." />
+<item date="2010-4-12 21:4:24.462" type="KB" tl="BASE" keys="www."/>
+<item date="2010-4-12 21:4:25.321" type="KB" tl="BASE" keys="google." />
 <item date="2010-04-12 21:04:25.2331" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/" />
 <item date="2010-4-12 21:4:26.9" type="KB" tl="BASE" item="com" />
 <item date="2010-04-12 21:04:26.216489" type="URL" tl="BASE" ip="74.125.93.138" domain="google.com" URL="clients1.google.com/generate_204" />
 <item date="2010-04-12 21:04:26.322577" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/csi" />
-<item date="2010-4-12 21:1:48.627" type="KB" tl="BASE" item="google." />
-<item date="2010-4-12 21:1:49.296" type="KB" tl="BASE" item="com" />
-<item date="2010-4-12 21:1:53.934" type="KB" tl="BASE" item="www." />				
+<item date="2010-4-12 21:1:48.627" type="KB" tl="BASE" keys="google." />
+<item date="2010-4-12 21:1:49.296" type="KB" tl="BASE" keys="com" />
+<item date="2010-4-12 21:1:53.934" type="KB" tl="BASE" keys="www." />				
 <item date="2010-4-12 21:7:8.551" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />	
 </lists>		
