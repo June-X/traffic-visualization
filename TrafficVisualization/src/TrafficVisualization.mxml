@@ -4,33 +4,11 @@
 					   xmlns:mx="library://ns.adobe.com/flex/mx" xmlns:View="View.*" xmlns:local="*" >
 	<fx:Declarations>
 		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
-		<mx:SolidColorStroke id="DateAxisStroke" color="#9B9B9B"
-							 weight="8" alpha=".75" caps="none" />
-		
-		<!--fx:Model id="dataset" source="../xml/events.xml"/-->	
-		<!--s:ArrayCollection id="mygraphAC" source="{ArrayUtil.toArray(dataset.event)}" /-->
-		
-		<!--fx:XML id="mydata" xmlns="">
-			<events>
-				<event date="2010-4-12 21:1:47.761" type="KB" tl="BASE" data="www.google.com" />
-				<event date="2010-04-12 21:03:52.116647" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com" />
-				<event date="2010-04-12 21:03:52.265255" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/intl/en_ALL/images/logo.gif" />
-				<event date="2010-4-12 21:4:24.462" type="KB" tl="BASE" data="www." />
-				<event date="2010-4-12 21:4:25.321" type="KB" tl="BASE" data="google." />
-				<event date="2010-04-12 21:04:25.2331" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/" />
-				<event date="2010-4-12 21:4:26.9" type="KB" tl="BASE" data="com" />
-				<event date="2010-04-12 21:04:26.216489" type="URL" tl="BASE" ip="74.125.93.138" domain="google.com" URL="clients1.google.com/generate_204" />
-				<event date="2010-04-12 21:04:26.322577" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/csi" />
-				<event date="2010-4-12 21:1:48.627" type="KB" tl="BASE" data="google." />
-				<event date="2010-4-12 21:1:49.296" type="KB" tl="BASE" data="com" />
-				<event date="2010-4-12 21:1:53.934" type="KB" tl="BASE" data="www." />				
-				<event date="2010-4-12 21:7:8.551" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />	
-			</events>		
-		</fx:XML-->
+		<mx:SolidColorStroke id="DateAxisStroke" color="0x000000"
+							 weight="8" alpha=".75" caps="none" />		
 		<fx:XML id="mydata" source="../xml/sample.xml" />
-		<!--s:HTTPService id="dataxml" url="xml/sample.xml" result="resultHandler(event)" /-->
-		<!--s:ArrayCollection id="mydataAC" source="{ArrayUtil.toArray(mydata.event)}" /-->
-		<mx:SolidColorStroke id="scrollerStroke" weight="8" color="0x884422" alpha="0.8" caps="round" />
+	
+		<mx:SolidColorStroke id="scrollerStroke" weight="8" color="0x000000" alpha="0.6" caps="round" />
 	</fx:Declarations>
 
 	<fx:Script>
@@ -86,6 +64,7 @@
 				});
 				return marker;
 			}*/
+			/*
 			[Bindable]private var mygraphAC:ArrayCollection = new ArrayCollection([
 				{ type: "KB", date:"2010-4-12 21:1:47.761",data: "www.google.com", tl:"BASE"},
 				{ type: "URL", date:"2010-04-12 21:03:52.116647",domain: "google.com", tl:"BASE", ip:"66.249.81.104", URL:"www.google.com"},
@@ -102,18 +81,16 @@
 				{ type: "MC", date:"2010-4-12 21:7:8.551",domain: "vt.edu", tl:"BASE", URL:"webmail.cs.vt.edu"}]);
 			 
 			 //Dynamically generate this in future 
-			//private var XML_PATH:String = "../xml/events.xml";
+			//private var XML_PATH:String = "../xml/sample.xml";
 			//[Bindable]private var mydata:ArrayCollection;
 			//[Bindable]private var mygraphAC:ArrayCollection;
-			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{type:"URL"}, {type:"BASE"}, {type:"MC"}, {type:"KB"}]);
-			
-			/*
+			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{type:"MC"}, {type:"KB"}, {type:"BASE"}, {type:"URL"} ]);
 			private function resultHandler(event:ResultEvent):void
 			{
 				mydata = event.result.list.item as ArrayCollection;
 			}*/
 			
-			
+			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{type:"MC"}, {type:"KB"}, {type:"BASE"}, {type:"URL"} ]);
 			public function parseDate(s:String):Date{
 			   //Get an array of Strings from the dash-seperated String
 				var a:Array = s.split(" ");
@@ -144,36 +121,6 @@
 				Alert.show("Data Click");
 			}
 
-			/*
-			private function convertXMLTOArrayCollection(file:String):ArrayCollection
-			{
-				var xml:XMLDocument = new XMLDocument(file);
-				
-				var decoder:SimpleXMLDecoder = new SimpleXMLDecoder();
-				var events:Object = decoder.decodeXML(xml);
-				var array:Array = ArrayUtil.toArray(events.event);
-				
-				return new ArrayCollection(array);
-			}
-			*/
-			/*
-			protected function init():void
-			{
-				// TODO Auto-generated method stub
-				loadXML();
-			}
-			
-			private function loadXML():void
-			{
-				
-				var dataxml:XMLDocument = new XMLDocument(XML_PATH);
-				
-				var decoder:SimpleXMLDecoder = new SimpleXMLDecoder(true);
-				var data:Object = decoder.decodeXML(dataxml);
-				
-			 	mydataAC = new ArrayCollection(Array(data.root.list.source.event));
-				
-			}*/
 			
 			
 
@@ -188,115 +135,127 @@
 	</s:states>
 	
 	<!-- skinClass="MyPanelSkins" -->
-	
-	<s:Panel id="myPanel" width="100%" height="568" skinClass="MyPanelSkins"
-			 title="Network Visualization" x="0" y="0">
-		<s:VGroup horizontalCenter="0">
-			<s:HGroup>
-				<!--Canvas Size Controller, Move the cursor can change the size of components in the convas -->
-				<s:Label text="Width:"/>
-				<s:HSlider id="sliderW"
-						   minimum="100"
-						   maximum="{myPanel.width}"
-						   value="300"
-						   liveDragging="true" />
-				<s:Label text="Height:"/>
-				<s:HSlider id="sliderH"
-						   minimum="100"
-						   maximum="550"
-						   value="200"
-						   liveDragging="true" />
-			</s:HGroup>
-		
-			
-			<!--Main Display Area xmlns:view="view.*" -->
-			<!--<s:Scroller width="600" height="550" horizontalScrollPolicy="auto" verticalScrollPolicy="auto"> -->
-			<mx:Canvas id="bdr" width="{sliderW.value}" height="{sliderH.value}" borderVisible="false" depth="0">
-				<mx:LineChart id="myTrafficChart" width="100%" height="100%" showDataTips="false" selectionMode="none" visible="true" dataProvider="{mydata.children()}">
-             
-					<mx:backgroundElements>
-						<!--Define the line among plot items and between plot item and line item-->
-						<mx:GridLines visible="false"/>
-					</mx:backgroundElements>
-					
-					
-					<!--parseFunction="parseDate" mx:SeriesSlide  id="exp" direction="down" elementOffset="150" dataUnits="seconds" dataInterval="0.1" parseFunction="parseDate" / -->
-					
-					<mx:horizontalAxis>
-					 	<mx:DateTimeAxis id="DateAxis" dataUnits="seconds" dataInterval="1" parseFunction="parseDate"  />
-			    	</mx:horizontalAxis>
-					
-					<mx:horizontalAxisRenderers>
-						<local:ScrollableAxisRenderer id="hscrollAxisRenderer" axis="{DateAxis}" tickPlacement="none"  
-													 placement="bottom" showLine="true" axisStroke="{scrollerStroke}" />
-					</mx:horizontalAxisRenderers>
-					
-					<!--mx:horizontalAxisRenderers>
+	<s:VGroup width="100%" height="100%">
+		<s:Panel id="myPanel" width="100%" height="70%" skinClass="MyPanelSkins"
+				 title="Network Visualization" x="0" y="0">
+			<s:VGroup horizontalCenter="0">
+				<s:HGroup>
+					<!--Canvas Size Controller, Move the cursor can change the size of components in the convas -->
+					<s:Label text="Width:"/>
+					<s:HSlider id="sliderW"
+							   minimum="100"
+							   maximum="{myPanel.width}"
+							   value="300"
+							   liveDragging="true" />
+					<s:Label text="Height:"/>
+					<s:HSlider id="sliderH"
+							   minimum="100"
+							   maximum="550"
+							   value="200"
+							   liveDragging="true" />
+				</s:HGroup>
+				
+				
+				<!--Main Display Area xmlns:view="view.*" -->
+				<!--<s:Scroller width="600" height="550" horizontalScrollPolicy="auto" verticalScrollPolicy="auto"> -->
+				<mx:Canvas id="bdr" width="{sliderW.value}" height="{sliderH.value}" borderVisible="false" depth="0">
+					<mx:LineChart id="myTrafficChart" width="100%" height="100%" showDataTips="false" selectionMode="none" visible="true">
+						<mx:dataProvider>
+							<mx:XMLListCollection source="{mydata.children()}" />
+						</mx:dataProvider>
+						<mx:backgroundElements>
+							<!--Define the line among plot items and between plot item and line item-->
+							<mx:GridLines visible="false"/>
+						</mx:backgroundElements>
+						
+						
+						<!--parseFunction="parseDate" mx:SeriesSlide  id="exp" direction="down" elementOffset="150" dataUnits="seconds" dataInterval="0.1" parseFunction="parseDate" / -->
+						
+						<mx:horizontalAxis>
+							<mx:DateTimeAxis id="DateAxis" dataUnits="seconds" dataInterval="1" parseFunction="parseDate"  />
+						</mx:horizontalAxis>
+						
+						<mx:horizontalAxisRenderers>
+							<local:ScrollableAxisRenderer id="hscrollAxisRenderer" axis="{DateAxis}" tickPlacement="none"  
+														  placement="bottom" showLine="true" axisStroke="{scrollerStroke}" />
+						</mx:horizontalAxisRenderers>
+						
+						<!--mx:horizontalAxisRenderers>
 						<:AxisRenderer axis="{DateAxis}" showLabels="false" showLine="false" tickPlacement="none" minorTickPlacement="none">
-							<mx:axisStroke>{DateAxisStroke}</mx:axisStroke>
+						<mx:axisStroke>{DateAxisStroke}</mx:axisStroke>
 						</mx:AxisRenderer>
-					</mx:horizontalAxisRenderers -->
-					
-			    	<mx:verticalAxis>
-						<mx:CategoryAxis id="TypeAxis" dataProvider="{xcategoryAC}" categoryField="type" />
-			    	</mx:verticalAxis>
+						</mx:horizontalAxisRenderers -->
 						
-					<!--mx:verticalAxisRenderers>
+						<mx:verticalAxis>
+							<mx:CategoryAxis id="TypeAxis" dataProvider="{xcategoryAC}" categoryField="type" />
+						</mx:verticalAxis>
+						
+						<!--mx:verticalAxisRenderers>
 						<local:ScrollableAxisRenderer id="vscrollAxisRenderer" axis="{TypeAxis}" tickPlacement="none"  
-													 labelGap="20"  maxVisibleColumns="8" placement="left" />
-					</mx:verticalAxisRenderers -->
- 
-					<mx:verticalAxisRenderers>
-					 	<local:ScrollableAxisRenderer id="vscrollAxisRenderer" axis="{TypeAxis}" showLabels="false" showLine="false"
-						  	tickPlacement="none" minorTickPlacement="none"/>
-					</mx:verticalAxisRenderers>
-					
-					<!--itemRenderer="MyDataRenderer" -->
-					<mx:series>
-						<mx:PlotSeries id="pdata" dataProvider="{mydata.children()}" xField="@date" yField="@type" itemRenderer="MyDataRenderer">
-							<!--mx:itemRenderer>
-								<fx:Component >
-									<s:Panel title="data" skinClass="MyPanelSkins" top="0" right="5">
-										<s:layout>
-											<s:VerticalLayout/>
-										</s:layout>
-										<mx:Text text="event" top="0"/>
-									</s:Panel>
-								</fx:Component>	
-							</mx:itemRenderer-->
-						</mx:PlotSeries>
+						labelGap="20"  maxVisibleColumns="8" placement="left" />
+						</mx:verticalAxisRenderers -->
 						
-						<mx:LineSeries id="ldata" focusRect="true" dataProvider="{mydata.children()}" xField="@date" yField="@tl" width="1" height="1" itemRenderer="MyTimeLineRenderer">
-									   <mx:lineStroke>
-										   <s:SolidColorStroke color="0x000080" weight="2" alpha="1.0" caps="square"/>
-									   </mx:lineStroke>
-						</mx:LineSeries>
-						<mx:HLOCSeries id="vdata" dataProvider="{mydata.children()}" xField="@date" openField="@type" closeField="@tl" lowField="@type" 
-							highField="@tl" >    
-							<mx:stroke>
-								<s:SolidColorStroke weight="1" color="0xF0F8FF"/>
-							</mx:stroke>
-						</mx:HLOCSeries>
-					</mx:series>
-					
-					<!--mx:Legend dataProvider="{mydata}" color = "0x323232" /-->
-					
-					
-				</mx:LineChart>
-			</mx:Canvas>
-			<!--</s:Scroller> -->
-
-			
-			<!--Detail Information of UserInput or URL  -->
-			<s:Panel width="100%" height="100%"
-					 skinClass="MyPanelSkins"
-					 title="URL Location on Google Map" x="0" y="0">
+						<mx:verticalAxisRenderers>
+							<local:ScrollableAxisRenderer id="vscrollAxisRenderer" axis="{TypeAxis}" showLabels="false" showLine="false"
+														  tickPlacement="none" minorTickPlacement="none"/>
+						</mx:verticalAxisRenderers>
+						
+						<!--itemRenderer="MyDataRenderer" -->
+						<mx:series>
+							<mx:PlotSeries id="pdata" xField="@date" yField="@type" itemRenderer="MyDataRenderer">
+								<mx:dataProvider>
+									<mx:XMLListCollection source="{mydata.children()}" />
+								</mx:dataProvider>
+								<!--mx:itemRenderer>
+								<fx:Component >
+								<s:Panel title="data" skinClass="MyPanelSkins" top="0" right="5">
+								<s:layout>
+								<s:VerticalLayout/>
+								</s:layout>
+								<mx:Text text="event" top="0"/>
+								</s:Panel>
+								</fx:Component>	
+								</mx:itemRenderer-->
+							</mx:PlotSeries>
+							
+							<mx:LineSeries id="ldata" focusRect="true" xField="@date" yField="@tl" width="1" height="1" itemRenderer="MyTimeLineRenderer">
+								<mx:lineStroke>
+									<s:SolidColorStroke color="0x000000" weight="8" alpha="0.6" caps="square"/>
+								</mx:lineStroke>
+								<mx:dataProvider>
+									<mx:XMLListCollection source="{mydata.children()}" />
+								</mx:dataProvider>
+							</mx:LineSeries>
+							<mx:HLOCSeries id="vdata" xField="@date" openField="@type" closeField="@tl" lowField="@type" 
+										   highField="@tl" > 
+								<mx:dataProvider>
+									<mx:XMLListCollection source="{mydata.children()}" />
+								</mx:dataProvider>
+								<mx:stroke>
+									<s:SolidColorStroke weight="1" color="0xF0F8FF"/>
+								</mx:stroke>
+							</mx:HLOCSeries>
+						</mx:series>
+						
+						<!--mx:Legend dataProvider="{mydata}" color = "0x323232" /-->
+						
+						
+					</mx:LineChart>
+				</mx:Canvas>
+				<!--</s:Scroller> -->
+				
+			</s:VGroup>
+		</s:Panel>
+		
+		<!--Detail Information of UserInput or URL  -->
+		<s:Panel width="100%" height="30%"
+				 skinClass="MyPanelSkins"
+				 title="URL Location on Google Map" x="0" y="0">
 			<!--maps:Map id="map" url="127.0.0.1" key="ABQIAAAAMSfKWynJzaOyrYA-3vN_ahQMXmws070rUph23y6VVuMampI-OBSH02ZbgEbN8CBmmpCnTZP4OyshCw" mapevent_mapready="onMapReady(event)" /-->
-			</s:Panel>
-			
-			
-		</s:VGroup>
-	</s:Panel>
+		</s:Panel>
+		
+	</s:VGroup>
+	
 	
 	
 	

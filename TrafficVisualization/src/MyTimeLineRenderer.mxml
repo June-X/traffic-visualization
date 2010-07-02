@@ -62,7 +62,7 @@
 			visible="{expanded}">
 		<s:stroke>
 			<s:SolidColorStroke color="0xFFFFFF" color.over="0xFFFFFF" weight="2"
-								color.down="0x222222" pixelHinting="true" caps="square"/>
+								color.down="0x9178FF" pixelHinting="true" caps="square"/>
 		</s:stroke>
 	</s:Line>
 	<s:Line left="3" right="3" horizontalCenter="0" verticalCenter="0">
