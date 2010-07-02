@@ -59,17 +59,20 @@ in accordance with the terms of the license agreement accompanying it.
 	<s:Rect left="0" right="0" bottom="0" top="0" >
 		<s:fill>
 			<s:LinearGradient rotation="90" >
-				<s:GradientEntry color="0xCCCCCC" />
-				<s:GradientEntry color="0x323232" />
+				<s:GradientEntry color="0xFFFEFE" />
+				<!--s:GradientEntry color="0xCCCCCC" /-->
+				<s:GradientEntry color="0xFEFFFE" /> 
+				<s:GradientEntry color="0xFFFFFF" />
+				<!--s:GradientEntry color="0x323232" /-->
 			</s:LinearGradient>
 		</s:fill>
 	</s:Rect>
 	<!-- title bar fill -->
-	<s:Rect left="0" right="0" top="0" height="30">
+	<s:Rect left="0" right="0" top="0" height="30" alpha="0.8">
 		<s:fill>
 			<s:LinearGradient rotation="90">
-				<s:GradientEntry color="0x000000" />
-				<s:GradientEntry color="0xC0C0C0" />
+				<s:GradientEntry color="0x666666" />
+				<s:GradientEntry color="0x999999" />
 			</s:LinearGradient>
 		</s:fill>
 	</s:Rect>
@@ -78,9 +81,9 @@ in accordance with the terms of the license agreement accompanying it.
 	<!-- text layer -->
 	<!--- Defines the appearance of the PanelSkin class's title bar. -->
 	<s:Label id="titleDisplay" lineBreak="explicit"
-			 right="4" top="2" height="30"
-			 verticalAlign="middle" fontWeight="bold" 
-			 color="0xE2E2E2">
+			 right="4" top="2" height="30" horizontalCenter="middle"
+			 verticalAlign="middle" fontWeight="bold" fontSize="16"
+			 color="0x000000">
 	</s:Label>
 	
 	<!--
