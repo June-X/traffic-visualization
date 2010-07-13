@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+@langversion 3.0
+@playerversion Flash 10
+@playerversion AIR 1.5
+@productversion Flex 4
+-->
+<s1:ItemRenderer xmlns:fx="http://ns.adobe.com/mxml/2009" 
+				  xmlns:s1="library://ns.adobe.com/flex/spark"
+				  xmlns:s="library://ns.adobe.com/flex/mx" 
+				   buttonMode="true" mouseOver="{currentState= 'hovered'}"
+				mouseOut="{currentState = 'normal'}"
+				creationComplete="{currentState = 'normal'}" 
+				xmlns:d="MyDataRenderSkin">
+	
+	<!-- host component -->
+	<fx:Metadata>
+		<![CDATA[ 
+		/** 
+		* @copy spark.skins.spark.ApplicationSkin#hostComponent
+		*/
+		//[HostComponent("spark.components.Button")]
+		]]>
+	</fx:Metadata>
+	
+		
+	<fx:Style>
+		@namespace s1 "library://ns.adobe.com/flex/spark";
+		@namespace s "library://ns.adobe.com/flex/mx";
+		@namespace d "MyDataRenderSkin";
+		
+		.URLStyle {
+			skinClass: ClassReference("URLRendererSkin");
+		}
+		
+		.MouseStyle {
+			skinClass: ClassReference("MouseEventRendererSkin");
+		}
+		
+		.KeyboardStyle {
+			skinClass: ClassReference("KeyboardEventRendererSkin");
+		}
+	</fx:Style>
+		
+
+
+	<fx:Script>
+		<![CDATA[
+			
+			import flashx.textLayout.tlf_internal;
+			
+			import mx.collections.XMLListCollection;
+			import mx.controls.Alert;
+			[Bindable]
+			public var expand:Boolean = false;
+			[Bindable]
+			public var myData:String;
+			
+			/*
+			protected function image1_clickHandler(event:MouseEvent):void{
+				expand = true;
+				Alert.show("Expand!");
+				//expand the data, and show it on the google map
+			}*/
+			
+			override public function set data(value:Object):void{
+				super.data = value;
+				//var d:XMLListCollection = new XMLListCollection(new XMLList(value));
+				
+				if(value == null)
+					return;
+				
+				//set the label's value
+				dateDisplay.text = data.item.@date;
+				if(data.item.@type == 'KB'){
+					dataDisplay.text = data.item.@keys;
+					icon.source="../assets/Keyborad.png";
+					type.text = "Key Press";
+					mRec.styleName="KeyboardStyle";
+					hoveredDisplay.text = data.item.@keys;
+				}else{
+					if(data.item.@type == 'MC'){
+						icon.source="../assets/Mouse.png";
+						dataDisplay.text = data.item.@domain;
+						type.text = "Mouse Click";
+						mRec.styleName="MouseStyle";
+						hoveredDisplay.text = data.item.@domain;
+					}else{
+						dataDisplay.text = data.item.@domain;
+						mRec.styleName="URLStyle";
+						hoveredDisplay.text = data.item.@domain;
+						//rf1.color="0xFFFFFF";
+						//rf2.color="0xe9e9e9";
+					}
+				}
+			}
+		]]>
+	</fx:Script>
+
+
+	<s1:transitions>
+		<s1:Transition fromState="normal" toState="hovered" >
+			<s1:Parallel duration="500" target="{this}">
+				<s:Move />
+				<s:Resize />
+			</s1:Parallel> 
+		</s1:Transition>
+		<s1:Transition fromState="hovered" toState="normal">
+			<s1:Sequence>
+				<!-- avoid laying out during animation -->
+				<s1:SetAction property="includeInLayout" value="false" target="{this}"/>
+				<s1:Parallel duration="500" target="{this}">
+					<s:Move />
+					<s:Resize />
+				</s1:Parallel>
+				<!-- put back layout -->
+				<s1:SetAction property="includeInLayout" value="true" target="{this}"/>        
+			</s1:Sequence>
+			
+		</s1:Transition>
+	</s1:transitions>
+	
+	<s1:states>
+		<s:State name="normal" />
+		<s:State name="hovered" />
+	</s1:states>
+	
+	
+	<s1:SkinnableContainer id="mRec" visible.hovered="true" width.normal="80" width.hovered="240"  height.normal="60" height.hovered="180" horizontalCenter="0" verticalCenter="0" >	
+		<s1:VGroup top="0" left="0" right="0" bottom="0" paddingBottom="5" paddingLeft="5" paddingRight="5" paddingTop="5"
+				   paddingBottom.hovered="205" paddingLeft.hovered="455" paddingRight.hovered="5" paddingTop.hovered="5" top.hovered="0" left.hovered="0" bottom.hovered="-140" right.hovered="-373">
+			<!--Display icon and type of this renderer -->
+			<s1:HGroup id="hlg" width="100%" includeInLayout="false" visible.hovered="true">
+				<s:Image id="icon" width="40%" visible="true"/>
+				<s1:Label id="type" width="60%" fontWeight="bold" visible="true"/>				
+			</s1:HGroup> 
+			<!-- display the date -->
+			<s1:Label id="dateDisplay"  color="0x000000" visible.normal="true" visible.hovered="false" fontWeight="normal"  width.normal="65"/>
+			<!-- display the data -->
+			<s1:Label id="dataDisplay"  visible.normal="true" visible.hovered="false" fontWeight="bold"  width.normal="69"/>
+			<!--/s1:VGroup-->
+			
+			<!-- when expanded display -->
+			<s1:Label id="hoveredDisplay"  visible.normal="false" visible.hovered="true" 
+					  fontSize="30" />
+		</s1:VGroup>
+		
+	</s1:SkinnableContainer>
+	
+	
+
+	
+</s1:ItemRenderer>
