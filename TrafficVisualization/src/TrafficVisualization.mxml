@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <s:WindowedApplication xmlns:fx="http://ns.adobe.com/mxml/2009" 
 					   xmlns:s="library://ns.adobe.com/flex/spark" 
-					   xmlns:mx="library://ns.adobe.com/flex/mx" xmlns:View="View.*" xmlns:local="*" >
+					   xmlns:mx="library://ns.adobe.com/flex/mx" xmlns:View="View.*" xmlns:local="*" xmlns:maps="com.google.maps.*" >
 	<fx:Declarations>
 		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
 		<mx:SolidColorStroke id="DateAxisStroke" color="0x000000"
@@ -13,14 +13,19 @@
 
 	<fx:Script>
 		<![CDATA[
+			import com.google.maps.InfoWindowOptions;
 			import com.google.maps.LatLng;
 			import com.google.maps.LatLngBounds;
 			import com.google.maps.Map;
 			import com.google.maps.MapEvent;
 			import com.google.maps.MapMouseEvent;
 			import com.google.maps.MapType;
+			import com.google.maps.controls.MapTypeControl;
+			import com.google.maps.controls.PositionControl;
+			import com.google.maps.controls.ZoomControl;
 			import com.google.maps.interfaces.IPane;
 			import com.google.maps.overlays.Marker;
+			import com.google.maps.services.*;
 			
 			import flash.geom.ColorTransform;
 			
@@ -31,16 +36,123 @@
 			import mx.collections.XMLListCollection;
 			import mx.controls.Alert;
 			import mx.events.FlexEvent;
+			import mx.rpc.AsyncToken;
 			import mx.rpc.events.ResultEvent;
 			import mx.rpc.xml.SimpleXMLDecoder;
 			import mx.utils.ArrayUtil;
+		
+			
+			//web service to get location information from IP Address
+			private const hostIpUrl:String = "http://api.hostip.info/get_html.php";
+			private const reTryDelay:uint = 1000;
+			private const reTryLimit:uint = 3;
+			
+			[Bindable]private var _clientIpAddr:String = "";
+			[Bindable]private var _currentLat:String = "";
+			[Bindable]private var _currentLng:String = "";
+			
+			private var _markers:Array;
 			
 			
-			/*
-			private function onMapReady(event:Event):void {
-				map.setCenter(new LatLng(37.4419, -122.1419), 13, MapType.NORMAL_MAP_TYPE);
+			private function findLocation(ip:String):void
+			{
 				
-				// Add 5 markers to the map at random locations
+				
+				var xml:XML = XML(ip);
+				
+				var def:Namespace = new Namespace("http://www.hostip.info/api");
+				var gml:Namespace = new Namespace("http://www.opengis.net/gml");
+				
+				
+				
+				// handling namespace of xml
+				var featureMember:XML = xml.gml::featureMember[0];
+				var hostip:XML = featureMember.def::Hostip[0];
+				var locationName:String = hostip.gml::name[0].toString();
+				var country:String = hostip.def::countryAbbrev[0].toString();
+				if(country == "XX")
+				{
+					Alert.show("It couldn't find the location for ip address : " + ip + ".","Information");
+					if(!_currentLat.length || _currentLat == "0")
+					{
+						// set default location to Tokyo
+						_currentLat = "35.69299463209883";
+						_currentLng = "139.70626831054688";
+						//moveGMapLocation(Number(_currentLat), Number(_currentLng));
+					}
+					return;
+				}
+				
+				var ipLocation:XML = featureMember.def::Hostip.def::ipLocation[0];
+				var pointProperty:XML = ipLocation.gml::PointProperty[0];
+				var point:XML = pointProperty.gml::Point[0];
+				var coordinates:String = point.gml::coordinates.toString();
+				
+				/*
+				if(e.token.hasOwnProperty("isClientIp") && e.token.isClientIp)
+				{
+					_clientCountry = country;
+				}*/
+				
+				var ll:Array = coordinates.split(",");
+				_currentLat = ll[1];
+				_currentLng = ll[0];
+				
+				var title:String = "The location of " + ip;
+				var content:String = locationName + ", " + country + "\n " +
+					"Latitude : " + _currentLat + "\n" +
+					"Longitude : " + _currentLng;
+				
+				moveGMapLocation(Number(_currentLat), Number(_currentLng));
+				
+				addLocationMarker(title, content, Number(_currentLat), Number(_currentLng));
+			
+			}
+			
+			private function moveGMapLocation(lat:Number, lng:Number):void
+			{
+				if(!gmap.isLoaded())
+				{
+					return;
+				}
+				
+				var latLng:LatLng = new LatLng(lat, lng);
+				gmap.setCenter(latLng);
+			}
+			
+			
+			private function getLatLngFromIpAddr(ip:String, isClientIp:Boolean = false):void
+			{
+				if(!ip.length)
+				{
+					return;
+				}
+				
+				//for debug
+				if(ip == "127.0.0.1")
+				{
+					//local host
+					_clientIpAddr = "198.82.2.198";
+					ip = _clientIpAddr;
+				}
+				
+				findLocation(ip);
+			}
+			
+			
+			
+			
+			private function onMapReady(event:Event):void {
+				
+				//TODO: find a way to automatically know client location
+				gmap.setCenter(new LatLng(Number("39.1915"
+					), Number("-77.3238")), 13, MapType.NORMAL_MAP_TYPE);
+				gmap.addControl(new ZoomControl());
+				gmap.addControl(new PositionControl());
+				gmap.addControl(new MapTypeControl());
+				gmap.openInfoWindow(gmap.getCenter(), new InfoWindowOptions({title:"Your Location"}));
+				
+				/* Add 5 markers to the map at random locations
 				var bounds:LatLngBounds = map.getLatLngBounds();
 				var southWest:LatLng = bounds.getSouthWest();
 				var northEast:LatLng = bounds.getNorthEast();
@@ -50,20 +162,50 @@
 					var latlng:LatLng = new LatLng(southWest.lat() + latSpan * Math.random(),
 						southWest.lng() + lngSpan * Math.random());
 					map.addOverlay(createMarker(latlng, i + 1));
-				}
+				}*/
 			}
 			
-			private function createMarker(latlng:LatLng, number:Number):Marker {
-				var marker:Marker = new Marker(latlng);
-				//var customOverlay:TooltipOverlay = new TooltipOverlay(latlng, "Marker #" + number);
-				marker.addEventListener(MapMouseEvent.ROLL_OVER, function(e:MapMouseEvent):void {
-					//map.addOverlay(customOverlay);
-				});
-				marker.addEventListener(MapMouseEvent.ROLL_OUT, function(e:MapMouseEvent):void {
-					//map.removeOverlay(customOverlay);
-				});
-				return marker;
-			}*/
+			private function addLocationMarker(title:String, content:String, lat:Number, lng:Number):void
+			{
+				var latLng:LatLng = new LatLng(lat, lng);
+				var marker:Marker = new Marker(latLng);
+				var titleFormat:TextFormat = new TextFormat();
+				titleFormat.bold = true;
+				titleFormat.color = 0x267BE3;
+				titleFormat.size = 14;
+				
+				var infoArgs:Object = new Object();
+				infoArgs.title = title;
+				infoArgs.titleFormat = titleFormat;
+				infoArgs.content = content;
+				infoArgs.pointOffset = new Point(-20, -20);
+				infoArgs.cornerRadius = 10;
+				infoArgs.hasShadow = false;
+				var info:InfoWindowOptions = new InfoWindowOptions(infoArgs);
+				marker.addEventListener(MapMouseEvent.CLICK,
+					function(e:MapMouseEvent):void
+					{
+						gmap.openInfoWindow(latLng, info);
+					}
+				);
+				gmap.openInfoWindow(latLng, info);
+				gmap.addOverlay(marker);
+				
+				
+				//save all the markers has showed in the gmap
+				_markers.push(marker);
+			}
+			
+			private function clearMarkers():void
+			{
+				for each(var marker:Marker in _markers)
+				{
+					gmap.removeOverlay(marker);
+				}
+				
+				gmap.closeInfoWindow();
+			}
+			
 			/*
 			[Bindable]private var mygraphAC:ArrayCollection = new ArrayCollection([
 				{ type: "KB", date:"2010-4-12 21:1:47.761",data: "www.google.com", tl:"BASE"},
@@ -91,6 +233,7 @@
 			}*/
 			
 			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{type:"MC"}, {type:"KB"}, {type:"BASE"}, {type:"URL"} ]);
+			
 			public function parseDate(s:String):Date{
 			   //Get an array of Strings from the dash-seperated String
 				var a:Array = s.split(" ");
@@ -106,14 +249,7 @@
 				return newDate;
 			}
 			
-			/*
-			protected function itemExpandClickHandler(event:MouseEvent):void
-			{
-				// TODO Auto-generated method stub
-				Alert.show("Expand Request");
-			}
-			*/
-
+			
 			protected function itemDataClick(event:MouseEvent):void
 			{
 				// TODO send data to a specified server
@@ -123,6 +259,21 @@
 
 			
 			
+
+
+			protected function ldata_focusInHandler(event:FocusEvent):void
+			{
+				// Add the Marker
+				Alert.show("Focus In");
+				
+			}
+
+
+			protected function ldata_focusOutHandler(event:FocusEvent):void
+			{
+				// Remove all the marker
+				Alert.show("Focus Out");
+			}
 
 		]]>
 	</fx:Script>
@@ -136,7 +287,7 @@
 	
 	<!-- skinClass="MyPanelSkins" -->
 	<s:VGroup width="100%" height="100%">
-		<s:Panel id="myPanel" width="100%" height="70%" skinClass="MyPanelSkins"
+		<s:Panel id="myPanel" width="100%" height="50%" skinClass="MyPanelSkins"
 				 title="Network Visualization" x="0" y="0">
 			<s:VGroup horizontalCenter="0">
 				<s:HGroup>
@@ -172,7 +323,7 @@
 						<!--parseFunction="parseDate" mx:SeriesSlide  id="exp" direction="down" elementOffset="150" dataUnits="seconds" dataInterval="0.1" parseFunction="parseDate" / -->
 						
 						<mx:horizontalAxis>
-							<mx:DateTimeAxis id="DateAxis" dataUnits="seconds" dataInterval="1" parseFunction="parseDate"  />
+							<mx:DateTimeAxis id="DateAxis" dataUnits="seconds" displayLocalTime="true" dataInterval="1" parseFunction="parseDate"  />
 						</mx:horizontalAxis>
 						
 						<mx:horizontalAxisRenderers>
@@ -218,7 +369,7 @@
 								</mx:itemRenderer-->
 							</mx:PlotSeries>
 							
-							<mx:LineSeries id="ldata" focusRect="true" xField="@date" yField="@tl" width="1" height="1" itemRenderer="MyTimeLineRenderer">
+							<mx:LineSeries id="ldata" focusRect="true" xField="@date" yField="@tl" width="1" height="1" itemRenderer="MyTimeLineRenderer" focusIn="ldata_focusInHandler(event)" focusOut="ldata_focusOutHandler(event)">
 								<mx:lineStroke>
 									<s:SolidColorStroke color="0x000000" weight="8" alpha="0.6" caps="square"/>
 								</mx:lineStroke>
@@ -248,15 +399,14 @@
 		</s:Panel>
 		
 		<!--Detail Information of UserInput or URL  -->
-		<s:Panel width="100%" height="30%"
+		<s:Panel width="100%" height="50%"
 				 skinClass="MyPanelSkins"
 				 title="URL Location on Google Map" x="0" y="0">
-			<!--maps:Map id="map" url="127.0.0.1" key="ABQIAAAAMSfKWynJzaOyrYA-3vN_ahQMXmws070rUph23y6VVuMampI-OBSH02ZbgEbN8CBmmpCnTZP4OyshCw" mapevent_mapready="onMapReady(event)" /-->
+			<maps:Map id="gmap" width="100%" height="100%" url="127.0.0.1" key="ABQIAAAAMSfKWynJzaOyrYA-3vN_ahQMXmws070rUph23y6VVuMampI-OBSH02ZbgEbN8CBmmpCnTZP4OyshCw" mapevent_mapready="onMapReady(event)" />
 		</s:Panel>
 		
 	</s:VGroup>
-	
-	
+		
 	
 	
 </s:WindowedApplication>
