@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+<event date="2010-4-12 21:1:47.761" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:1:48.627" type="KB" tl="BASE" data="google." />
+<event date="2010-4-12 21:1:49.296" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 21:1:53.934" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:1:56.32" type="KB" tl="BASE" data="cnn." />
+<event date="2010-4-12 21:1:56.782" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 21:2:1.474" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:2:4.746" type="KB" tl="BASE" data="digg." />
+<event date="2010-4-12 21:2:5.913" type="KB" tl="BASE" data="cpm" />
+<event date="2010-4-12 21:2:9.286" type="KB" tl="BASE" data="[BACKSPACE][BACKSPACE]om" />
+<event date="2010-4-12 21:2:24.21" type="MC" tl="BASE" domain="cnn.com" URL="http://amfix.blogs.cnn.com/2010/04/12/assessing-chinas-impact-on-america/" />
+<event date="2010-4-12 21:2:29.991" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:2:32.456" type="KB" tl="BASE" data="youtube." />
+<event date="2010-4-12 21:2:33.161" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 21:2:39.630" type="KB" tl="BASE" data="akamai." />
+<event date="2010-4-12 21:2:40.480" type="KB" tl="BASE" data="com" />
+<event date="2010-04-12 21:03:52.116647" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/]" />
+<event date="2010-04-12 21:03:52.265255" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/intl/en_ALL/images/logo.gif]" />
+<event date="2010-04-12 21:03:52.303764" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/extern_js/f/CgJlbhICdXMrMAo4YUAILCswDjgNLCswFjgXLCswFzgGLCswGDgFLCswGTgZLCswHTgoLCswJTjKiAEsKzAmOAksKzAnOAQsKzAqOAMsKzArOAssKzA8OAIsKzBAOA4sKzBEOAIsKzBFOAEsKzBOOAMsgAIN/C2mA737sfVk.js]" />
+<event date="2010-04-12 21:03:52.539610" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/extern_chrome/bcdf8cbbf06dc4f.js]" />
+<event date="2010-04-12 21:03:52.575343" type="URL" tl="BASE" ip="74.125.93.138" domain="google.com" URL="clients1.google.com/generate_204]" />
+<event date="2010-04-12 21:03:52.611554" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/images/nav_logo8.png]" />
+<event date="2010-4-12 21:4:24.462" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:4:25.321" type="KB" tl="BASE" data="google." />
+<event date="2010-04-12 21:04:25.2331" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/]" />
+<event date="2010-4-12 21:4:26.9" type="KB" tl="BASE" data="com" />
+<event date="2010-04-12 21:04:26.216489" type="URL" tl="BASE" ip="74.125.93.138" domain="google.com" URL="clients1.google.com/generate_204]" />
+<event date="2010-04-12 21:04:26.322577" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" URL="www.google.com/csi" />
+<event date="2010-04-12 21:04:26.602553" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:04:26.803596" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:04:27.212572" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:04:28.28296" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:04:29.659728" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:04:31.326444" type="URL" tl="BASE" ip="76.74.254.121" domain="254.121]" URL="76.74.254.121]" />
+<event date="2010-04-12 21:04:31.326571" type="URL" tl="BASE" ip="76.74.254.121" domain="254.121]" URL="76.74.254.121]" />
+<event date="2010-04-12 21:04:31.544824" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:04:31.553931" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:04:31.554104" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:04:31.554377" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:04:31.555486" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:04:31.558168" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:04:31.565634" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:04:31.660299" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s0.wp.com/wp-content/themes/h4/global.css" />
+<event date="2010-04-12 21:04:31.668336" type="URL" tl="BASE" ip="64.94.107.29" domain="quantserve.com" URL="secure.quantserve.com/quant.js]" />
+<event date="2010-04-12 21:04:31.669612" type="URL" tl="BASE" ip="66.114.52.34" domain="wordpress.com" URL="s.stats.wordpress.com/w.js" />
+<event date="2010-04-12 21:04:31.679921" type="URL" tl="BASE" ip="74.200.247.60" domain="wordpress.com" URL="wordpress.com/remote-login.php" />
+<event date="2010-04-12 21:04:31.747878" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:04:31.755864" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:04:31.756012" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:04:31.756154" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:04:31.759558" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:04:31.759704" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:04:31.767671" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:04:32.155486" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:04:32.163916" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:04:32.164100" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:04:32.164272" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:04:32.169525" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:04:32.169685" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:04:32.176532" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:04:32.926644" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:04:32.972655" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:04:32.979943" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:04:32.979943" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:04:32.980045" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:04:32.988924" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:04:32.989064" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:04:32.993802" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:04:34.609013" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:04:34.614213" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:04:34.614393" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:04:34.614452" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:04:34.619644" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:04:34.619828" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:04:34.643106" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:04:37.867624" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:04:37.875634" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:04:37.875783" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:04:37.875933" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:04:37.883948" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:04:37.884131" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:04:37.888223" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:04:39.451802" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:04:41.574814" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="wwwnui.akamai.com/datavis/stat_of_the_day4.xml]" />
+<event date="2010-04-12 21:04:44.395568" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:04:44.403593" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:04:44.403731" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:04:44.403859" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:04:44.408448" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:04:44.408621" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:04:44.415873" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:04:52.508173" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:04:57.452119" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:04:57.459597" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:04:57.459779" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:04:57.459950" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:04:57.463732" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:04:57.463949" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:04:57.472142" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:05:18.620630" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:05:23.566256" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:05:23.580377" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:05:23.580538" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:05:23.580676" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:05:23.581022" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:05:23.581163" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:05:23.585634" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-04-12 21:05:36.966364" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/]" />
+<event date="2010-04-12 21:05:37.128124" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/global.css]" />
+<event date="2010-04-12 21:05:37.147385" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/lightbox.css]" />
+<event date="2010-04-12 21:05:37.147540" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/JS_Libraries,jquery|Class|analytics|lightbox|label|jquery-dom|jquery-cookie]" />
+<event date="2010-04-12 21:05:37.179734" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/dialog|digg|shouts|UserPrefixSearch|lbshare|StoredAction]" />
+<event date="2010-04-12 21:05:37.186057" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/digg_facebook]" />
+<event date="2010-04-12 21:05:37.209408" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/throttle|App_StoryList,StoryList|App_StoryList,StoryListThrottle|App_Ads,Ads]" />
+<event date="2010-04-12 21:05:37.332240" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/global.css]" />
+<event date="2010-04-12 21:05:37.380756" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/js/425/tooltip.js]" />
+<event date="2010-04-12 21:05:37.380892" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/dynjs/loader/DynJsd1268e05c20e25d1a3165320f0f01ca3]" />
+<event date="2010-04-12 21:05:37.741211" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/global.css]" />
+<event date="2010-04-12 21:05:38.555516" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/global.css]" />
+<event date="2010-04-12 21:05:40.187704" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/global.css]" />
+<event date="2010-04-12 21:05:41.582337" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="wwwnui.akamai.com/datavis/stat_of_the_day4.xml]" />
+<event date="2010-04-12 21:05:43.452249" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/global.css]" />
+<event date="2010-04-12 21:05:43.603953" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/]" />
+<event date="2010-04-12 21:05:43.857206" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/global.css]" />
+<event date="2010-04-12 21:05:43.860621" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/css/425/lightbox.css]" />
+<event date="2010-04-12 21:05:43.865975" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/JS_Libraries,jquery|Class|analytics|lightbox|label|jquery-dom|jquery-cookie]" />
+<event date="2010-04-12 21:05:43.897289" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/dynjs/loader/DynJsd1268e05c20e25d1a3165320f0f01ca3]" />
+<event date="2010-04-12 21:05:43.908762" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/digg_facebook]" />
+<event date="2010-04-12 21:05:43.908919" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/dialog|digg|shouts|UserPrefixSearch|lbshare|StoredAction]" />
+<event date="2010-04-12 21:05:43.909491" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/omnidigg]" />
+<event date="2010-04-12 21:05:43.912562" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/js/loader/425/throttle|App_StoryList,StoryList|App_StoryList,StoryListThrottle|App_Ads,Ads]" />
+<event date="2010-04-12 21:05:43.984869" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/js/425/tooltip.js]" />
+<event date="2010-04-12 21:05:44.35663" type="URL" tl="BASE" ip="65.54.77.92" domain="live.com" URL="analytics.live.com/Analytics/msAnalytics.js]" />
+<event date="2010-04-12 21:05:44.127264" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/menu-current.gif]" />
+<event date="2010-04-12 21:05:44.127485" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/img/search.gif]" />
+<event date="2010-04-12 21:05:44.133002" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/img/header-rss.gif]" />
+<event date="2010-04-12 21:05:44.140126" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/menu-secondary.gif]" />
+<event date="2010-04-12 21:05:44.167478" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/main-back.gif]" />
+<event date="2010-04-12 21:05:44.171292" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/tab-line.gif]" />
+<event date="2010-04-12 21:05:44.180447" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/link-line.gif]" />
+<event date="2010-04-12 21:05:44.180796" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/tools.gif]" />
+<event date="2010-04-12 21:05:44.182963" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/shade-news.gif]" />
+<event date="2010-04-12 21:05:44.187732" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/digg-box-thumbs-up.gif]" />
+<event date="2010-04-12 21:05:44.190838" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/digg-box-2.gif]" />
+<event date="2010-04-12 21:05:44.204196" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/i-frame-simple.png]" />
+<event date="2010-04-12 21:05:44.222016" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/s-frame-simple.png]" />
+<event date="2010-04-12 21:05:44.222165" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/environment/Lego_Artisan_Creates_Endangered_Species_for_Zoo/s.jpg]" />
+<event date="2010-04-12 21:05:44.236820" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/travel_places/Must_See_Places_Before_They_Disappear_Europe_PICS/t.jpg]" />
+<event date="2010-04-12 21:05:44.257037" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/football/CFL_Fantasy_Football_It_s_About_Time/s.jpg]" />
+<event date="2010-04-12 21:05:44.257396" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/ad/hdr]" />
+<event date="2010-04-12 21:05:44.282680" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/v-frame-simple.png]" />
+<event date="2010-04-12 21:05:44.299731" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/basketball/Top_10_Funny_and_Most_Profound_Basketball_Quotes_Gallery/t.jpg]" />
+<event date="2010-04-12 21:05:44.308826" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/ad/uprrail1]" />
+<event date="2010-04-12 21:05:44.309472" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/u/2/howlifeworkscruise2.jpg]" />
+<event date="2010-04-12 21:05:44.325399" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/ids.gif]" />
+<event date="2010-04-12 21:05:44.325580" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/space/Gigantic_Baby_Stars_Discovered_in_Cloud_of_Space_Dust/s.jpg]" />
+<event date="2010-04-12 21:05:44.331859" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/shade-compact.gif]" />
+<event date="2010-04-12 21:05:44.334116" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/vds.gif]" />
+<event date="2010-04-12 21:05:44.354582" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/basketball/Mama_Shaq_steps_out_of_shadows_to_tell_her_own_story/s.jpg]" />
+<event date="2010-04-12 21:05:44.354582" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/world_news/Police_Say_Barista_Sold_Pot_At_Coffee_Stand/s.jpg]" />
+<event date="2010-04-12 21:05:44.424803" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/ad/lwrrail]" />
+<event date="2010-04-12 21:05:44.424981" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/img/promo/promo-webmynd.gif]" />
+<event date="2010-04-12 21:05:44.425276" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/political_opinion/Could_terrorists_get_hold_of_a_nuclear_bomb/s.gif]" />
+<event date="2010-04-12 21:05:44.446502" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/ad/lwrinl]" />
+<event date="2010-04-12 21:05:44.447269" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/linux_unix/The_trouble_with_Linux_it_s_just_not_sexy/s.jpg]" />
+<event date="2010-04-12 21:05:44.512839" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/extreme_sports/2010_Billabong_XXL_Big_Wave_Award_Wipeout_Nominees/t.jpg]" />
+<event date="2010-04-12 21:05:44.513010" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/food_drink/How_To_Cook_Bacon_With_A_Machine_Gun_PICS/t.jpg]" />
+<event date="2010-04-12 21:05:44.513529" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/comedy/FW_FW_FW_Creative_Writing_Assignment/a.jpg]" />
+<event date="2010-04-12 21:05:44.536205" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/space/The_World_Would_Be_Better_If_Everyone_Watched_This_Video/a.jpg]" />
+<event date="2010-04-12 21:05:44.536381" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/politics/Michele_Bachmann_is_officially_just_making_stuff_up/a.jpg]" />
+<event date="2010-04-12 21:05:44.649828" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/comics_animation/xkcd_Seat_Selection/a.png]" />
+<event date="2010-04-12 21:05:44.650028" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/apple/Poison_Apple_Pic/a.jpg]" />
+<event date="2010-04-12 21:05:44.650179" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/comedy/Why_Priests_Ought_to_Be_Parents_PIC/a.gif]" />
+<event date="2010-04-12 21:05:44.650661" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/movies/The_Best_Short_Film_You_ve_Ever_Seen_Video/a.jpg]" />
+<event date="2010-04-12 21:05:44.650830" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/img/rec-icon-widget.png]" />
+<event date="2010-04-12 21:05:44.684599" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/footer.gif]" />
+<event date="2010-04-12 21:05:44.697553" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" URL="cotnet.diggstatic.com/img/little-digg.gif]" />
+<event date="2010-04-12 21:05:44.830487" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/js/loader/425/jquery]" />
+<event date="2010-04-12 21:05:44.846271" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad.doubleclick.net/adj/dgg.home/home_sl_hdr;media=all;scat=home;ptype=sl;pos=hdr;kw=disappear;kw=places;kw=radically;kw=predictions;kw=warming;kw=prove;kw=europe;kw=near;kw=pics;kw=following;kw=global;kw=true;kw=future;kw=change;kw=shaq;kw=profound;kw=quotes;kw=basketball;kw=ones;kw=gallery;kw=funny;kw=course;kw=10;kw=good;kw=know;sz=728x90,900x90,900x60;tile=5;ord=1271120712.6357]" />
+<event date="2010-04-12 21:05:44.864247" type="URL" tl="BASE" ip="66.235.133.33" domain="digg.com" URL="z.digg.com/b/ss/diggcom/1/H.14/s69849418614699" />
+<event date="2010-04-12 21:05:44.882568" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/js/loader/425/omnidigg]" />
+<event date="2010-04-12 21:05:44.900588" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad.doubleclick.net/adj/dgg.home/home_sl_lwrrail;media=all;kw=disappear;kw=places;kw=radically;kw=predictions;kw=warming;kw=prove;kw=europe;kw=near;kw=pics;kw=following;kw=global;kw=true;kw=future;kw=change;kw=shaq;kw=profound;kw=quotes;kw=basketball;kw=ones;kw=gallery;kw=funny;kw=course;kw=10;kw=good;kw=know;scat=home;ptype=sl;pos=lwrrail;sz=300x250,160x600;tile=9;ord=1271120712.6357]" />
+<event date="2010-04-12 21:05:44.922647" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad.doubleclick.net/adj/dgg.home/home_sl_lwrinl;media=all;kw=disappear;kw=places;kw=radically;kw=predictions;kw=warming;kw=prove;kw=europe;kw=near;kw=pics;kw=following;kw=global;kw=true;kw=future;kw=change;kw=shaq;kw=profound;kw=quotes;kw=basketball;kw=ones;kw=gallery;kw=funny;kw=course;kw=10;kw=good;kw=know;scat=home;ptype=sl;pos=lwrinl;sz=728x91,900x90;tile=6;ord=1271120712.6357]" />
+<event date="2010-04-12 21:05:44.978605" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/879366/flashwrite_1_2.js]" />
+<event date="2010-04-12 21:05:44.978985" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad.doubleclick.net/ad/dgg.hub/;pos=admin;adid=223704339;sz=52x46]" />
+<event date="2010-04-12 21:05:45.59749" type="URL" tl="BASE" ip="65.55.149.120" domain="live.com" URL="digg.analytics.live.com/x.gif" />
+<event date="2010-04-12 21:05:45.68592" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" URL="digg.com/ajax/ads/impression]" />
+<event date="2010-04-12 21:05:45.86658" type="URL" tl="BASE" ip="65.55.197.247" domain="msn.com" URL="rad.msn.com/adsAdClient31.dll" />
+<event date="2010-04-12 21:05:45.103784" type="URL" tl="BASE" ip="198.82.164.41" domain="scorecardresearch.com" URL="b.scorecardresearch.com/r" />
+<event date="2010-04-12 21:05:45.103951" type="URL" tl="BASE" ip="65.55.197.247" domain="msn.com" URL="rad.msn.com/adsAdClient31.dll" />
+<event date="2010-04-12 21:05:45.104364" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/viewad/2592118/admin_granthill.jpg]" />
+<event date="2010-04-12 21:05:45.321952" type="URL" tl="BASE" ip="206.16.21.32" domain="atdmt.com" URL="view.atdmt.com/APM/iview/155721273/direct/01" />
+<event date="2010-04-12 21:05:45.322092" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad.doubleclick.net/adj/dgg.home/home_sl_uprrail1;media=all;kw=disappear;kw=places;kw=radically;kw=predictions;kw=warming;kw=prove;kw=europe;kw=near;kw=pics;kw=following;kw=global;kw=true;kw=future;kw=change;kw=shaq;kw=profound;kw=quotes;kw=basketball;kw=ones;kw=gallery;kw=funny;kw=course;kw=10;kw=good;kw=know;scat=home;ptype=sl;pos=uprrail1;sz=300x250,300x600;tile=7;ord=1271120712.6357]" />
+<event date="2010-04-12 21:05:45.322221" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/2582861/chrome_digg_728x90_synch_v1.swf]" />
+<event date="2010-04-12 21:05:45.343917" type="URL" tl="BASE" ip="206.16.21.32" domain="atdmt.com" URL="view.atdmt.com/APM/iview/157631324/direct/01" />
+<event date="2010-04-12 21:05:45.603935" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/879366/flashwrite_1_2.js]" />
+<event date="2010-04-12 21:05:45.668026" type="URL" tl="BASE" ip="198.82.164.42" domain="atdmt.com" URL="rmd.atdmt.com/tl/DocumentDotWrite.js]" />
+<event date="2010-04-12 21:05:45.670835" type="URL" tl="BASE" ip="69.176.111.135" domain="specificmedia.com" URL="ads.specificmedia.com/serve/v=5;m=3;l=6303;c=63888;b=364125;ts=20100412210213;p=ui%3DvuEyVnuUxnrTOC%3Btr%3D7Y-4XesIY6C%3Btm%3D0-0]" />
+<event date="2010-04-12 21:05:45.696050" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/2582861/1-digg_300x250bounce_1.swf]" />
+<event date="2010-04-12 21:05:45.700363" type="URL" tl="BASE" ip="216.38.166.107" domain="doubleverify.com" URL="cdn.doubleverify.com/script44.js" />
+<event date="2010-04-12 21:05:45.741424" type="URL" tl="BASE" ip="198.82.164.41" domain="atdmt.com" URL="spe.atdmt.com/ds/CJCNTCINGCIN/FreePhone_Vines_040610/FreePhone_Vines_300x250_040610.swf" />
+<event date="2010-04-12 21:05:45.780287" type="URL" tl="BASE" ip="66.249.81.148" domain="specificmedia.com" URL="ad.doubleclick.net/adi/N2998.specificmedia.com/B4144699.9;sz=728x90;click=http://ads.specificmedia.com/click/v=5%3Bm=2%3Bl=6303%3Bc=63888%3Bb=364125%3Bp=ui%3DvuEyVnuUxnrTOC%3Btr%3D7Y-4XesIY6C%3Btm%3D0-0%3Bts=20100412210214%3Bdct=;ord=20100412210214" />
+<event date="2010-04-12 21:05:45.780706" type="URL" tl="BASE" ip="66.114.52.25" domain="specificmedia.com" URL="cache.specificmedia.com/creative/blank.gif" />
+<event date="2010-04-12 21:05:45.912710" type="URL" tl="BASE" ip="65.61.163.44" domain="doubleverify.com" URL="log10.doubleverify.com/visitor.aspx" />
+<event date="2010-04-12 21:05:45.936603" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/879366/flashwrite_1_2.js]" />
+<event date="2010-04-12 21:05:45.946821" type="URL" tl="BASE" ip="216.38.166.107" domain="doubleverify.com" URL="cdn.doubleverify.com/script7.js" />
+<event date="2010-04-12 21:05:46.9469" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/2577439/728x90_040610_FREE_PHONES_SPLIT.swf" />
+<event date="2010-04-12 21:05:46.177751" type="URL" tl="BASE" ip="67.228.212.201" domain="doubleverify.com" URL="log7.doubleverify.com/visitor.aspx" />
+<event date="2010-04-12 21:05:46.399403" type="URL" tl="BASE" ip="65.54.77.92" domain="live.com" URL="analytics.live.com/Sync.html" />
+<event date="2010-04-12 21:05:46.562669" type="URL" tl="BASE" ip="65.54.77.92" domain="live.com" URL="analytics.live.com/Scripts/wlHelper.js" />
+<event date="2010-04-12 21:05:46.567467" type="URL" tl="BASE" ip="74.125.93.139" domain="youtube.com" URL="www.youtube.com/]" />
+<event date="2010-04-12 21:05:46.692618" type="URL" tl="BASE" ip="65.55.239.161" domain="atdmt.com" URL="analytics.atdmt.com/Scripts/wlHelper.js" />
+<event date="2010-04-12 21:05:46.744104" type="URL" tl="BASE" ip="66.249.81.148" domain="specificmedia.com" URL="ad.doubleclick.net/adi/N2998.specificmedia.com/B4144699.9;sz=728x90;click=http://ads.specificmedia.com/click/v=5%3Bm=2%3Bl=6303%3Bc=63888%3Bb=364125%3Bp=ui%3DvuEyVnuUxnrTOC%3Btr%3D7Y-4XesIY6C%3Btm%3D0-0%3Bts=20100412210545%3Bdct=;ord=20100412210545" />
+<event date="2010-04-12 21:05:46.798747" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" URL="s.ytimg.com/yt/cssbin/www-core-vfl158492.css]" />
+<event date="2010-04-12 21:05:46.802627" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" URL="s.ytimg.com/yt/jsbin/www-core-vfl159171.js]" />
+<event date="2010-04-12 21:05:46.820088" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" URL="s.ytimg.com/yt/jsbin/www-home-vfl158168.js]" />
+<event date="2010-04-12 21:05:46.915168" type="URL" tl="BASE" ip="65.54.77.92" domain="msn.com" URL="analytics.msn.com/Include.html]" />
+<event date="2010-04-12 21:05:46.938177" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/2577439/728x90_040610_FREE_PHONES_SPLIT.swf" />
+<event date="2010-04-12 21:05:47.55546" type="URL" tl="BASE" ip="67.228.212.201" domain="doubleverify.com" URL="log7.doubleverify.com/visitor.aspx" />
+<event date="2010-04-12 21:05:47.152331" type="URL" tl="BASE" ip="65.55.239.161" domain="atdmt.com" URL="analytics.atdmt.com/Scripts/wlHelper.js" />
+<event date="2010-04-12 21:05:47.176178" type="URL" tl="BASE" ip="65.54.77.92" domain="live.com" URL="analytics.live.com/Scripts/wlHelper.js" />
+<event date="2010-04-12 21:05:47.185018" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" URL="s.ytimg.com/yt/img/pixel-vfl73.gif]" />
+<event date="2010-04-12 21:05:47.185337" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" URL="s.ytimg.com/yt/img/master-vfl158259.png]" />
+<event date="2010-04-12 21:05:47.221776" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i1.ytimg.com/vi/P72uoCl-_XM/default.jpg]" />
+<event date="2010-04-12 21:05:47.226684" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i1.ytimg.com/vi/TpYIKF1wuyE/default.jpg]" />
+<event date="2010-04-12 21:05:47.231716" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" URL="s.ytimg.com/yt/img/badge_cc_results-vfl146060.gif]" />
+<event date="2010-04-12 21:05:47.235123" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad-g.doubleclick.net/adi/com.ythome/_default;sz=960x250;klg=en;kt=K;kga=-1;kgg=-1;kcr=us;dc_dedup=1;kmyd=ad_creative_1;tile=1;dcopt=ist;ord=5648294381795442" />
+<event date="2010-04-12 21:05:47.251158" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i3.ytimg.com/i/RJujaKIoPjmPXB8UmL7dvQ/1.jpg" />
+<event date="2010-04-12 21:05:47.251402" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i3.ytimg.com/vi/rySIh8deL0s/default.jpg]" />
+<event date="2010-04-12 21:05:47.264567" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i1.ytimg.com/vi/x-LmdukLxaA/default.jpg]" />
+<event date="2010-04-12 21:05:47.276928" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i4.ytimg.com/vi/30xXjKRloMk/default.jpg]" />
+<event date="2010-04-12 21:05:47.296203" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i4.ytimg.com/vi/o11C7PslwaA/hqdefault.jpg]" />
+<event date="2010-04-12 21:05:47.296395" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i3.ytimg.com/vi/RT2KsjCUE7A/default.jpg]" />
+<event date="2010-04-12 21:05:47.317537" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" URL="i4.ytimg.com/vi/W1NR7oGzcEg/default.jpg]" />
+<event date="2010-04-12 21:05:47.421213" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad-g.doubleclick.net/adi/tst.ythome/promo1;sz=300x100;klg=en;kt=K;kga=-1;kgg=-1;kcr=us;dc_dedup=1;kmyd=ad_creative_3;tile=3;ord=5053571928591326" />
+<event date="2010-04-12 21:05:47.457087" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad-g.doubleclick.net/adi/tst.ythome/promo3;sz=300x100;klg=en;kt=K;kga=-1;kgg=-1;kcr=us;dc_dedup=1;kmyd=ad_creative_5;tile=5;ord=5455321187504457" />
+<event date="2010-04-12 21:05:47.551937" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" URL="ad-g.doubleclick.net/activity;src=2529763;met=1;v=1;pid=47747362;aid=224028163;ko=0;cid=36328256;rid=36346134;rv=1;&timestamp=1271120747548;eid1=9;ecn1=1;etm1=0;]" />
+<event date="2010-04-12 21:05:47.608566" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" URL="s.ytimg.com/yt/swf/masthead_child-vfl89464.swf]" />
+<event date="2010-04-12 21:05:47.771295" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" URL="s0.2mdn.net/viewad/2222054/yt101_300x100_customize.jpg]" />
+<event date="2010-04-12 21:05:47.885424" type="URL" tl="BASE" ip="74.125.53.100" domain="gstatic.com" URL="csi.gstatic.com/csi" />
+<event date="2010-04-12 21:05:47.892225" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" URL="s.ytimg.com/yt/img/msg_icn/msg_icn-vfl138364.png]" />
+<event date="2010-04-12 21:05:47.893615" type="URL" tl="BASE" ip="66.235.133.1" domain="digg.com" URL="z.digg.com/b/ss/diggcom/1/H.14/s63337900534339" />
+<event date="2010-04-12 21:05:52.523712" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/]" />
+<event date="2010-04-12 21:05:52.652481" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/css/style.css]" />
+<event date="2010-04-12 21:05:52.669303" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/css/homepage.css]" />
+<event date="2010-04-12 21:05:52.669640" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/js/swfobject.js]" />
+<event date="2010-04-12 21:05:53.97729" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/js/jquery-1.2.1.js]" />
+<event date="2010-04-12 21:05:53.100341" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/js/ui.accordion.js]" />
+<event date="2010-04-12 21:05:53.107985" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/js/easing.js]" />
+<event date="2010-04-12 21:05:54.75092" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/graphics/site/background_tile2.gif]" />
+<event date="2010-04-12 21:05:54.92693" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/graphics/icons/btn_arrow.gif]" />
+<event date="2010-04-12 21:05:54.93207" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/graphics/promo/bkg_ticker.gif]" />
+<event date="2010-04-12 21:05:54.100654" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="www.akamai.com/graphics/promo/bkg_solution_finder.jpg]" />
+<event date="2010-04-12 21:05:54.101400" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="www.akamai.com/graphics/promo/bkg_personalization.jpg]" />
+<event date="2010-04-12 21:05:54.101563" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/graphics/misc/rss.jpg]" />
+<event date="2010-04-12 21:05:54.117227" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/graphics/promo/bkg_news.jpg]" />
+<event date="2010-04-12 21:05:54.117378" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/graphics/site/footer_separator.gif]" />
+<event date="2010-04-12 21:05:54.124427" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="www.akamai.com/js/InstantInvite3.js]" />
+<event date="2010-04-12 21:05:54.336045" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="www.akamai.com/swf/home2008/nav.swf]" />
+<event date="2010-04-12 21:05:54.348314" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" URL="rs.instantservice.com/resources/smartbutton/5991/II3_Rules.js" />
+<event date="2010-04-12 21:05:54.390412" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/swf/home2008/main_promos_container_new.swf]" />
+<event date="2010-04-12 21:05:54.409785" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/swf/home2008/tabbed_area1.swf]" />
+<event date="2010-04-12 21:05:54.435579" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/swf/home2008/sotd.swf]" />
+<event date="2010-04-12 21:05:54.473543" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="www.akamai.com/swf/home2008/video_speaker.swf]" />
+<event date="2010-04-12 21:05:54.510462" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="www.akamai.com/swf/home2008/video_quote.swf]" />
+<event date="2010-04-12 21:05:54.561660" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" URL="www.akamai.com/graphics/misc/akaspacer.gif]" />
+<event date="2010-04-12 21:05:54.618793" type="URL" tl="BASE" ip="66.150.117.25" domain="webtrendslive.com" URL="statse.webtrendslive.com/dcsd5z3icpifwzr6ntaprqwib_7q9t/dcs.gif" />
+<event date="2010-04-12 21:05:54.706094" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" URL="leads.demandbase.com/117306.js]" />
+<event date="2010-04-12 21:05:54.841255" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="wwwnui.akamai.com/crossdomain.xml]" />
+<event date="2010-04-12 21:05:54.945669" type="URL" tl="BASE" ip="72.247.242.230" domain="edgefcs.net" URL="cp14352.edgefcs.net/crossdomain.xml]" />
+<event date="2010-04-12 21:05:54.968305" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" URL="wwwnui.akamai.com/datavis/stat_of_the_day4.xml]" />
+<event date="2010-04-12 21:05:55.13689" type="URL" tl="BASE" ip="72.247.242.230" domain="edgefcs.net" URL="cp14352.edgefcs.net/fcs/ident]" />
+<event date="2010-04-12 21:05:55.46604" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" URL="leads.demandbase.com/in.php" />
+<event date="2010-04-12 21:06:02.869680" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" URL="rs.instantservice.com/resources/smartbutton/5991/16522/available.gif" />
+<event date="2010-04-12 21:06:10.847338" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" URL="safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyEAAY4ZkBILCaATIP4UwAAP____________8A]" />
+<event date="2010-04-12 21:06:15.788139" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/common.css]" />
+<event date="2010-04-12 21:06:15.795782" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/section.css]" />
+<event date="2010-04-12 21:06:15.795915" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/2.0/mosaic.css]" />
+<event date="2010-04-12 21:06:15.796045" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/common.css]" />
+<event date="2010-04-12 21:06:15.799826" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/main.css]" />
+<event date="2010-04-12 21:06:15.799961" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" URL="i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css]" />
+<event date="2010-04-12 21:06:15.807475" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" URL="s1.wp.com/wp-content/themes/vip/cnnbasic/style.css" />
+<event date="2010-4-12 21:6:53.798" type="KB" tl="BASE" data="https:" />
+<event date="2010-4-12 21:6:54.19" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 21:6:54.177" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 21:6:56.250" type="KB" tl="BASE" data="mail[BACKSPACE]" />
+<event date="2010-4-12 21:6:56.432" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:56.605" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:56.779" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:57.282" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:57.511" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:57.694" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:58.362" type="KB" tl="BASE" data=":" />
+<event date="2010-4-12 21:6:58.608" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 21:6:58.757" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 21:7:6.55" type="MC" tl="BASE" domain="cnn.com" URL="http://amfix.blogs.cnn.com/2010/04/12/assessing-chinas-impact-on-america/" />
+<event date="2010-4-12 21:7:6.55" type="KB" tl="BASE" data="wehuijun[TAB]" />
+<event date="2010-4-12 21:7:8.506" type="KB" tl="BASE" data="Xhj1984614" />
+<event date="2010-4-12 21:7:8.551" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-12 21:7:14.751" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-12 21:7:19.738" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#msg%3AINBOX.VT_CS%3A410" />
+<event date="2010-4-12 21:7:23.847" type="MC" tl="BASE" domain="google.com" URL="https://docs.google.com/Doc" />
+<event date="2010-4-12 21:7:28.786" type="MC" tl="BASE" domain="google.com" URL="https://docs.google.com/Doc" />
+<event date="2010-4-12 21:7:48.178" type="MC" tl="BASE" domain="google.com" URL="https://docs.google.com/Doc" />
+<event date="2010-4-12 21:7:48.556" type="MC" tl="BASE" domain="google.com" URL="https://docs.google.com/Doc" />
+<event date="2010-4-12 21:7:52.793" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-12 21:7:58.957" type="KB" tl="BASE" data="[UP][UP][UP]Thank" />
+<event date="2010-4-12 21:7:59.682" type="KB" tl="BASE" data="fo" />
+<event date="2010-4-12 21:8:0.910" type="KB" tl="BASE" data="shr[BACKSPACE]" />
+<event date="2010-4-12 21:8:1.889" type="KB" tl="BASE" data="arin" />
+<event date="2010-4-12 21:8:1.912" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:2.351" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:2.485" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:2.763" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:2.882" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:3.520" type="KB" tl="BASE" data="B" />
+<event date="2010-4-12 21:8:4.866" type="KB" tl="BASE" data="thw[BACKSPACE]" />
+<event date="2010-4-12 21:8:5.80" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:6.124" type="KB" tl="BASE" data="wa" />
+<event date="2010-4-12 21:8:6.268" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:6.813" type="KB" tl="BASE" data="yo" />
+<event date="2010-4-12 21:8:7.735" type="KB" tl="BASE" data="ca" />
+<event date="2010-4-12 21:8:8.547" type="KB" tl="BASE" data="fin" />
+<event date="2010-4-12 21:8:9.953" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:11.206" type="KB" tl="BASE" data="new" />
+<event date="2010-4-12 21:8:11.533" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:11.667" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:11.801" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:12.647" type="KB" tl="BASE" data="snif" />
+<event date="2010-4-12 21:8:14.264" type="KB" tl="BASE" data="fil" />
+<event date="2010-4-12 21:8:14.697" type="KB" tl="BASE" data="i" />
+<event date="2010-4-12 21:8:15.584" type="KB" tl="BASE" data="tha[BACKSPACE]" />
+<event date="2010-4-12 21:8:15.780" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:17.542" type="KB" tl="BASE" data="attachmen" />
+<event date="2010-4-12 21:8:18.172" type="KB" tl="BASE" data="wit" />
+<event date="2010-4-12 21:8:21.401" type="KB" tl="BASE" data="I" />
+<event date="2010-4-12 21:8:23.0" type="KB" tl="BASE" data="addres" />
+<event date="2010-4-12 21:8:24.544" type="KB" tl="BASE" data="fo" />
+<event date="2010-4-12 21:8:25.28" type="KB" tl="BASE" data="e[BACKSPACE]" />
+<event date="2010-4-12 21:8:25.195" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:25.361" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:25.496" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:25.637" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:26.256" type="KB" tl="BASE" data="o" />
+<event date="2010-4-12 21:8:27.150" type="KB" tl="BASE" data="eac" />
+<event date="2010-4-12 21:8:29.16" type="KB" tl="BASE" data="row." />
+<event date="2010-4-12 21:8:30.303" type="KB" tl="BASE" data="I" />
+<event date="2010-4-12 21:8:30.940" type="KB" tl="BASE" data="ther" />
+<event date="2010-4-12 21:8:31.262" type="KB" tl="BASE" data="i" />
+<event date="2010-4-12 21:8:31.988" type="KB" tl="BASE" data="an" />
+<event date="2010-4-12 21:8:32.650" type="KB" tl="BASE" data="t[BACKSPACE]" />
+<event date="2010-4-12 21:8:33.455" type="KB" tl="BASE" data="othe" />
+<event date="2010-4-12 21:8:34.974" type="KB" tl="BASE" data="problem." />
+<event date="2010-4-12 21:8:35.405" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:35.667" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:35.762" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:37.63" type="KB" tl="BASE" data="pleas" />
+<event date="2010-4-12 21:8:37.749" type="KB" tl="BASE" data="le" />
+<event date="2010-4-12 21:8:38.358" type="KB" tl="BASE" data="m" />
+<event date="2010-4-12 21:8:39.164" type="KB" tl="BASE" data="know." />
+<event date="2010-4-12 21:8:39.339" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:42.49" type="KB" tl="BASE" data="Enjoy." />
+<event date="2010-4-12 21:8:44.798" type="KB" tl="BASE" data="_" />
+<event date="2010-4-12 21:8:44.972" type="KB" tl="BASE" data="_" />
+<event date="2010-4-12 21:8:45.114" type="KB" tl="BASE" data="_" />
+<event date="2010-4-12 21:8:50.747" type="KB" tl="BASE" data="Huijunbes" />
+<event date="2010-4-12 21:8:51.291" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:51.481" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:51.647" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:51.797" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:51.947" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:53.928" type="KB" tl="BASE" data="b[BACKSPACE]" />
+<event date="2010-4-12 21:8:55.480" type="KB" tl="BASE" data="Bes" />
+<event date="2010-4-12 21:8:57.465" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:58.368" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:58.527" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:58.691" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:58.833" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:9:1.292" type="KB" tl="BASE" data="[RIGHT]" />
+<event date="2010-4-12 21:9:1.657" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:1.823" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:1.990" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:2.149" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:2.315" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:2.489" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:3.455" type="KB" tl="BASE" data="-" />
+<event date="2010-4-12 21:9:35.840" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-12 21:9:44.449" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:42:35.86" type="KB" tl="BASE" data="http:" />
+<event date="2010-4-27 18:42:35.308" type="KB" tl="BASE" data="/" />
+<event date="2010-4-27 18:42:35.466" type="KB" tl="BASE" data="/" />
+<event date="2010-4-27 18:42:41.787" type="KB" tl="BASE" data="webhuijun[TAB]" />
+<event date="2010-4-27 18:42:44.767" type="KB" tl="BASE" data="Xhj1984615[BACKSPACE]" />
+<event date="2010-4-27 18:42:44.942" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.117" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.267" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.417" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.568" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.718" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.861" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:46.5" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:46.138" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:46.280" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:50.613" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:56.16" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:56.218" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:56.425" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:56.614" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:57.281" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#folder%3AINBOX.VT_CS" />
+<event date="2010-4-27 18:43:2.580" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#folder%3AINBOX.VT_CS" />
+<event date="2010-4-27 18:43:3.245" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#folder%3AINBOX.VT_CS" />
+<event date="2010-4-27 18:43:8.834" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#folder%3AINBOX.VT_CS" />
+<event date="2010-4-27 18:43:8.868" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:43:10.37" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:43:16.543" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#msg%3AINBOX.VT_CS%3A470" />
+<event date="2010-4-27 18:43:20.68" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:43:25.230" type="KB" tl="BASE" data="[UP][UP][UP]H" />
+<event date="2010-4-27 18:43:25.366" type="KB" tl="BASE" data="" />
+<event date="2010-4-27 18:43:27.100" type="KB" tl="BASE" data="Yipa" />
+<event date="2010-4-27 18:43:29.186" type="KB" tl="BASE" data="Her" />
+<event date="2010-4-27 18:43:29.456" type="KB" tl="BASE" data="i" />
+<event date="2010-4-27 18:43:29.858" type="KB" tl="BASE" data="th" />
+<event date="2010-4-27 18:43:30.634" type="KB" tl="BASE" data="file." />
+<event date="2010-4-27 18:43:30.751" type="KB" tl="BASE" data="" />
+<event date="2010-4-27 18:43:31.608" type="KB" tl="BASE" data="Le" />
+<event date="2010-4-27 18:43:32.69" type="KB" tl="BASE" data="m" />
+<event date="2010-4-27 18:43:32.673" type="KB" tl="BASE" data="kno" />
+<event date="2010-4-27 18:43:33.128" type="KB" tl="BASE" data="i" />
+<event date="2010-4-27 18:43:33.726" type="KB" tl="BASE" data="ther" />
+<event date="2010-4-27 18:43:34.202" type="KB" tl="BASE" data="i" />
+<event date="2010-4-27 18:43:34.907" type="KB" tl="BASE" data="an" />
+<event date="2010-4-27 18:43:36.343" type="KB" tl="BASE" data="problem." />
+<event date="2010-4-27 18:43:36.711" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:43:37.968" type="KB" tl="BASE" data="." />
+<event date="2010-4-27 18:43:38.64" type="KB" tl="BASE" data="" />
+<event date="2010-4-27 18:43:39.156" type="KB" tl="BASE" data="t[BACKSPACE]" />
+<event date="2010-4-27 18:43:40.336" type="KB" tl="BASE" data="Thanks." />
+<event date="2010-4-27 18:43:41.524" type="KB" tl="BASE" data="Bes" />
+<event date="2010-4-27 18:44:10.421" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:9.665" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:12.567" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:15.793" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:26.262" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#msg%3AINBOX.Sent%3A73" />
+<event date="2010-4-27 18:58:44.902" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:46.47" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-5-25 11:54:5.81" type="KB" tl="BASE" data="https:" />
+<event date="2010-5-25 11:54:5.280" type="KB" tl="BASE" data="/" />
+<event date="2010-5-25 11:54:5.323" type="KB" tl="BASE" data="/" />
+<event date="2010-5-25 11:54:6.297" type="KB" tl="BASE" data="mail." />
+<event date="2010-5-25 11:54:7.114" type="KB" tl="BASE" data="google." />
+<event date="2010-5-25 11:54:7.787" type="KB" tl="BASE" data="com" />
+<event date="2010-5-25 11:55:28.772" type="KB" tl="BASE" data="bangnilz1984614515" />
+<event date="2010-5-25 11:55:28.796" type="MC" tl="BASE" domain="google.com" URL="https://www.google.com/accounts/ServiceLoginAuth" />
+<event date="2010-5-25 11:55:40.416" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-5-25 11:55:42.889" type="KB" tl="BASE" data="a[BACKSPACE]" />
+<event date="2010-5-25 11:55:45.167" type="KB" tl="BASE" data="bangnilz" />
+<event date="2010-5-25 11:55:48.353" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-5-25 11:55:48.353" type="KB" tl="BASE" data="ke[BACKSPACE]" />
+<event date="2010-5-25 11:55:48.484" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-5-25 11:55:49.760" type="KB" tl="BASE" data="logge" />
+<event date="2010-5-25 11:55:53.803" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+</events>
