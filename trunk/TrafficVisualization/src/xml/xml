@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+<event date="2010-4-7 10:59:17.523" type="KB" tl="BASE" data="www." />
+<event date="2010-4-7 10:59:19.107" type="KB" tl="BASE" data="google." />
+<event date="2010-4-7 10:59:19.850" type="KB" tl="BASE" data="com" />
+<event date="2010-4-7 10:59:21.922" type="KB" tl="BASE" data="ho" />
+<event date="2010-4-7 10:59:22.428" type="KB" tl="BASE" data="t" />
+<event date="2010-4-7 10:59:23.489" type="KB" tl="BASE" data="d[BACKSPACE]" />
+<event date="2010-4-7 10:59:24.845" type="KB" tl="BASE" data="trai" />
+<event date="2010-4-7 10:59:25.658" type="KB" tl="BASE" data="you" />
+<event date="2010-4-7 10:59:31.257" type="MC" tl="BASE" domain="google.com" URL="http://www.google.com/movies" />
+<event date="2010-4-7 10:59:40.909" type="KB" tl="BASE" data="dragonwww." />
+<event date="2010-4-7 10:59:41.928" type="KB" tl="BASE" data="google." />
+<event date="2010-4-7 10:59:42.629" type="KB" tl="BASE" data="com" />
+<event date="2010-4-7 10:59:47.953" type="MC" tl="BASE" domain="google.com" URL="http://www.google.com/movies" />
+<event date="2010-4-7 10:59:47.953" type="KB" tl="BASE" data="alic" />
+<event date="2010-4-7 10:59:48.452" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 10:59:52.738" type="MC" tl="BASE" domain="google.com" URL="http://www.google.com/movies" />
+<event date="2010-4-7 10:59:55.174" type="MC" tl="BASE" domain="google.com" URL="http://www.google.com/movies" />
+<event date="2010-4-7 10:59:58.521" type="MC" tl="BASE" domain="google.com" URL="http://www.google.com/movies" />
+<event date="2010-4-7 10:59:59.710" type="MC" tl="BASE" domain="google.com" URL="http://www.google.com/movies" />
+<event date="2010-4-7 11:0:0.513" type="MC" tl="BASE" domain="google.com" URL="http://www.google.com/movies" />
+<event date="2010-4-7 11:0:6.699" type="MC" tl="BASE" domain="imdb.com" URL="http://www.imdb.com/title/tt1014759/" />
+<event date="2010-4-7 11:5:50.127" type="KB" tl="BASE" data="webmail." />
+<event date="2010-4-7 11:5:51.432" type="KB" tl="BASE" data="cs." />
+<event date="2010-4-7 11:5:51.929" type="KB" tl="BASE" data="vt." />
+<event date="2010-4-7 11:5:52.573" type="KB" tl="BASE" data="edu" />
+<event date="2010-4-7 11:5:56.734" type="MC" tl="BASE" domain="imdb.com" URL="http://www.imdb.com/title/tt1014759/" />
+<event date="2010-4-7 11:5:56.734" type="KB" tl="BASE" data="huijun[TAB]" />
+<event date="2010-4-7 11:5:59.139" type="KB" tl="BASE" data="Xhj1984614" />
+<event date="2010-4-7 11:5:59.182" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-7 11:6:5.229" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-7 11:6:5.931" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-7 11:6:8.826" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-7 11:6:10.290" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-7 11:6:14.157" type="KB" tl="BASE" data="danfeng@" />
+<event date="2010-4-7 11:6:15.354" type="KB" tl="BASE" data="cs." />
+<event date="2010-4-7 11:6:15.964" type="KB" tl="BASE" data="vt." />
+<event date="2010-4-7 11:6:25.119" type="KB" tl="BASE" data="edusur[BACKSPACE]" />
+<event date="2010-4-7 11:6:25.277" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:25.494" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:28.456" type="KB" tl="BASE" data="visula[BACKSPACE]" />
+<event date="2010-4-7 11:6:29.719" type="KB" tl="BASE" data="izatio" />
+<event date="2010-4-7 11:6:31.423" type="KB" tl="BASE" data="projec" />
+<event date="2010-4-7 11:6:34.470" type="KB" tl="BASE" data="updateHi." />
+<event date="2010-4-7 11:6:34.639" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:6:35.255" type="KB" tl="BASE" data="R[BACKSPACE]" />
+<event date="2010-4-7 11:6:35.397" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:35.555" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:36.209" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:6:36.346" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:6:37.267" type="KB" tl="BASE" data="Prof." />
+<event date="2010-4-7 11:6:37.402" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:6:38.392" type="KB" tl="BASE" data="Ya" />
+<event date="2010-4-7 11:6:41.63" type="KB" tl="BASE" data="Yo" />
+<event date="2010-4-7 11:6:41.568" type="KB" tl="BASE" data="ca" />
+<event date="2010-4-7 11:6:42.309" type="KB" tl="BASE" data="fin" />
+<event date="2010-4-7 11:6:42.573" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:6:44.441" type="KB" tl="BASE" data="jp" />
+<event date="2010-4-7 11:6:45.357" type="KB" tl="BASE" data="fin[BACKSPACE]" />
+<event date="2010-4-7 11:6:45.825" type="KB" tl="BASE" data="l" />
+<event date="2010-4-7 11:6:46.194" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:6:47.152" type="KB" tl="BASE" data="tha[BACKSPACE]" />
+<event date="2010-4-7 11:6:47.358" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:6:49.167" type="KB" tl="BASE" data="attachement." />
+<event date="2010-4-7 11:6:49.302" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:6:49.620" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:49.771" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:49.928" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:50.71" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:50.210" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:50.369" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:50.847" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:6:52.252" type="KB" tl="BASE" data="ment." />
+<event date="2010-4-7 11:6:52.404" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:6:54.742" type="KB" tl="BASE" data="I" />
+<event date="2010-4-7 11:6:55.185" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:6:56.351" type="KB" tl="BASE" data="geen[BACKSPACE]" />
+<event date="2010-4-7 11:6:56.485" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:0.200" type="KB" tl="BASE" data="nerater[BACKSPACE]" />
+<event date="2010-4-7 11:7:0.500" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:1.39" type="KB" tl="BASE" data="b" />
+<event date="2010-4-7 11:7:1.504" type="KB" tl="BASE" data="th" />
+<event date="2010-4-7 11:7:1.839" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:2.9" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:2.169" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:2.287" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:3.66" type="KB" tl="BASE" data="ou" />
+<event date="2010-4-7 11:7:3.992" type="KB" tl="BASE" data="cod" />
+<event date="2010-4-7 11:7:5.787" type="KB" tl="BASE" data="an" />
+<event date="2010-4-7 11:7:6.796" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:7:7.638" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:7:10.52" type="KB" tl="BASE" data="muc" />
+<event date="2010-4-7 11:7:11.116" type="KB" tl="BASE" data="mor" />
+<event date="2010-4-7 11:7:13.45" type="KB" tl="BASE" data="accurat" />
+<event date="2010-4-7 11:7:13.884" type="KB" tl="BASE" data="now." />
+<event date="2010-4-7 11:7:14.34" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:16.193" type="KB" tl="BASE" data="I" />
+<event date="2010-4-7 11:7:16.562" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:16.720" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:16.871" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:18.359" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:18.852" type="KB" tl="BASE" data="j[BACKSPACE]" />
+<event date="2010-4-7 11:7:19.3" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:19.153" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:28.590" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:30.25" type="KB" tl="BASE" data="haven'" />
+<event date="2010-4-7 11:7:30.240" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:32.91" type="KB" tl="BASE" data="dealle[BACKSPACE]" />
+<event date="2010-4-7 11:7:32.249" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:32.607" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:32.758" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:32.900" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:33.28" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:34.144" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:34.294" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:34.452" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:34.594" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:34.737" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:34.888" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:35.4" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:35.275" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:35.689" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:35.840" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:35.990" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:36.697" type="KB" tl="BASE" data="S[BACKSPACE]" />
+<event date="2010-4-7 11:7:36.904" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:38.829" type="KB" tl="BASE" data="S" />
+<event date="2010-4-7 11:7:39.620" type="KB" tl="BASE" data="fa" />
+<event date="2010-4-7 11:7:39.737" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:40.165" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:40.603" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:40.745" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:40.855" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:41.440" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:42.94" type="KB" tl="BASE" data="a[BACKSPACE]" />
+<event date="2010-4-7 11:7:43.79" type="KB" tl="BASE" data="wha" />
+<event date="2010-4-7 11:7:44.77" type="KB" tl="BASE" data="w" />
+<event date="2010-4-7 11:7:44.795" type="KB" tl="BASE" data="ca" />
+<event date="2010-4-7 11:7:45.314" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:45.472" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:45.974" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.12" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.45" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.78" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.113" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.146" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.180" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.213" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.393" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:46.591" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:47.40" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:7:47.647" type="KB" tl="BASE" data="jus" />
+<event date="2010-4-7 11:7:50.696" type="KB" tl="BASE" data="clu[BACKSPACE]" />
+<event date="2010-4-7 11:7:50.846" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:50.996" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:51.147" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:51.297" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:51.447" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:51.597" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:51.748" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:53.189" type="KB" tl="BASE" data="hav" />
+<event date="2010-4-7 11:7:54.667" type="KB" tl="BASE" data="finishe" />
+<event date="2010-4-7 11:7:55.936" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.438" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.472" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.505" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.539" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.574" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.607" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.641" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.674" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.707" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.741" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.775" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.810" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:56.843" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:57.40" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:7:57.291" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:34.439" type="KB" tl="BASE" data="ou" />
+<event date="2010-4-7 11:16:36.476" type="KB" tl="BASE" data="cod" />
+<event date="2010-4-7 11:16:37.325" type="KB" tl="BASE" data="ca" />
+<event date="2010-4-7 11:16:39.159" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:39.339" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:39.842" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:39.875" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:39.909" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:39.942" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:39.977" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:40.12" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:40.48" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:40.81" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:40.114" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:40.149" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:40.182" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:40.215" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:42.302" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:16:43.710" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:16:44.466" type="KB" tl="BASE" data="ha[BACKSPACE]" />
+<event date="2010-4-7 11:16:44.600" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:45.614" type="KB" tl="BASE" data="dod[BACKSPACE]" />
+<event date="2010-4-7 11:16:45.748" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:46.875" type="KB" tl="BASE" data="iddn[BACKSPACE]" />
+<event date="2010-4-7 11:16:47.9" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:47.501" type="KB" tl="BASE" data="n;" />
+<event date="2010-4-7 11:16:47.835" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:16:48.865" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:49.23" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:49.172" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:49.731" type="KB" tl="BASE" data="'" />
+<event date="2010-4-7 11:16:50.20" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:16:50.990" type="KB" tl="BASE" data="dea" />
+<event date="2010-4-7 11:16:51.421" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:51.571" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:51.731" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:51.889" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:52.45" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:52.196" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:52.364" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:16:52.855" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:16:54.141" type="KB" tl="BASE" data="dea" />
+<event date="2010-4-7 11:16:54.988" type="KB" tl="BASE" data="wit" />
+<event date="2010-4-7 11:17:15.308" type="KB" tl="BASE" data="th" />
+<event date="2010-4-7 11:17:16.794" type="KB" tl="BASE" data="conten" />
+<event date="2010-4-7 11:17:17.167" type="KB" tl="BASE" data="o" />
+<event date="2010-4-7 11:17:20.255" type="KB" tl="BASE" data="key" />
+<event date="2010-4-7 11:17:20.992" type="KB" tl="BASE" data="a[BACKSPACE]" />
+<event date="2010-4-7 11:17:21.159" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:21.317" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:21.459" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:23.350" type="KB" tl="BASE" data="ys[BACKSPACE]" />
+<event date="2010-4-7 11:17:25.5" type="KB" tl="BASE" data="p[BACKSPACE]" />
+<event date="2010-4-7 11:17:31.916" type="KB" tl="BASE" data="boar" />
+<event date="2010-4-7 11:17:32.907" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:33.82" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:33.247" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:33.396" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:33.539" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:33.689" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:35.198" type="KB" tl="BASE" data="pres" />
+<event date="2010-4-7 11:17:35.656" type="KB" tl="BASE" data="an" />
+<event date="2010-4-7 11:17:38.492" type="KB" tl="BASE" data="click." />
+<event date="2010-4-7 11:17:38.612" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:17:39.303" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:17:42.124" type="KB" tl="BASE" data="think[BACKSPACE]" />
+<event date="2010-4-7 11:17:42.298" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:42.472" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:42.614" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:42.771" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:42.922" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:43.81" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:43.745" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:17:44.196" type="KB" tl="BASE" data="a" />
+<event date="2010-4-7 11:17:46.11" type="KB" tl="BASE" data="gonn" />
+<event date="2010-4-7 11:17:46.404" type="KB" tl="BASE" data="t" />
+<event date="2010-4-7 11:17:48.619" type="KB" tl="BASE" data="continut[BACKSPACE]" />
+<event date="2010-4-7 11:17:48.920" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:17:49.685" type="KB" tl="BASE" data="thi" />
+<event date="2010-4-7 11:17:50.324" type="KB" tl="BASE" data="wi" />
+<event date="2010-4-7 11:17:50.859" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:17:51.352" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:17:59.192" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:17:59.819" type="KB" tl="BASE" data="B[BACKSPACE]" />
+<event date="2010-4-7 11:17:59.985" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:0.119" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:0.779" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:1.980" type="KB" tl="BASE" data="bette" />
+<event date="2010-4-7 11:18:6.629" type="KB" tl="BASE" data="visualizatio" />
+<event date="2010-4-7 11:18:7.324" type="KB" tl="BASE" data="wa" />
+<event date="2010-4-7 11:18:7.774" type="KB" tl="BASE" data="t" />
+<event date="2010-4-7 11:18:9.583" type="KB" tl="BASE" data="displa" />
+<event date="2010-4-7 11:18:10.136" type="KB" tl="BASE" data="th" />
+<event date="2010-4-7 11:18:10.935" type="KB" tl="BASE" data="dat" />
+<event date="2010-4-7 11:18:11.988" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:18:15.226" type="KB" tl="BASE" data="Fla[BACKSPACE]" />
+<event date="2010-4-7 11:18:15.432" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:15.615" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:15.757" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:15.916" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:16.64" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:17.282" type="KB" tl="BASE" data="b" />
+<event date="2010-4-7 11:18:18.224" type="KB" tl="BASE" data="usin" />
+<event date="2010-4-7 11:18:19.797" type="KB" tl="BASE" data="Flas" />
+<event date="2010-4-7 11:18:21.891" type="KB" tl="BASE" data="Builder." />
+<event date="2010-4-7 11:18:22.26" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:23.166" type="KB" tl="BASE" data="Bu" />
+<event date="2010-4-7 11:18:23.790" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:23.956" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:24.106" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:24.714" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:25.589" type="KB" tl="BASE" data="Her" />
+<event date="2010-4-7 11:18:25.935" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:18:26.559" type="KB" tl="BASE" data="on" />
+<event date="2010-4-7 11:18:27.798" type="KB" tl="BASE" data="thin" />
+<event date="2010-4-7 11:18:28.574" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:29.403" type="KB" tl="BASE" data="thin" />
+<event date="2010-4-7 11:18:30.925" type="KB" tl="BASE" data="it'" />
+<event date="2010-4-7 11:18:31.175" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:31.545" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:31.729" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:31.879" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:32.45" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:32.195" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:33.74" type="KB" tl="BASE" data="yo" />
+<event date="2010-4-7 11:18:34.250" type="KB" tl="BASE" data="nee" />
+<event date="2010-4-7 11:18:34.629" type="KB" tl="BASE" data="t" />
+<event date="2010-4-7 11:18:35.305" type="KB" tl="BASE" data="kno" />
+<event date="2010-4-7 11:18:36.388" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:18:36.961" type="KB" tl="BASE" data="tha" />
+<event date="2010-4-7 11:18:40.755" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:42.353" type="KB" tl="BASE" data="tha" />
+<event date="2010-4-7 11:18:44.15" type="KB" tl="BASE" data="Flas" />
+<event date="2010-4-7 11:18:45.493" type="KB" tl="BASE" data="Builde" />
+<event date="2010-4-7 11:18:45.842" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:18:46.792" type="KB" tl="BASE" data="no" />
+<event date="2010-4-7 11:18:47.638" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:48.722" type="KB" tl="BASE" data="fre" />
+<event date="2010-4-7 11:18:50.640" type="KB" tl="BASE" data="software." />
+<event date="2010-4-7 11:18:50.783" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:51.247" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:51.404" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:51.668" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:51.859" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:52.501" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:52.871" type="KB" tl="BASE" data="a" />
+<event date="2010-4-7 11:18:53.807" type="KB" tl="BASE" data="usin" />
+<event date="2010-4-7 11:18:54.70" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:55.594" type="KB" tl="BASE" data="trai" />
+<event date="2010-4-7 11:18:57.115" type="KB" tl="BASE" data="version." />
+<event date="2010-4-7 11:18:57.251" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:18:59.265" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:59.767" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:59.802" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:59.835" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:59.866" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:59.900" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:59.933" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:18:59.966" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.0" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.33" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.67" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.100" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.134" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.167" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.200" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.235" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.268" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.301" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.335" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.368" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.402" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.436" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.470" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.503" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.537" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.570" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.604" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.638" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.670" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.703" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.737" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.770" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.804" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.838" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.870" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.904" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.939" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:0.972" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.4" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.38" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.73" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.106" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.139" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.173" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.207" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.240" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.274" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.307" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.341" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.374" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.408" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.442" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.474" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.507" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.540" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.573" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.606" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.639" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.672" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.705" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.739" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.772" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.805" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.838" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.871" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.905" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.938" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:1.972" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.4" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.37" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.70" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.103" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.137" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.170" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.204" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.237" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.271" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.304" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.338" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.372" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.405" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.438" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.673" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.838" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:2.998" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:3.171" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:3.330" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:3.481" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:3.647" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:5.540" type="KB" tl="BASE" data="I" />
+<event date="2010-4-7 11:19:6.49" type="KB" tl="BASE" data="yo" />
+<event date="2010-4-7 11:19:7.11" type="KB" tl="BASE" data="hav[BACKSPACE]" />
+<event date="2010-4-7 11:19:7.169" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:7.383" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:8.91" type="KB" tl="BASE" data="wan" />
+<event date="2010-4-7 11:19:8.731" type="KB" tl="BASE" data="t[BACKSPACE]" />
+<event date="2010-4-7 11:19:8.896" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:9.55" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:9.220" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:9.386" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:9.528" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:10.496" type="KB" tl="BASE" data="hav" />
+<event date="2010-4-7 11:19:11.281" type="KB" tl="BASE" data="so[BACKSPACE]" />
+<event date="2010-4-7 11:19:11.439" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:19:12.749" type="KB" tl="BASE" data="a[BACKSPACE]" />
+<event date="2010-4-7 11:25:11.761" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:25:11.931" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:25:12.105" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:25:12.256" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:25:12.421" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:25:13.443" type="KB" tl="BASE" data="wan" />
+<event date="2010-4-7 11:25:13.863" type="KB" tl="BASE" data="t" />
+<event date="2010-4-7 11:25:14.437" type="KB" tl="BASE" data="se" />
+<event date="2010-4-7 11:25:14.911" type="KB" tl="BASE" data="i" />
+<event date="2010-4-7 11:25:15.409" type="KB" tl="BASE" data="o" />
+<event date="2010-4-7 11:25:16.106" type="KB" tl="BASE" data="yo" />
+<event date="2010-4-7 11:25:16.820" type="KB" tl="BASE" data="wa[BACKSPACE]" />
+<event date="2010-4-7 11:25:16.994" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:25:17.938" type="KB" tl="BASE" data="hav" />
+<event date="2010-4-7 11:25:18.731" type="KB" tl="BASE" data="sn[BACKSPACE]" />
+<event date="2010-4-7 11:25:18.873" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-7 11:25:19.442" type="KB" tl="BASE" data="an" />
+<event date="2010-4-7 11:25:22.35" type="KB" tl="BASE" data="suggestion" />
+<event date="2010-4-7 11:25:22.163" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:25:23.293" type="KB" tl="BASE" data="pleas" />
+<event date="2010-4-7 11:25:23.894" type="KB" tl="BASE" data="le" />
+<event date="2010-4-7 11:25:24.301" type="KB" tl="BASE" data="m" />
+<event date="2010-4-7 11:25:24.940" type="KB" tl="BASE" data="know." />
+<event date="2010-4-7 11:25:25.51" type="KB" tl="BASE" data="" />
+<event date="2010-4-7 11:25:25.956" type="KB" tl="BASE" data="Thanks." />
+<event date="2010-4-7 11:25:27.164" type="KB" tl="BASE" data="Bes" />
+<event date="2010-4-7 11:26:4.332" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-7 11:26:20.604" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-12 11:1:25.497" type="KB" tl="BASE" data="https:" />
+<event date="2010-4-12 11:1:25.710" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 11:1:25.860" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 11:1:27.238" type="KB" tl="BASE" data="mail." />
+<event date="2010-4-12 11:1:28.56" type="KB" tl="BASE" data="google." />
+<event date="2010-4-12 11:1:28.694" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 11:1:32.769" type="KB" tl="BASE" data="bangnilz[TAB]" />
+<event date="2010-4-12 11:1:35.93" type="KB" tl="BASE" data="1984614515" />
+<event date="2010-4-12 11:1:35.113" type="MC" tl="BASE" domain="google.com" URL="https://www.google.com/accounts/ServiceLoginAuth" />
+<event date="2010-4-12 11:1:49.810" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-4-12 11:1:53.289" type="KB" tl="BASE" data="ba" />
+<event date="2010-4-12 11:1:55.607" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-4-12 11:1:55.607" type="KB" tl="BASE" data="g[BACKSPACE]" />
+<event date="2010-4-12 11:2:1.824" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-4-12 11:2:44.949" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-4-12 11:2:47.248" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-4-12 11:2:47.646" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-4-12 11:2:53.137" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-4-12 20:57:3.270" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:57:4.146" type="KB" tl="BASE" data="google." />
+<event date="2010-4-12 20:57:5.68" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:57:12.718" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:57:14.801" type="KB" tl="BASE" data="akamai." />
+<event date="2010-4-12 20:57:15.610" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:57:23.140" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:57:24.470" type="KB" tl="BASE" data="digg." />
+<event date="2010-4-12 20:57:25.205" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:57:32.863" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:57:34.228" type="KB" tl="BASE" data="baidu." />
+<event date="2010-4-12 20:57:34.866" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:57:38.166" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:57:39.462" type="KB" tl="BASE" data="cnn." />
+<event date="2010-4-12 20:57:40.129" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:58:42.34" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:58:43.338" type="KB" tl="BASE" data="youtube." />
+<event date="2010-4-12 20:58:44.4" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:58:47.479" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:58:49.687" type="KB" tl="BASE" data="akamai." />
+<event date="2010-4-12 20:58:50.365" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:58:54.154" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:58:54.884" type="KB" tl="BASE" data="cnn." />
+<event date="2010-4-12 20:58:55.468" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:59:0.766" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:59:1.733" type="KB" tl="BASE" data="digg." />
+<event date="2010-4-12 20:59:2.358" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:59:6.844" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:59:7.820" type="KB" tl="BASE" data="baidu." />
+<event date="2010-4-12 20:59:8.442" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 20:59:11.864" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 20:59:12.512" type="KB" tl="BASE" data="u" />
+<event date="2010-4-12 20:59:12.984" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 20:59:13.469" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 20:59:14.286" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 21:1:47.761" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:1:48.627" type="KB" tl="BASE" data="google." />
+<event date="2010-4-12 21:1:49.296" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 21:1:53.934" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:1:56.32" type="KB" tl="BASE" data="cnn." />
+<event date="2010-4-12 21:1:56.782" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 21:2:1.474" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:2:4.746" type="KB" tl="BASE" data="digg." />
+<event date="2010-4-12 21:2:5.913" type="KB" tl="BASE" data="cpm" />
+<event date="2010-4-12 21:2:9.286" type="KB" tl="BASE" data="[BACKSPACE][BACKSPACE]om" />
+<event date="2010-4-12 21:2:24.21" type="MC" tl="BASE" domain="cnn.com" URL="http://amfix.blogs.cnn.com/2010/04/12/assessing-chinas-impact-on-america/" />
+<event date="2010-4-12 21:2:29.991" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:2:32.456" type="KB" tl="BASE" data="youtube." />
+<event date="2010-4-12 21:2:33.161" type="KB" tl="BASE" data="com" />
+<event date="2010-4-12 21:2:39.630" type="KB" tl="BASE" data="akamai." />
+<event date="2010-4-12 21:2:40.480" type="KB" tl="BASE" data="com" />
+<event date="2010-04-12 21:03:52.116647" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:03:52.265255" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:03:52.303764" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:03:52.539610" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:03:52.575343" type="URL" tl="BASE" ip="74.125.93.138" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:03:52.611554" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-4-12 21:4:24.462" type="KB" tl="BASE" data="www." />
+<event date="2010-4-12 21:4:25.321" type="KB" tl="BASE" data="google." />
+<event date="2010-04-12 21:04:25.2331" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-4-12 21:4:26.9" type="KB" tl="BASE" data="com" />
+<event date="2010-04-12 21:04:26.216489" type="URL" tl="BASE" ip="74.125.93.138" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:26.322577" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:26.602553" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:26.803596" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:27.212572" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:28.28296" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:29.659728" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:31.326444" type="URL" tl="BASE" ip="76.74.254.121" domain="254.121]" lat="29.488899231" lng="-98.3986968994" city="San Antonio" region="TX" country="US" postalcode="78218" />
+<event date="2010-04-12 21:04:31.326571" type="URL" tl="BASE" ip="76.74.254.121" domain="254.121]" lat="29.488899231" lng="-98.3986968994" city="San Antonio" region="TX" country="US" postalcode="78218" />
+<event date="2010-04-12 21:04:31.544824" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.553931" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.554104" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.554377" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.555486" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.558168" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.565634" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:31.660299" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:31.668336" type="URL" tl="BASE" ip="64.94.107.29" domain="quantserve.com" lat="37.7757987976" lng="-122.41280365" city="San Francisco" region="CA" country="US" postalcode="94103" />
+<event date="2010-04-12 21:04:31.669612" type="URL" tl="BASE" ip="66.114.52.34" domain="wordpress.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
+<event date="2010-04-12 21:04:31.679921" type="URL" tl="BASE" ip="74.200.247.60" domain="wordpress.com" lat="33.0346984863" lng="-96.8134002686" city="Plano" region="TX" country="US" postalcode="75093" />
+<event date="2010-04-12 21:04:31.747878" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.755864" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.756012" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.756154" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.759558" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.759704" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:31.767671" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:32.155486" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.163916" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.164100" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.164272" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.169525" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.169685" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.176532" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:32.926644" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:32.972655" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.979943" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.979943" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.980045" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.988924" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.989064" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:32.993802" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:34.609013" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:34.614213" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:34.614393" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:34.614452" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:34.619644" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:34.619828" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:34.643106" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:37.867624" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:37.875634" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:37.875783" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:37.875933" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:37.883948" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:37.884131" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:37.888223" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:39.451802" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:41.574814" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:04:44.395568" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:44.403593" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:44.403731" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:44.403859" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:44.408448" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:44.408621" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:44.415873" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:52.508173" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:57.452119" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:57.459597" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:57.459779" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:57.459950" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:57.463732" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:57.463949" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:04:57.472142" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:05:18.620630" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:23.566256" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:23.580377" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:23.580538" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:23.580676" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:23.581022" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:23.581163" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:23.585634" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:05:36.966364" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:37.128124" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:37.147385" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:37.147540" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:37.179734" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:37.186057" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:37.209408" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:37.332240" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:37.380756" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:37.380892" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:37.741211" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:38.555516" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:40.187704" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:41.582337" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:43.452249" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.603953" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:43.857206" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.860621" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.865975" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.897289" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:43.908762" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.908919" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.909491" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.912562" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.984869" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.35663" type="URL" tl="BASE" ip="65.54.77.92" domain="live.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:44.127264" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.127485" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.133002" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.140126" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.167478" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.171292" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.180447" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.180796" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.182963" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.187732" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.190838" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.204196" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.222016" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.222165" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.236820" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.257037" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.257396" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.282680" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.299731" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.308826" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.309472" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.325399" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.325580" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.331859" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.334116" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.354582" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.354582" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.424803" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.424981" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.425276" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.446502" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.447269" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.512839" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.513010" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.513529" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.536205" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.536381" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.649828" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.650028" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.650179" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.650661" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.650830" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.684599" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.697553" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.830487" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.846271" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:44.864247" type="URL" tl="BASE" ip="66.235.133.33" domain="digg.com" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
+<event date="2010-04-12 21:05:44.882568" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.900588" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:44.922647" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:44.978605" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:44.978985" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.59749" type="URL" tl="BASE" ip="65.55.149.120" domain="live.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:45.68592" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:45.86658" type="URL" tl="BASE" ip="65.55.197.247" domain="msn.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:45.103784" type="URL" tl="BASE" ip="198.82.164.41" domain="scorecardresearch.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:45.103951" type="URL" tl="BASE" ip="65.55.197.247" domain="msn.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:45.104364" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.321952" type="URL" tl="BASE" ip="206.16.21.32" domain="atdmt.com" lat="32.9014015198" lng="-117.207901001" city="San Diego" region="CA" country="US" postalcode="92121" />
+<event date="2010-04-12 21:05:45.322092" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.322221" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.343917" type="URL" tl="BASE" ip="206.16.21.32" domain="atdmt.com" lat="32.9014015198" lng="-117.207901001" city="San Diego" region="CA" country="US" postalcode="92121" />
+<event date="2010-04-12 21:05:45.603935" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.668026" type="URL" tl="BASE" ip="198.82.164.42" domain="atdmt.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:45.670835" type="URL" tl="BASE" ip="69.176.111.135" domain="specificmedia.com" lat="40.8944015503" lng="-73.3710021973" city="Centerport" region="NY" country="US" postalcode="11721" />
+<event date="2010-04-12 21:05:45.696050" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.700363" type="URL" tl="BASE" ip="216.38.166.107" domain="doubleverify.com" lat="42.6105003357" lng="-71.2305984497" city="Tewksbury" region="MA" country="US" postalcode="01876" />
+<event date="2010-04-12 21:05:45.741424" type="URL" tl="BASE" ip="198.82.164.41" domain="atdmt.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:45.780287" type="URL" tl="BASE" ip="66.249.81.148" domain="specificmedia.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.780706" type="URL" tl="BASE" ip="66.114.52.25" domain="specificmedia.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
+<event date="2010-04-12 21:05:45.912710" type="URL" tl="BASE" ip="65.61.163.44" domain="doubleverify.com" lat="35.1371002197" lng="-85.0367965698" city="Ooltewah" region="TN" country="US" postalcode="37363" />
+<event date="2010-04-12 21:05:45.936603" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.946821" type="URL" tl="BASE" ip="216.38.166.107" domain="doubleverify.com" lat="42.6105003357" lng="-71.2305984497" city="Tewksbury" region="MA" country="US" postalcode="01876" />
+<event date="2010-04-12 21:05:46.9469" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.177751" type="URL" tl="BASE" ip="67.228.212.201" domain="doubleverify.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
+<event date="2010-04-12 21:05:46.399403" type="URL" tl="BASE" ip="65.54.77.92" domain="live.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:46.562669" type="URL" tl="BASE" ip="65.54.77.92" domain="live.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:46.567467" type="URL" tl="BASE" ip="74.125.93.139" domain="youtube.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.692618" type="URL" tl="BASE" ip="65.55.239.161" domain="atdmt.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:46.744104" type="URL" tl="BASE" ip="66.249.81.148" domain="specificmedia.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.798747" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.802627" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.820088" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.915168" type="URL" tl="BASE" ip="65.54.77.92" domain="msn.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:46.938177" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.55546" type="URL" tl="BASE" ip="67.228.212.201" domain="doubleverify.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
+<event date="2010-04-12 21:05:47.152331" type="URL" tl="BASE" ip="65.55.239.161" domain="atdmt.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:47.176178" type="URL" tl="BASE" ip="65.54.77.92" domain="live.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:05:47.185018" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.185337" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.221776" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.226684" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.231716" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.235123" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.251158" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.251402" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.264567" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.276928" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.296203" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.296395" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.317537" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.421213" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.457087" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.551937" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.608566" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.771295" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.885424" type="URL" tl="BASE" ip="74.125.53.100" domain="gstatic.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.892225" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.893615" type="URL" tl="BASE" ip="66.235.133.1" domain="digg.com" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
+<event date="2010-04-12 21:05:52.523712" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:52.652481" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:52.669303" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:52.669640" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:53.97729" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:53.100341" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:53.107985" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.75092" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.92693" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.93207" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.100654" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.101400" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.101563" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.117227" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.117378" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.124427" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.336045" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.348314" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" lat="47.6102981567" lng="-122.334197998" city="Seattle" region="WA" country="US" postalcode="98101" />
+<event date="2010-04-12 21:05:54.390412" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.409785" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.435579" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.473543" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.510462" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.561660" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.618793" type="URL" tl="BASE" ip="66.150.117.25" domain="webtrendslive.com" lat="45.5181007385" lng="-122.675102234" city="Portland" region="OR" country="US" postalcode="97204" />
+<event date="2010-04-12 21:05:54.706094" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" lat="44.5577011108" lng="-123.297798157" city="Corvallis" region="OR" country="US" postalcode="97339" />
+<event date="2010-04-12 21:05:54.841255" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.945669" type="URL" tl="BASE" ip="72.247.242.230" domain="edgefcs.net" lat="42.3625984192" lng="-71.0842971802" city="Cambridge" region="MA" country="US" postalcode="02142" />
+<event date="2010-04-12 21:05:54.968305" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:55.13689" type="URL" tl="BASE" ip="72.247.242.230" domain="edgefcs.net" lat="42.3625984192" lng="-71.0842971802" city="Cambridge" region="MA" country="US" postalcode="02142" />
+<event date="2010-04-12 21:05:55.46604" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" lat="44.5577011108" lng="-123.297798157" city="Corvallis" region="OR" country="US" postalcode="97339" />
+<event date="2010-04-12 21:06:02.869680" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" lat="47.6102981567" lng="-122.334197998" city="Seattle" region="WA" country="US" postalcode="98101" />
+<event date="2010-04-12 21:06:10.847338" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:06:15.788139" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:06:15.795782" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:06:15.795915" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:06:15.796045" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:06:15.799826" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:06:15.799961" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
+<event date="2010-04-12 21:06:15.807475" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-4-12 21:6:53.798" type="KB" tl="BASE" data="https:" />
+<event date="2010-4-12 21:6:54.19" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 21:6:54.177" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 21:6:56.250" type="KB" tl="BASE" data="mail[BACKSPACE]" />
+<event date="2010-4-12 21:6:56.432" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:56.605" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:56.779" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:57.282" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:57.511" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:57.694" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:6:58.362" type="KB" tl="BASE" data=":" />
+<event date="2010-4-12 21:6:58.608" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 21:6:58.757" type="KB" tl="BASE" data="/" />
+<event date="2010-4-12 21:7:6.55" type="MC" tl="BASE" domain="cnn.com" URL="http://amfix.blogs.cnn.com/2010/04/12/assessing-chinas-impact-on-america/" />
+<event date="2010-4-12 21:7:6.55" type="KB" tl="BASE" data="wehuijun[TAB]" />
+<event date="2010-4-12 21:7:8.506" type="KB" tl="BASE" data="Xhj1984614" />
+<event date="2010-4-12 21:7:8.551" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-12 21:7:14.751" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-12 21:7:19.738" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#msg%3AINBOX.VT_CS%3A410" />
+<event date="2010-4-12 21:7:23.847" type="MC" tl="BASE" domain="google.com" URL="https://docs.google.com/Doc" />
+<event date="2010-4-12 21:7:28.786" type="MC" tl="BASE" domain="google.com" URL="https://docs.google.com/Doc" />
+<event date="2010-4-12 21:7:48.178" type="MC" tl="BASE" domain="google.com" URL="https://docs.google.com/Doc" />
+<event date="2010-4-12 21:7:48.556" type="MC" tl="BASE" domain="google.com" URL="https://docs.google.com/Doc" />
+<event date="2010-4-12 21:7:52.793" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-12 21:7:58.957" type="KB" tl="BASE" data="[UP][UP][UP]Thank" />
+<event date="2010-4-12 21:7:59.682" type="KB" tl="BASE" data="fo" />
+<event date="2010-4-12 21:8:0.910" type="KB" tl="BASE" data="shr[BACKSPACE]" />
+<event date="2010-4-12 21:8:1.889" type="KB" tl="BASE" data="arin" />
+<event date="2010-4-12 21:8:1.912" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:2.351" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:2.485" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:2.763" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:2.882" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:3.520" type="KB" tl="BASE" data="B" />
+<event date="2010-4-12 21:8:4.866" type="KB" tl="BASE" data="thw[BACKSPACE]" />
+<event date="2010-4-12 21:8:5.80" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:6.124" type="KB" tl="BASE" data="wa" />
+<event date="2010-4-12 21:8:6.268" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:6.813" type="KB" tl="BASE" data="yo" />
+<event date="2010-4-12 21:8:7.735" type="KB" tl="BASE" data="ca" />
+<event date="2010-4-12 21:8:8.547" type="KB" tl="BASE" data="fin" />
+<event date="2010-4-12 21:8:9.953" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:11.206" type="KB" tl="BASE" data="new" />
+<event date="2010-4-12 21:8:11.533" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:11.667" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:11.801" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:12.647" type="KB" tl="BASE" data="snif" />
+<event date="2010-4-12 21:8:14.264" type="KB" tl="BASE" data="fil" />
+<event date="2010-4-12 21:8:14.697" type="KB" tl="BASE" data="i" />
+<event date="2010-4-12 21:8:15.584" type="KB" tl="BASE" data="tha[BACKSPACE]" />
+<event date="2010-4-12 21:8:15.780" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:17.542" type="KB" tl="BASE" data="attachmen" />
+<event date="2010-4-12 21:8:18.172" type="KB" tl="BASE" data="wit" />
+<event date="2010-4-12 21:8:21.401" type="KB" tl="BASE" data="I" />
+<event date="2010-4-12 21:8:23.0" type="KB" tl="BASE" data="addres" />
+<event date="2010-4-12 21:8:24.544" type="KB" tl="BASE" data="fo" />
+<event date="2010-4-12 21:8:25.28" type="KB" tl="BASE" data="e[BACKSPACE]" />
+<event date="2010-4-12 21:8:25.195" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:25.361" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:25.496" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:25.637" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:26.256" type="KB" tl="BASE" data="o" />
+<event date="2010-4-12 21:8:27.150" type="KB" tl="BASE" data="eac" />
+<event date="2010-4-12 21:8:29.16" type="KB" tl="BASE" data="row." />
+<event date="2010-4-12 21:8:30.303" type="KB" tl="BASE" data="I" />
+<event date="2010-4-12 21:8:30.940" type="KB" tl="BASE" data="ther" />
+<event date="2010-4-12 21:8:31.262" type="KB" tl="BASE" data="i" />
+<event date="2010-4-12 21:8:31.988" type="KB" tl="BASE" data="an" />
+<event date="2010-4-12 21:8:32.650" type="KB" tl="BASE" data="t[BACKSPACE]" />
+<event date="2010-4-12 21:8:33.455" type="KB" tl="BASE" data="othe" />
+<event date="2010-4-12 21:8:34.974" type="KB" tl="BASE" data="problem." />
+<event date="2010-4-12 21:8:35.405" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:35.667" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:35.762" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:37.63" type="KB" tl="BASE" data="pleas" />
+<event date="2010-4-12 21:8:37.749" type="KB" tl="BASE" data="le" />
+<event date="2010-4-12 21:8:38.358" type="KB" tl="BASE" data="m" />
+<event date="2010-4-12 21:8:39.164" type="KB" tl="BASE" data="know." />
+<event date="2010-4-12 21:8:39.339" type="KB" tl="BASE" data="" />
+<event date="2010-4-12 21:8:42.49" type="KB" tl="BASE" data="Enjoy." />
+<event date="2010-4-12 21:8:44.798" type="KB" tl="BASE" data="_" />
+<event date="2010-4-12 21:8:44.972" type="KB" tl="BASE" data="_" />
+<event date="2010-4-12 21:8:45.114" type="KB" tl="BASE" data="_" />
+<event date="2010-4-12 21:8:50.747" type="KB" tl="BASE" data="Huijunbes" />
+<event date="2010-4-12 21:8:51.291" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:51.481" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:51.647" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:51.797" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:51.947" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:53.928" type="KB" tl="BASE" data="b[BACKSPACE]" />
+<event date="2010-4-12 21:8:55.480" type="KB" tl="BASE" data="Bes" />
+<event date="2010-4-12 21:8:57.465" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:8:58.368" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:58.527" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:58.691" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:8:58.833" type="KB" tl="BASE" data="." />
+<event date="2010-4-12 21:9:1.292" type="KB" tl="BASE" data="[RIGHT]" />
+<event date="2010-4-12 21:9:1.657" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:1.823" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:1.990" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:2.149" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:2.315" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:2.489" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-12 21:9:3.455" type="KB" tl="BASE" data="-" />
+<event date="2010-4-12 21:9:35.840" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-12 21:9:44.449" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:42:35.86" type="KB" tl="BASE" data="http:" />
+<event date="2010-4-27 18:42:35.308" type="KB" tl="BASE" data="/" />
+<event date="2010-4-27 18:42:35.466" type="KB" tl="BASE" data="/" />
+<event date="2010-4-27 18:42:41.787" type="KB" tl="BASE" data="webhuijun[TAB]" />
+<event date="2010-4-27 18:42:44.767" type="KB" tl="BASE" data="Xhj1984615[BACKSPACE]" />
+<event date="2010-4-27 18:42:44.942" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.117" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.267" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.417" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.568" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.718" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:45.861" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:46.5" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:46.138" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:46.280" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:42:50.613" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:56.16" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:56.218" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:56.425" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:56.614" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/imp/redirect.php" />
+<event date="2010-4-27 18:42:57.281" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#folder%3AINBOX.VT_CS" />
+<event date="2010-4-27 18:43:2.580" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#folder%3AINBOX.VT_CS" />
+<event date="2010-4-27 18:43:3.245" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#folder%3AINBOX.VT_CS" />
+<event date="2010-4-27 18:43:8.834" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#folder%3AINBOX.VT_CS" />
+<event date="2010-4-27 18:43:8.868" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:43:10.37" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:43:16.543" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#msg%3AINBOX.VT_CS%3A470" />
+<event date="2010-4-27 18:43:20.68" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:43:25.230" type="KB" tl="BASE" data="[UP][UP][UP]H" />
+<event date="2010-4-27 18:43:25.366" type="KB" tl="BASE" data="" />
+<event date="2010-4-27 18:43:27.100" type="KB" tl="BASE" data="Yipa" />
+<event date="2010-4-27 18:43:29.186" type="KB" tl="BASE" data="Her" />
+<event date="2010-4-27 18:43:29.456" type="KB" tl="BASE" data="i" />
+<event date="2010-4-27 18:43:29.858" type="KB" tl="BASE" data="th" />
+<event date="2010-4-27 18:43:30.634" type="KB" tl="BASE" data="file." />
+<event date="2010-4-27 18:43:30.751" type="KB" tl="BASE" data="" />
+<event date="2010-4-27 18:43:31.608" type="KB" tl="BASE" data="Le" />
+<event date="2010-4-27 18:43:32.69" type="KB" tl="BASE" data="m" />
+<event date="2010-4-27 18:43:32.673" type="KB" tl="BASE" data="kno" />
+<event date="2010-4-27 18:43:33.128" type="KB" tl="BASE" data="i" />
+<event date="2010-4-27 18:43:33.726" type="KB" tl="BASE" data="ther" />
+<event date="2010-4-27 18:43:34.202" type="KB" tl="BASE" data="i" />
+<event date="2010-4-27 18:43:34.907" type="KB" tl="BASE" data="an" />
+<event date="2010-4-27 18:43:36.343" type="KB" tl="BASE" data="problem." />
+<event date="2010-4-27 18:43:36.711" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-4-27 18:43:37.968" type="KB" tl="BASE" data="." />
+<event date="2010-4-27 18:43:38.64" type="KB" tl="BASE" data="" />
+<event date="2010-4-27 18:43:39.156" type="KB" tl="BASE" data="t[BACKSPACE]" />
+<event date="2010-4-27 18:43:40.336" type="KB" tl="BASE" data="Thanks." />
+<event date="2010-4-27 18:43:41.524" type="KB" tl="BASE" data="Bes" />
+<event date="2010-4-27 18:44:10.421" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:9.665" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:12.567" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:15.793" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:26.262" type="MC" tl="BASE" domain="vt.edu" URL="https://webmail.cs.vt.edu/horde/dimp/#msg%3AINBOX.Sent%3A73" />
+<event date="2010-4-27 18:58:44.902" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-4-27 18:58:46.47" type="MC" tl="BASE" domain="" URL="" />
+<event date="2010-5-25 11:54:5.81" type="KB" tl="BASE" data="https:" />
+<event date="2010-5-25 11:54:5.280" type="KB" tl="BASE" data="/" />
+<event date="2010-5-25 11:54:5.323" type="KB" tl="BASE" data="/" />
+<event date="2010-5-25 11:54:6.297" type="KB" tl="BASE" data="mail." />
+<event date="2010-5-25 11:54:7.114" type="KB" tl="BASE" data="google." />
+<event date="2010-5-25 11:54:7.787" type="KB" tl="BASE" data="com" />
+<event date="2010-5-25 11:55:28.772" type="KB" tl="BASE" data="bangnilz1984614515" />
+<event date="2010-5-25 11:55:28.796" type="MC" tl="BASE" domain="google.com" URL="https://www.google.com/accounts/ServiceLoginAuth" />
+<event date="2010-5-25 11:55:40.416" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-5-25 11:55:42.889" type="KB" tl="BASE" data="a[BACKSPACE]" />
+<event date="2010-5-25 11:55:45.167" type="KB" tl="BASE" data="bangnilz" />
+<event date="2010-5-25 11:55:48.353" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+<event date="2010-5-25 11:55:48.353" type="KB" tl="BASE" data="ke[BACKSPACE]" />
+<event date="2010-5-25 11:55:48.484" type="KB" tl="BASE" data="[BACKSPACE]" />
+<event date="2010-5-25 11:55:49.760" type="KB" tl="BASE" data="logge" />
+<event date="2010-5-25 11:55:53.803" type="MC" tl="BASE" domain="google.com" URL="https://mail.google.com/mail/" />
+</events>
