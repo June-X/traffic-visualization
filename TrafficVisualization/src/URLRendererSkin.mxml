@@ -12,6 +12,7 @@
 	<s:states>
 		<s:State name="normal" />
 		<s:State name="disabled" />
+		<s:State name="hovered" />
 	</s:states>
 		
 	<s:Rect left="0" right="0" top="0" bottom="0" radiusX="5" radiusY="5">
@@ -22,9 +23,9 @@
 			<!--s:SolidColor color="{getStyle('backgroundColor')}" alpha="{getStyle('backgroundAlpha')}"/-->
 			<s:LinearGradient rotation="90">
 				<s:entries>
-					<s:GradientEntry id="rf1" color="0x0099FF" ratio="0.00" alpha="0.8"/>
-					<s:GradientEntry id="rf2" color="0x336699" ratio="1.0" alpha="0.5" />
-					<s:GradientEntry id="rf3" color="0xCCCCCC" ratio="0.5" alpha=".8" />
+					<s:GradientEntry id="rf1" color="0x0099FF" ratio="0.00" alpha.normal="0.8" alpha.hovered="1.0"/>
+					<s:GradientEntry id="rf2" color="0x336699" ratio="1.0" alpha.normal="0.5" alpha.hovered="1.0"/>
+					<s:GradientEntry id="rf3" color="0xCCCCCC" ratio="0.5" alpha.normal=".8" alpha.hovered="1.0" />
 				</s:entries>
 			</s:LinearGradient>    
 		</s:fill>
