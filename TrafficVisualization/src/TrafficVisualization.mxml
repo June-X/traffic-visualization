@@ -249,7 +249,7 @@
 						<!--parseFunction="parseDate" mx:SeriesSlide  id="exp" direction="down" elementOffset="150" dataUnits="seconds" dataInterval="0.1" parseFunction="parseDate" / -->
 						
 						<mx:horizontalAxis>
-							<mx:DateTimeAxis id="DateAxis" dataUnits="seconds" displayLocalTime="true" dataInterval="1" parseFunction="parseDate"  />
+							<mx:DateTimeAxis id="DateAxis" dataUnits="milliseconds" displayLocalTime="true" dataInterval="1" parseFunction="parseDate"  />
 						</mx:horizontalAxis>
 						
 						<mx:horizontalAxisRenderers>
