@@ -2,24 +2,16 @@
 <events>
 <item date="2010-07-26 10:45:57.616310" type="URL" tl="BASE" ip="74.125.0.145" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" >
 <subitem date="2010-07-26 10:45:57.616310" type="URL" tl="BASE" ip="74.125.0.145" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:04.143891" type="URL" tl="BASE" ip="74.125.0.145" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 </item>
-<item date="2010-7-26 10:46:12.44" type="KB" tl="BASE" keys="google.com" >
+<item date="2010-7-26 10:46:12.44" type="KB" tl="BASE" keys="www.google.com" >
 <subitem date="2010-7-26 10:46:12.44" type="KB" tl="BASE" keys="www." />
 <subitem date="2010-7-26 10:46:13.637" type="KB" tl="BASE" keys="google." />
 <subitem date="2010-7-26 10:46:14.558" type="KB" tl="BASE" keys="com" />
 </item>
 <item date="2010-07-26 10:46:14.588413" type="URL" tl="BASE" ip="72.14.204.99" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" >
 <subitem date="2010-07-26 10:46:14.588413" type="URL" tl="BASE" ip="72.14.204.99" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:14.669707" type="URL" tl="BASE" ip="72.14.204.99" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:14.693129" type="URL" tl="BASE" ip="72.14.204.99" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:14.770291" type="URL" tl="BASE" ip="72.14.204.99" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:15.88402" type="URL" tl="BASE" ip="72.14.204.99" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:15.193040" type="URL" tl="BASE" ip="72.14.204.99" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:15.205228" type="URL" tl="BASE" ip="72.14.204.99" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:17.200079" type="URL" tl="BASE" ip="74.125.0.145" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 </item>
-<item date="2010-7-26 10:46:33.682" type="KB" tl="BASE" keys="cnn.com" >
+<item date="2010-7-26 10:46:33.682" type="KB" tl="BASE" keys="www.cnn.com" >
 <subitem date="2010-7-26 10:46:33.682" type="KB" tl="BASE" keys="www." />
 <subitem date="2010-7-26 10:46:35.603" type="KB" tl="BASE" keys="cnn." />
 <subitem date="2010-7-26 10:46:36.506" type="KB" tl="BASE" keys="com" />
@@ -27,319 +19,27 @@
 <item date="2010-07-26 10:46:36.560606" type="URL" tl="BASE" ip="157.166.226.25" domain="cnn.com" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" >
 <subitem date="2010-07-26 10:46:36.560606" type="URL" tl="BASE" ip="157.166.226.25" domain="cnn.com" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:46:36.748396" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.780520" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.795205" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.795364" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.807451" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.840900" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.844975" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.847430" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.851315" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.865369" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.865513" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.867673" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.872932" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.877640" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.878756" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.878894" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.881104" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.890763" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.890962" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.896749" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.904809" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.907382" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.915784" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:36.926594" type="URL" tl="BASE" ip="157.166.255.6" domain="cnn.com" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:36.930774" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.501032" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:46:37.503795" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.503913" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.525532" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.529597" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:46:37.548549" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:37.548683" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.549165" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.559060" type="URL" tl="BASE" ip="157.166.226.25" domain="cnn.com" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.576527" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.579624" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.608452" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.608601" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.608861" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.609000" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.609124" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.609280" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.618292" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.618423" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.636299" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.636432" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.642784" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.643673" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.659267" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.670682" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.686146" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.686255" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.695981" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.696405" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.707654" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.717732" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.722731" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.727340" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.738787" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.746944" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.758539" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.758878" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.762108" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.773334" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.774560" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:46:37.808003" type="URL" tl="BASE" ip="157.166.226.25" domain="226.25]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.808282" type="URL" tl="BASE" ip="157.166.226.25" domain="226.25]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:37.808538" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.808989" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.850842" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.862515" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.862672" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.862810" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.862934" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:37.880523" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:38.21706" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:38.193133" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:38.193269" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:38.264813" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:38.265221" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:38.272847" type="URL" tl="BASE" ip="72.32.153.176" domain="cnn.com" lat="40.0797996521" lng="-75.2854995728" city="Conshohocken" region="PA" country="US" postalcode="19428" />
-<subitem date="2010-07-26 10:46:38.295552" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:38.308781" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:38.332353" type="URL" tl="BASE" ip="72.32.153.176" domain="cnn.com" lat="40.0797996521" lng="-75.2854995728" city="Conshohocken" region="PA" country="US" postalcode="19428" />
-<subitem date="2010-07-26 10:46:38.348918" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:38.349035" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:38.391673" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:38.391802" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:38.840297" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 <subitem date="2010-07-26 10:46:38.868163" type="URL" tl="BASE" ip="198.82.164.40" domain="pointroll.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:38.883081" type="URL" tl="BASE" ip="198.82.164.42" domain="pointroll.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:38.894368" type="URL" tl="BASE" ip="198.82.164.42" domain="pointroll.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:38.895864" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:38.906220" type="URL" tl="BASE" ip="198.82.164.40" domain="pointroll.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:46:38.999749" type="URL" tl="BASE" ip="74.217.240.83" domain="240.83]" lat="47.615398407" lng="-122.210296631" city="Bellevue" region="WA" country="US" postalcode="98004" />
-<subitem date="2010-07-26 10:46:38.999952" type="URL" tl="BASE" ip="74.217.240.83" domain="240.83]" lat="47.615398407" lng="-122.210296631" city="Bellevue" region="WA" country="US" postalcode="98004" />
 <subitem date="2010-07-26 10:46:39.49669" type="URL" tl="BASE" ip="69.9.45.36" domain="outbrain.com" lat="40.8162002563" lng="-74.2164001465" city="Montclair" region="NJ" country="US" postalcode="07042" />
-<subitem date="2010-07-26 10:46:39.78695" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:46:39.192062" type="URL" tl="BASE" ip="198.82.164.42" domain="adsonar.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:39.552366" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:39.591744" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:40.348368" type="URL" tl="BASE" ip="198.82.164.42" domain="pointroll.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:40.370785" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.374856" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.387865" type="URL" tl="BASE" ip="198.78.215.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.420695" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.531975" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.532091" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.560881" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.561013" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.603723" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.603877" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.616386" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.624785" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.634440" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.653367" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.653517" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.662123" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.662238" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.662380" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.662488" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.682843" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:40.749108" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.749258" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.789291" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:40.789491" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.218929" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.219165" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.251654" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:41.442343" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:41.445834" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:41.465133" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.465257" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.643986" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.644137" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.658971" type="URL" tl="BASE" ip="69.9.45.36" domain="outbrain.com" lat="40.8162002563" lng="-74.2164001465" city="Montclair" region="NJ" country="US" postalcode="07042" />
-<subitem date="2010-07-26 10:46:41.671498" type="URL" tl="BASE" ip="64.236.101.12" domain="adsonar.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:41.671650" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.671925" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:41.852602" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:42.53332" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:42.53467" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:42.894670" type="URL" tl="BASE" ip="72.32.153.177" domain="pointroll.com" lat="40.0797996521" lng="-75.2854995728" city="Conshohocken" region="PA" country="US" postalcode="19428" />
-<subitem date="2010-07-26 10:46:43.49179" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:43.64596" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:43.203756" type="URL" tl="BASE" ip="198.82.164.42" domain="pointroll.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:46:43.311925" type="URL" tl="BASE" ip="74.125.0.145" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:46:43.407715" type="URL" tl="BASE" ip="72.32.153.177" domain="pointroll.com" lat="40.0797996521" lng="-75.2854995728" city="Conshohocken" region="PA" country="US" postalcode="19428" />
 <subitem date="2010-07-26 10:46:43.888114" type="URL" tl="BASE" ip="216.66.8.102" domain="edgefcs.net" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:43.894666" type="URL" tl="BASE" ip="198.82.164.42" domain="pointroll.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:44.226617" type="URL" tl="BASE" ip="216.66.8.102" domain="edgefcs.net" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:44.290179" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:44.302317" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:44.590833" type="URL" tl="BASE" ip="69.9.45.36" domain="outbrain.com" lat="40.8162002563" lng="-74.2164001465" city="Montclair" region="NJ" country="US" postalcode="07042" />
 <subitem date="2010-07-26 10:46:44.976478" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:44.976702" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.12881" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.13321" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.47405" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.48096" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.72304" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.112097" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.135189" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.135527" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
 <subitem date="2010-07-26 10:46:45.296473" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.321055" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.391273" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.413317" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.479215" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.507969" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.555807" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.555963" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
 <subitem date="2010-07-26 10:46:45.680959" type="URL" tl="BASE" ip="198.82.164.40" domain="dl-rms.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:45.715119" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.720060" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.720345" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
 <subitem date="2010-07-26 10:46:45.764810" type="URL" tl="BASE" ip="66.235.142.24" domain="142.24]" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
-<subitem date="2010-07-26 10:46:45.764935" type="URL" tl="BASE" ip="66.235.142.24" domain="142.24]" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
-<subitem date="2010-07-26 10:46:45.771581" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.804559" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.804721" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.840115" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.843860" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.877432" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.914710" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.949672" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.949800" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.950664" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:45.758" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.27863" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.28022" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.44724" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.130364" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.141957" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.163744" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.184198" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.184597" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.268546" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
 <subitem date="2010-07-26 10:46:46.287729" type="URL" tl="BASE" ip="198.82.164.42" domain="scorecardresearch.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:46.312416" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.343481" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.375766" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:46.375874" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:46.376004" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:46.405378" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.429068" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.429971" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.510325" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.543551" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.609391" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.615601" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.697671" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.710105" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.807463" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.833445" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.833580" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.902144" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:46.995204" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.88963" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.89107" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.125455" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.125612" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.348018" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.348129" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
 <subitem date="2010-07-26 10:46:47.394825" type="URL" tl="BASE" ip="74.217.240.81" domain="240.81]" lat="47.615398407" lng="-122.210296631" city="Bellevue" region="WA" country="US" postalcode="98004" />
-<subitem date="2010-07-26 10:46:47.394946" type="URL" tl="BASE" ip="74.217.240.81" domain="240.81]" lat="47.615398407" lng="-122.210296631" city="Bellevue" region="WA" country="US" postalcode="98004" />
-<subitem date="2010-07-26 10:46:47.468732" type="URL" tl="BASE" ip="157.166.226.167" domain="cnn.com" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:47.526080" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.526411" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.781219" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:47.781365" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:48.308012" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:48.357041" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:48.357219" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:48.660991" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:48.661266" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
 <subitem date="2010-07-26 10:46:48.2225" type="URL" tl="BASE" ip="96.16.95.139" domain="facebook.net" lat="42.3625984192" lng="-71.0842971802" city="Cambridge" region="MA" country="US" postalcode="02142" />
-<subitem date="2010-07-26 10:46:48.2408" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:49.21897" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:49.45666" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:49.83719" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:49.113055" type="URL" tl="BASE" ip="157.166.226.25" domain="226.25]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:49.113307" type="URL" tl="BASE" ip="157.166.226.25" domain="226.25]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:49.207584" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:49.416147" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:49.416293" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:49.615174" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:49.789165" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:49.789300" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:49.790295" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:49.793477" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:49.801441" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:46:49.836504" type="URL" tl="BASE" ip="157.166.224.32" domain="224.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:49.836613" type="URL" tl="BASE" ip="157.166.224.32" domain="224.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:46:50.342673" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:46:50.343133" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:46:50.429600" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:50.464478" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:46:50.464654" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:46:50.502241" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:50.502376" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:50.541564" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:50.854763" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:50.854885" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
 <subitem date="2010-07-26 10:46:50.876658" type="URL" tl="BASE" ip="198.82.164.42" domain="fbcdn.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:46:51.616363" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:51.616511" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:51.908094" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:52.28535" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:52.28650" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:52.64308" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:52.260564" type="URL" tl="BASE" ip="157.166.226.25" domain="226.25]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:52.260727" type="URL" tl="BASE" ip="157.166.226.25" domain="226.25]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:52.371966" type="URL" tl="BASE" ip="157.166.226.25" domain="226.25]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:52.372103" type="URL" tl="BASE" ip="157.166.226.25" domain="226.25]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:46:52.744959" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:52.745087" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:53.102278" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:53.102405" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:53.869211" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:53.869333" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:54.159700" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:54.159870" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:54.932565" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:54.933091" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:55.290556" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:55.290910" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:55.331465" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:46:56.14805" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:56.14940" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:56.411648" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:56.411778" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:57.96834" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:57.96951" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:57.471523" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:57.471703" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:58.153198" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:58.153322" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:58.578059" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:58.578168" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:59.175776" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:59.176272" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:59.176385" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:59.688759" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:59.689068" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:59.689183" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102]" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:46:59.857626" type="URL" tl="BASE" ip="72.32.153.177" domain="pointroll.com" lat="40.0797996521" lng="-75.2854995728" city="Conshohocken" region="PA" country="US" postalcode="19428" />
-<subitem date="2010-07-26 10:47:00.290611" type="URL" tl="BASE" ip="216.66.8.102" domain="8.102" lat="40.8293991089" lng="-73.5052032471" city="Syosset" region="NY" country="US" postalcode="11791" />
-<subitem date="2010-07-26 10:47:01.851786" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:47:14.907769" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:47:35.536875" type="URL" tl="BASE" ip="74.125.0.145" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:47:41.19904" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 </item>
-<item date="2010-7-26 10:48:8.530" type="KB" tl="BASE" keys="youtube.com" >
+<item date="2010-7-26 10:48:8.530" type="KB" tl="BASE" keys="www.youtube.com" >
 <subitem date="2010-7-26 10:48:8.530" type="KB" tl="BASE" keys="www." />
 <subitem date="2010-7-26 10:48:10.770" type="KB" tl="BASE" keys="youtube." />
 <subitem date="2010-7-26 10:48:11.568" type="KB" tl="BASE" keys="com" />
@@ -347,443 +47,86 @@
 <item date="2010-07-26 10:48:11.604579" type="URL" tl="BASE" ip="74.125.91.91" domain="youtube.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" >
 <subitem date="2010-07-26 10:48:11.604579" type="URL" tl="BASE" ip="74.125.91.91" domain="youtube.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 <subitem date="2010-07-26 10:48:11.790906" type="URL" tl="BASE" ip="74.125.0.161" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:11.793044" type="URL" tl="BASE" ip="74.125.0.161" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:11.832142" type="URL" tl="BASE" ip="74.125.0.161" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:11.833232" type="URL" tl="BASE" ip="74.125.0.161" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:11.844403" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:11.844572" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:11.854943" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:11.856178" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:12.570060" type="URL" tl="BASE" ip="74.125.0.161" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:12.604205" type="URL" tl="BASE" ip="74.125.0.161" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 <subitem date="2010-07-26 10:48:12.671668" type="URL" tl="BASE" ip="72.14.204.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:12.796613" type="URL" tl="BASE" ip="72.14.204.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.295262" type="URL" tl="BASE" ip="72.14.204.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 <subitem date="2010-07-26 10:48:13.307849" type="URL" tl="BASE" ip="72.14.204.148" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 <subitem date="2010-07-26 10:48:13.316007" type="URL" tl="BASE" ip="63.241.108.124" domain="serving-sys.com" lat="32.9014015198" lng="-117.207901001" city="San Diego" region="CA" country="US" postalcode="92121" />
-<subitem date="2010-07-26 10:48:13.338566" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.364763" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.371912" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.372280" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.372435" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.380518" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.396038" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.396779" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.400675" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.406203" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.415966" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.416388" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.416658" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.429382" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.569643" type="URL" tl="BASE" ip="72.14.204.148" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:13.633427" type="URL" tl="BASE" ip="198.82.164.42" domain="serving-sys.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:48:14.550249" type="URL" tl="BASE" ip="74.125.53.100" domain="gstatic.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 </item>
-<item date="2010-7-26 10:48:50.188" type="KB" tl="BASE" keys="digg.com" >
+<item date="2010-7-26 10:48:50.188" type="KB" tl="BASE" keys="www.digg.com" >
 <subitem date="2010-7-26 10:48:50.188" type="KB" tl="BASE" keys="www." />
 <subitem date="2010-7-26 10:48:51.114" type="KB" tl="BASE" keys="digg." />
 <subitem date="2010-7-26 10:48:52.199" type="KB" tl="BASE" keys="com" />
 </item>
 <item date="2010-07-26 10:48:52.363733" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" >
 <subitem date="2010-07-26 10:48:52.363733" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.566744" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
 <subitem date="2010-07-26 10:48:52.746893" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:52.747552" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:52.762143" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:52.762271" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:52.780295" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:52.780495" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:52.797568" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.814945" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.823649" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.823805" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.961661" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.964433" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.966161" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.987165" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:52.996308" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:52.996790" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
 <subitem date="2010-07-26 10:48:53.24324" type="URL" tl="BASE" ip="64.27.101.175" domain="pubmatic.com" lat="40.7458000183" lng="-74.0320968628" city="Hoboken" region="NJ" country="US" postalcode="07030" />
-<subitem date="2010-07-26 10:48:53.51697" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.51991" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.52205" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.53242" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.53381" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.72239" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.88184" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.88356" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.130127" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.135404" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.135624" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.136659" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.137299" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.141386" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.143840" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.146013" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.150345" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.157361" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.163207" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.169976" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.177307" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.178792" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.182958" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.200472" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.211567" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.227649" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.230509" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.232161" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.263723" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.349107" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.450253" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.458247" type="URL" tl="BASE" ip="64.191.203.28" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.679093" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.679269" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.692658" type="URL" tl="BASE" ip="98.142.106.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:48:53.804403" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.899674" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:53.940409" type="URL" tl="BASE" ip="66.235.138.19" domain="digg.com" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
-<subitem date="2010-07-26 10:48:53.1803" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
 <subitem date="2010-07-26 10:48:53.1958" type="URL" tl="BASE" ip="174.143.62.82" domain="shrinktheweb.com" lat="29.3883991241" lng="-98.5310974121" city="San Antonio" region="TX" country="US" postalcode="78225" />
 <subitem date="2010-07-26 10:48:54.159274" type="URL" tl="BASE" ip="198.82.164.42" domain="scorecardresearch.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:48:54.202251" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.223227" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.306683" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.406032" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.516518" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.516653" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.516799" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.516986" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
 <subitem date="2010-07-26 10:48:54.545577" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:54.612193" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.612357" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:54.623953" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 <subitem date="2010-07-26 10:48:54.624347" type="URL" tl="BASE" ip="72.14.204.148" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:54.635387" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:54.653191" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:54.701225" type="URL" tl="BASE" ip="72.14.204.148" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 <subitem date="2010-07-26 10:48:54.701370" type="URL" tl="BASE" ip="64.208.138.215" domain="adnxs.com" lat="40.7214012146" lng="-74.0052032471" city="New York" region="NY" country="US" postalcode="10013" />
-<subitem date="2010-07-26 10:48:54.724159" type="URL" tl="BASE" ip="72.14.204.149" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:54.802245" type="URL" tl="BASE" ip="66.114.52.45" domain="adnxs.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
 <subitem date="2010-07-26 10:48:54.809806" type="URL" tl="BASE" ip="65.242.27.31" domain="atdmt.com" lat="47.6026000977" lng="-122.328399658" city="Seattle" region="WA" country="US" postalcode="98104" />
-<subitem date="2010-07-26 10:48:54.872078" type="URL" tl="BASE" ip="8.12.202.126" domain="pubmatic.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:48:54.889278" type="URL" tl="BASE" ip="66.114.52.45" domain="sharethrough.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
-<subitem date="2010-07-26 10:48:54.889442" type="URL" tl="BASE" ip="66.114.52.45" domain="sharethrough.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
-<subitem date="2010-07-26 10:48:54.926796" type="URL" tl="BASE" ip="72.14.204.148" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:54.976028" type="URL" tl="BASE" ip="66.114.52.45" domain="sharethrough.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
 <subitem date="2010-07-26 10:48:54.985115" type="URL" tl="BASE" ip="66.114.52.45" domain="750industries.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
 <subitem date="2010-07-26 10:48:54.998850" type="URL" tl="BASE" ip="72.14.204.95" domain="googleapis.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:54.999548" type="URL" tl="BASE" ip="8.12.202.126" domain="pubmatic.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:48:55.39117" type="URL" tl="BASE" ip="8.12.202.126" domain="pubmatic.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:48:55.83491" type="URL" tl="BASE" ip="64.208.138.215" domain="adnxs.com" lat="40.7214012146" lng="-74.0052032471" city="New York" region="NY" country="US" postalcode="10013" />
-<subitem date="2010-07-26 10:48:55.97274" type="URL" tl="BASE" ip="64.27.101.173" domain="digg.com" lat="40.7458000183" lng="-74.0320968628" city="Hoboken" region="NJ" country="US" postalcode="07030" />
-<subitem date="2010-07-26 10:48:55.146895" type="URL" tl="BASE" ip="8.12.202.126" domain="pubmatic.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:48:55.255772" type="URL" tl="BASE" ip="69.64.250.20" domain="adbrite.com" lat="37.7757987976" lng="-122.41280365" city="San Francisco" region="CA" country="US" postalcode="94103" />
 <subitem date="2010-07-26 10:48:55.256225" type="URL" tl="BASE" ip="174.129.205.84" domain="rubiconproject.com" lat="47.5839004517" lng="-122.299499512" city="Seattle" region="WA" country="US" postalcode="98144" />
 <subitem date="2010-07-26 10:48:55.343566" type="URL" tl="BASE" ip="64.94.107.21" domain="quantserve.com" lat="37.7757987976" lng="-122.41280365" city="San Francisco" region="CA" country="US" postalcode="94103" />
-<subitem date="2010-07-26 10:48:55.416926" type="URL" tl="BASE" ip="69.64.250.20" domain="adbrite.com" lat="37.7757987976" lng="-122.41280365" city="San Francisco" region="CA" country="US" postalcode="94103" />
-<subitem date="2010-07-26 10:48:55.453978" type="URL" tl="BASE" ip="66.151.61.127" domain="rubiconproject.com" lat="34.0485992432" lng="-118.442497253" city="Los Angeles" region="CA" country="US" postalcode="90025" />
 <subitem date="2010-07-26 10:48:55.468475" type="URL" tl="BASE" ip="64.94.107.19" domain="107.19]" lat="37.7757987976" lng="-122.41280365" city="San Francisco" region="CA" country="US" postalcode="94103" />
-<subitem date="2010-07-26 10:48:55.468603" type="URL" tl="BASE" ip="64.94.107.19" domain="107.19]" lat="37.7757987976" lng="-122.41280365" city="San Francisco" region="CA" country="US" postalcode="94103" />
-<subitem date="2010-07-26 10:48:55.476236" type="URL" tl="BASE" ip="8.12.202.126" domain="pubmatic.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:48:55.495785" type="URL" tl="BASE" ip="64.27.101.174" domain="digg.com" lat="40.7458000183" lng="-74.0320968628" city="Hoboken" region="NJ" country="US" postalcode="07030" />
-<subitem date="2010-07-26 10:48:55.495944" type="URL" tl="BASE" ip="64.94.107.19" domain="quantserve.com" lat="37.7757987976" lng="-122.41280365" city="San Francisco" region="CA" country="US" postalcode="94103" />
-<subitem date="2010-07-26 10:48:55.538001" type="URL" tl="BASE" ip="64.208.138.215" domain="pubmatic.com" lat="40.7214012146" lng="-74.0052032471" city="New York" region="NY" country="US" postalcode="10013" />
-<subitem date="2010-07-26 10:48:55.571890" type="URL" tl="BASE" ip="174.129.137.196" domain="pubmatic.com" lat="47.5839004517" lng="-122.299499512" city="Seattle" region="WA" country="US" postalcode="98144" />
-<subitem date="2010-07-26 10:48:55.572076" type="URL" tl="BASE" ip="208.43.243.226" domain="pubmatic.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
 <subitem date="2010-07-26 10:48:55.675120" type="URL" tl="BASE" ip="38.126.130.201" domain="130.201]" lat="40.7448997498" lng="-73.9782028198" city="New York" region="NY" country="US" postalcode="10016" />
-<subitem date="2010-07-26 10:48:55.675244" type="URL" tl="BASE" ip="38.126.130.201" domain="130.201]" lat="40.7448997498" lng="-73.9782028198" city="New York" region="NY" country="US" postalcode="10016" />
 <subitem date="2010-07-26 10:48:55.696165" type="URL" tl="BASE" ip="76.13.219.168" domain="219.168]" lat="37.4249000549" lng="-122.007400513" city="Sunnyvale" region="CA" country="US" postalcode="94089" />
-<subitem date="2010-07-26 10:48:55.696299" type="URL" tl="BASE" ip="76.13.219.168" domain="219.168]" lat="37.4249000549" lng="-122.007400513" city="Sunnyvale" region="CA" country="US" postalcode="94089" />
 <subitem date="2010-07-26 10:48:55.710935" type="URL" tl="BASE" ip="216.34.207.176" domain="207.176]" lat="40.6525001526" lng="-73.9553985596" city="Brooklyn" region="NY" country="US" postalcode="" />
-<subitem date="2010-07-26 10:48:55.711166" type="URL" tl="BASE" ip="216.34.207.176" domain="207.176]" lat="40.6525001526" lng="-73.9553985596" city="Brooklyn" region="NY" country="US" postalcode="" />
 <subitem date="2010-07-26 10:48:55.754602" type="URL" tl="BASE" ip="198.82.164.42" domain="fbcdn.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:48:55.831657" type="URL" tl="BASE" ip="74.125.91.91" domain="91.91]" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:55.831802" type="URL" tl="BASE" ip="74.125.91.91" domain="91.91]" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:55.832395" type="URL" tl="BASE" ip="64.27.101.175" domain="pubmatic.com" lat="40.7458000183" lng="-74.0320968628" city="Hoboken" region="NJ" country="US" postalcode="07030" />
-<subitem date="2010-07-26 10:48:55.847858" type="URL" tl="BASE" ip="64.27.101.175" domain="pubmatic.com" lat="40.7458000183" lng="-74.0320968628" city="Hoboken" region="NJ" country="US" postalcode="07030" />
-<subitem date="2010-07-26 10:48:55.889820" type="URL" tl="BASE" ip="198.82.164.42" domain="fbcdn.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:48:55.910505" type="URL" tl="BASE" ip="198.82.164.42" domain="facebook.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:48:56.8335" type="URL" tl="BASE" ip="76.13.219.168" domain="219.168]" lat="37.4249000549" lng="-122.007400513" city="Sunnyvale" region="CA" country="US" postalcode="94089" />
-<subitem date="2010-07-26 10:48:56.8600" type="URL" tl="BASE" ip="76.13.219.168" domain="219.168]" lat="37.4249000549" lng="-122.007400513" city="Sunnyvale" region="CA" country="US" postalcode="94089" />
 <subitem date="2010-07-26 10:48:56.30918" type="URL" tl="BASE" ip="198.82.164.40" domain="mediaplex.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:48:56.173221" type="URL" tl="BASE" ip="74.125.0.161" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:56.201978" type="URL" tl="BASE" ip="74.125.91.91" domain="91.91]" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:56.202098" type="URL" tl="BASE" ip="74.125.91.91" domain="91.91]" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:56.202258" type="URL" tl="BASE" ip="64.27.101.175" domain="pubmatic.com" lat="40.7458000183" lng="-74.0320968628" city="Hoboken" region="NJ" country="US" postalcode="07030" />
 <subitem date="2010-07-26 10:48:56.302509" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:48:56.302618" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:48:56.689534" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
-<subitem date="2010-07-26 10:48:56.748283" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:48:56.818757" type="URL" tl="BASE" ip="66.114.52.45" domain="sharethrough.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
-<subitem date="2010-07-26 10:48:56.829723" type="URL" tl="BASE" ip="72.14.204.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 <subitem date="2010-07-26 10:49:19.984450" type="URL" tl="BASE" ip="74.125.0.145" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
 </item>
 <item date="2010-7-26 10:49:22.534" type="MC" tl="BASE" domain="cnn.com" />
-<item date="2010-07-26 10:49:23.72159" type="URL" tl="BASE" ip="66.235.138.19" domain="digg.com" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" >
-<subitem date="2010-07-26 10:49:23.72159" type="URL" tl="BASE" ip="66.235.138.19" domain="digg.com" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
+<item date="2010-07-26 10:49:22.655703" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" >
+<subitem date="2010-07-26 10:49:22.655703" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
 <subitem date="2010-07-26 10:49:23.447193" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:23.447328" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:49:23.918864" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:23.948132" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:23.948282" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:23.948786" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:23.949534" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:23.949648" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:49:23.967621" type="URL" tl="BASE" ip="208.111.160.60" domain="cleanprint.net" lat="33.4356994629" lng="-111.917098999" city="Tempe" region="AZ" country="US" postalcode="85281" />
-<subitem date="2010-07-26 10:49:23.967950" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:23.971982" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:49:23.973041" type="URL" tl="BASE" ip="66.114.52.44" domain="meteorsolutions.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
-<subitem date="2010-07-26 10:49:23.979747" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.259220" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.259389" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.261943" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.266367" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.268598" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.297062" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.306664" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.306819" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.319751" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.319860" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:49:24.329713" type="URL" tl="BASE" ip="98.142.106.40" domain="outbrain.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:49:24.329742" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.329874" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.330409" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.330542" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.836209" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.838793" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:24.860597" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.860953" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:24.861117" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:49:24.884300" type="URL" tl="BASE" ip="174.37.29.146" domain="disqus.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
-<subitem date="2010-07-26 10:49:24.914264" type="URL" tl="BASE" ip="74.86.150.163" domain="disqus.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
-<subitem date="2010-07-26 10:49:25.133660" type="URL" tl="BASE" ip="67.228.225.46" domain="meteorsolutions.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
-<subitem date="2010-07-26 10:49:25.215841" type="URL" tl="BASE" ip="69.88.152.250" domain="disqus.com" lat="33.7515983582" lng="-84.3915023804" city="Atlanta" region="GA" country="US" postalcode="30303" />
-<subitem date="2010-07-26 10:49:28.477095" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:28.495856" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:28.495978" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:28.496113" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:28.944359" type="URL" tl="BASE" ip="69.9.45.36" domain="outbrain.com" lat="40.8162002563" lng="-74.2164001465" city="Montclair" region="NJ" country="US" postalcode="07042" />
 <subitem date="2010-07-26 10:49:28.991512" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:28.991626" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.19225" type="URL" tl="BASE" ip="74.86.16.72" domain="disqus.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
-<subitem date="2010-07-26 10:49:29.62316" type="URL" tl="BASE" ip="174.37.29.146" domain="disqus.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
-<subitem date="2010-07-26 10:49:29.74740" type="URL" tl="BASE" ip="74.86.150.163" domain="disqus.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
-<subitem date="2010-07-26 10:49:29.257277" type="URL" tl="BASE" ip="69.9.45.36" domain="outbrain.com" lat="40.8162002563" lng="-74.2164001465" city="Montclair" region="NJ" country="US" postalcode="07042" />
-<subitem date="2010-07-26 10:49:29.298547" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.298684" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.392767" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.392885" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.444731" type="URL" tl="BASE" ip="69.88.152.250" domain="disqus.com" lat="33.7515983582" lng="-84.3915023804" city="Atlanta" region="GA" country="US" postalcode="30303" />
-<subitem date="2010-07-26 10:49:29.460432" type="URL" tl="BASE" ip="69.88.152.250" domain="disqus.com" lat="33.7515983582" lng="-84.3915023804" city="Atlanta" region="GA" country="US" postalcode="30303" />
-<subitem date="2010-07-26 10:49:29.462084" type="URL" tl="BASE" ip="69.88.152.250" domain="disqus.com" lat="33.7515983582" lng="-84.3915023804" city="Atlanta" region="GA" country="US" postalcode="30303" />
-<subitem date="2010-07-26 10:49:29.515768" type="URL" tl="BASE" ip="69.88.152.250" domain="disqus.com" lat="33.7515983582" lng="-84.3915023804" city="Atlanta" region="GA" country="US" postalcode="30303" />
-<subitem date="2010-07-26 10:49:29.617546" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.617675" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.642408" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.642675" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:49:29.647574" type="URL" tl="BASE" ip="72.14.204.165" domain="googlesyndication.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:49:29.928851" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.929243" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.979873" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:29.980009" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:30.412814" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:30.413042" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:30.455652" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:49:30.638135" type="URL" tl="BASE" ip="66.235.142.24" domain="142.24]" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
-<subitem date="2010-07-26 10:49:30.638281" type="URL" tl="BASE" ip="66.235.142.24" domain="142.24]" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
-<subitem date="2010-07-26 10:49:30.750824" type="URL" tl="BASE" ip="69.9.45.36" domain="outbrain.com" lat="40.8162002563" lng="-74.2164001465" city="Montclair" region="NJ" country="US" postalcode="07042" />
-<subitem date="2010-07-26 10:49:30.789985" type="URL" tl="BASE" ip="98.142.106.40" domain="outbrain.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
-<subitem date="2010-07-26 10:49:30.798287" type="URL" tl="BASE" ip="69.9.45.36" domain="outbrain.com" lat="40.8162002563" lng="-74.2164001465" city="Montclair" region="NJ" country="US" postalcode="07042" />
-<subitem date="2010-07-26 10:49:30.735" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:30.1094" type="URL" tl="BASE" ip="157.166.255.6" domain="255.6]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:31.119672" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:49:31.648241" type="URL" tl="BASE" ip="198.82.164.42" domain="scorecardresearch.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:49:31.756186" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:49:31.3146" type="URL" tl="BASE" ip="72.14.204.155" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:49:32.3468" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:49:32.310662" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.310812" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.311132" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.311274" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.311461" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.311584" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.312070" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.312307" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:49:32.312566" type="URL" tl="BASE" ip="157.166.224.4" domain="ireport.com" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.322473" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.322581" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.322712" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.322811" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.374784" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.375148" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.395287" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.395410" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.395675" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.395816" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.445131" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.445302" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.468318" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.468426" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.514902" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.515269" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.515622" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.515777" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.546699" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:32.559648" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.559790" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.580202" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.580357" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.591793" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.591966" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.606365" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.606511" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.606748" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.607117" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.607266" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.607375" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.635735" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.636026" type="URL" tl="BASE" ip="157.166.255.213" domain="255.213]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.750189" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:32.904884" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:32.905049" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:33.295842" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:33.524959" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:33.525104" type="URL" tl="BASE" ip="157.166.255.32" domain="255.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:49:33.921377" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:49:33.921515" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
 <subitem date="2010-07-26 10:49:33.952884" type="URL" tl="BASE" ip="66.220.146.25" domain="facebook.com" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:49:33.981755" type="URL" tl="BASE" ip="66.220.146.25" domain="facebook.com" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:49:33.998474" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
-<subitem date="2010-07-26 10:49:33.998624" type="URL" tl="BASE" ip="66.220.146.25" domain="146.25]" lat="37.4429016113" lng="-122.151397705" city="Palo Alto" region="CA" country="US" postalcode="94301" />
 <subitem date="2010-07-26 10:49:34.41291" type="URL" tl="BASE" ip="157.166.224.32" domain="224.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
-<subitem date="2010-07-26 10:49:34.41440" type="URL" tl="BASE" ip="157.166.224.32" domain="224.32]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:49:34.289463" type="URL" tl="BASE" ip="198.82.164.42" domain="fbcdn.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:49:34.296923" type="URL" tl="BASE" ip="198.82.164.42" domain="fbcdn.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:49:34.421160" type="URL" tl="BASE" ip="66.235.142.24" domain="cnn.com" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
-<subitem date="2010-07-26 10:49:34.580222" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:49:34.766596" type="URL" tl="BASE" ip="198.82.164.42" domain="fbcdn.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:49:34.791511" type="URL" tl="BASE" ip="198.82.164.42" domain="fbcdn.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:49:34.800701" type="URL" tl="BASE" ip="66.235.142.24" domain="142.24]" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
-<subitem date="2010-07-26 10:49:34.800833" type="URL" tl="BASE" ip="66.235.142.24" domain="142.24]" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
-<subitem date="2010-07-26 10:49:35.66003" type="URL" tl="BASE" ip="198.82.164.42" domain="fbcdn.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 </item>
-<item date="2010-7-26 10:49:51.415" type="KB" tl="BASE" keys="akamai.com" >
+<item date="2010-7-26 10:49:51.415" type="KB" tl="BASE" keys="www.akamai.com" >
 <subitem date="2010-7-26 10:49:51.415" type="KB" tl="BASE" keys="www." />
 <subitem date="2010-7-26 10:49:57.723" type="KB" tl="BASE" keys="akamai." />
 <subitem date="2010-7-26 10:50:0.290" type="KB" tl="BASE" keys="com" />
 </item>
 <item date="2010-07-26 10:50:00.298431" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" >
 <subitem date="2010-07-26 10:50:00.298431" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.162454" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.168296" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.183626" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.229212" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.240934" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.241096" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.247478" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.262724" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.262882" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.279718" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.279852" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.280015" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:50:01.407473" type="URL" tl="BASE" ip="198.82.164.40" domain="abmr.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.434097" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.488040" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.491767" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.494502" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.497673" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.512063" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.516279" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.528553" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.541340" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.568303" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.572300" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.572440" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.589085" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.615186" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.694746" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.748426" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.787378" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.853298" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:01.901371" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:50:02.177554" type="URL" tl="BASE" ip="66.150.11.144" domain="instantservice.com" lat="47.6102981567" lng="-122.334197998" city="Seattle" region="WA" country="US" postalcode="98101" />
-<subitem date="2010-07-26 10:50:02.178057" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" lat="47.6102981567" lng="-122.334197998" city="Seattle" region="WA" country="US" postalcode="98101" />
-<subitem date="2010-07-26 10:50:02.225228" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:02.254221" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:50:02.378506" type="URL" tl="BASE" ip="66.150.117.25" domain="webtrendslive.com" lat="45.5181007385" lng="-122.675102234" city="Portland" region="OR" country="US" postalcode="97204" />
-<subitem date="2010-07-26 10:50:02.400163" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:02.413040" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:50:02.473904" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" lat="44.5577011108" lng="-123.297798157" city="Corvallis" region="OR" country="US" postalcode="97339" />
-<subitem date="2010-07-26 10:50:02.489580" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:02.494929" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:02.498864" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:02.505698" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:02.509308" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:02.513547" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:02.538393" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.80013" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:50:03.223955" type="URL" tl="BASE" ip="204.8.50.102" domain="edgefcs.net" lat="42.3625984192" lng="-71.0842971802" city="Cambridge" region="MA" country="US" postalcode="02142" />
-<subitem date="2010-07-26 10:50:03.470124" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.476444" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.588785" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.665932" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.690190" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.818433" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" lat="44.5577011108" lng="-123.297798157" city="Corvallis" region="OR" country="US" postalcode="97339" />
-<subitem date="2010-07-26 10:50:03.918225" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.958104" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.981724" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:03.2112" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:04.229907" type="URL" tl="BASE" ip="204.8.50.102" domain="edgefcs.net" lat="42.3625984192" lng="-71.0842971802" city="Cambridge" region="MA" country="US" postalcode="02142" />
-<subitem date="2010-07-26 10:50:04.239876" type="URL" tl="BASE" ip="198.82.164.40" domain="abmr.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:04.849230" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:50:04.958262" type="URL" tl="BASE" ip="72.14.204.154" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:50:05.67187" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:05.382319" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" lat="47.6102981567" lng="-122.334197998" city="Seattle" region="WA" country="US" postalcode="98101" />
-<subitem date="2010-07-26 10:50:05.411547" type="URL" tl="BASE" ip="198.82.164.41" domain="abmr.net" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:11.481051" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" lat="47.6102981567" lng="-122.334197998" city="Seattle" region="WA" country="US" postalcode="98101" />
-<subitem date="2010-07-26 10:50:11.813808" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:11.819145" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:11.830472" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
-<subitem date="2010-07-26 10:50:33.890963" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" lat="44.5577011108" lng="-123.297798157" city="Corvallis" region="OR" country="US" postalcode="97339" />
 </item>
 <item date="2010-7-26 10:50:38.960" type="MC" tl="BASE" domain="cnn.com" />
-<item date="2010-07-26 10:50:39.110059" type="URL" tl="BASE" ip="157.166.226.45" domain="226.45]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" >
-<subitem date="2010-07-26 10:50:39.110059" type="URL" tl="BASE" ip="157.166.226.45" domain="226.45]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
+<item date="2010-07-26 10:50:39.109936" type="URL" tl="BASE" ip="157.166.226.45" domain="226.45]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" >
+<subitem date="2010-07-26 10:50:39.109936" type="URL" tl="BASE" ip="157.166.226.45" domain="226.45]" lat="33.8003997803" lng="-84.3864974976" city="Atlanta" region="GA" country="US" postalcode="30348" />
 <subitem date="2010-07-26 10:50:39.344247" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.429595" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.438814" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.482202" type="URL" tl="BASE" ip="8.12.202.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.482377" type="URL" tl="BASE" ip="8.12.202.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.482530" type="URL" tl="BASE" ip="8.12.202.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.482665" type="URL" tl="BASE" ip="8.12.202.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.482811" type="URL" tl="BASE" ip="8.12.202.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.482953" type="URL" tl="BASE" ip="8.12.202.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.553276" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.632187" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.640220" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:39.956226" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:40.40184" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:40.47819" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:40.773772" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:40.855702" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:40.863718" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:42.403820" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:42.487641" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:42.495349" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:45.668121" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:45.751867" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:45.759638" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:52.195799" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:52.280686" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:50:52.287668" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:51:02.320938" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
 <subitem date="2010-07-26 10:51:03.877586" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" lat="44.5577011108" lng="-123.297798157" city="Corvallis" region="OR" country="US" postalcode="97339" />
-<subitem date="2010-07-26 10:51:05.251929" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:51:05.335938" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:51:05.343907" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 <subitem date="2010-07-26 10:51:19.986201" type="URL" tl="BASE" ip="74.125.0.145" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
-<subitem date="2010-07-26 10:51:31.364359" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:51:31.447859" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
-<subitem date="2010-07-26 10:51:31.456475" type="URL" tl="BASE" ip="4.23.40.126" domain="turner.com" lat="38.0" lng="-97.0" city="" region="" country="US" postalcode="" />
 </item>
 </events>
