@@ -7,12 +7,13 @@
 -->
 <s1:ItemRenderer xmlns:fx="http://ns.adobe.com/mxml/2009" 
 				  xmlns:s1="library://ns.adobe.com/flex/spark"
-				  xmlns:s="library://ns.adobe.com/flex/mx" 
-				   buttonMode="true" mouseOver="{currentState= 'hovered'}"
-				mouseOut="{currentState = 'normal'}"
+				  xmlns:s="library://ns.adobe.com/flex/mx"
+				  xmlns:mx="library://ns.adobe.com/flex/mx"
+				   buttonMode="true" 
 				creationComplete="{currentState = 'normal'}" 
 				xmlns:d="MyDataRenderSkin">
-	
+	<!--mouseOver="{currentState= 'hovered'}"
+	mouseOut="{currentState = 'normal'}" -->
 	<!-- host component -->
 	<fx:Metadata>
 		<![CDATA[ 
@@ -41,27 +42,22 @@
 			skinClass: ClassReference("KeyboardEventRendererSkin");
 		}
 	</fx:Style>
+
+
 		
 
 
 	<fx:Script>
 		<![CDATA[
-			
 			import flashx.textLayout.tlf_internal;
 			
 			import mx.collections.XMLListCollection;
 			import mx.controls.Alert;
-			[Bindable]
-			public var expand:Boolean = false;
+			import mx.states.State;
 			[Bindable]
 			public var myData:String;
 			
-			/*
-			protected function image1_clickHandler(event:MouseEvent):void{
-				expand = true;
-				Alert.show("Expand!");
-				//expand the data, and show it on the google map
-			}*/
+			//public var _currentState:State;
 			
 			override public function set data(value:Object):void{
 				super.data = value;
@@ -69,54 +65,91 @@
 				
 				if(value == null)
 					return;
-				
 				//set the label's value
-				dateDisplay.text = data.item.@date;
+				//dateDisplay.text = data.item.@date;
 				if(data.item.@type == 'KB'){
-					dataDisplay.text = data.item.@keys;
-					icon.source="../assets/Keyborad.png";
-					type.text = "Key Press";
+					icon.source="../assets/Keyboard.png";
+					//type.text = "Key Press";
 					mRec.styleName="KeyboardStyle";
-					hoveredDisplay.text = data.item.@keys;
+					dataDisplayN.text = data.item.@date + "\n" + data.item.@keys;
+					var str1:String = "";
+					var property1:XMLList = data.item.elements();
+					for each (var p1:XML in property1)
+					{
+						str1 += String(p1.@date) +" " + String(p1.@keys) + "\n";
+					}
+					dataDisplayH.text = str1;
+					//if(currentState == 'normal')
+					//{
+						
+					//}
+					//else{
+						//if(currentState == 'hovered')
+						//{
+							
+						//}
+				    	
+					//}
 				}else{
 					if(data.item.@type == 'MC'){
 						icon.source="../assets/Mouse.png";
-						dataDisplay.text = data.item.@domain;
-						type.text = "Mouse Click";
+						dataDisplayN.text = data.item.@date + data.item.@domain;
+						dataDisplayH.text = data.item.@date + data.item.@domain;
+						//type.text = "Mouse Click";
 						mRec.styleName="MouseStyle";
-						hoveredDisplay.text = data.item.@domain;
+						//dataDisplay.hovered.text = data.item.@domain;
 					}else{
-						dataDisplay.text = data.item.@domain;
 						mRec.styleName="URLStyle";
-						hoveredDisplay.text = data.item.@domain;
+						icon.source = "";
+						dataDisplayN.text = data.item.@date + "\n" + data.item.@domain;
+						var str2:String = "";
+						var property2:XMLList = data.item.elements();
+						for each (var p2:XML in property2)
+						{
+							str2 += String(p2.@date) +" " + String(p2.@domain) + "\n";
+						}
+						dataDisplayH.text = str2;
+						/*
+						if(currentState == 'normal')
+						{
+							
+						}
+						else{
+							if(currentState == 'hovered')
+							{
+								
+							}
+						}*/
 						//rf1.color="0xFFFFFF";
 						//rf2.color="0xe9e9e9";
 					}
 				}
 			}
+
+			
 		]]>
 	</fx:Script>
-
-
+	
+	<s1:postLayoutTransformOffsets>
+		<mx:TransformOffsets id="offsets" x.hovered="-40" y.hovered="-40" scaleX.hovered="5" scaleY.hovered="4" />
+	</s1:postLayoutTransformOffsets>
+	
 	<s1:transitions>
-		<s1:Transition fromState="normal" toState="hovered" >
-			<s1:Parallel duration="500" target="{this}">
-				<s:Move />
-				<s:Resize />
-			</s1:Parallel> 
+		<s1:Transition fromState="normal" toState="hovered" autoReverse="true" >
+			<s1:Animate target="{offsets}" duration="500">
+				<s1:SimpleMotionPath property="scaleX" />
+				<s1:SimpleMotionPath property="scaleY" />
+				<s1:SimpleMotionPath property="x" />
+				<s1:SimpleMotionPath property="y" />
+			</s1:Animate> 
 		</s1:Transition>
-		<s1:Transition fromState="hovered" toState="normal">
-			<s1:Sequence>
-				<!-- avoid laying out during animation -->
-				<s1:SetAction property="includeInLayout" value="false" target="{this}"/>
-				<s1:Parallel duration="500" target="{this}">
-					<s:Move />
-					<s:Resize />
-				</s1:Parallel>
-				<!-- put back layout -->
-				<s1:SetAction property="includeInLayout" value="true" target="{this}"/>        
-			</s1:Sequence>
-			
+		<s1:Transition fromState="hovered" toState="normal" autoReverse="true">
+			<s1:Animate target="{offsets}" duration="500">
+				<s1:SimpleMotionPath property="scaleX" />
+				<s1:SimpleMotionPath property="scaleY" />
+				<s1:SimpleMotionPath property="x" />
+				<s1:SimpleMotionPath property="y" />
+			</s1:Animate> 			
 		</s1:Transition>
 	</s1:transitions>
 	
@@ -125,25 +158,30 @@
 		<s:State name="hovered" />
 	</s1:states>
 	
+
 	
-	<s1:SkinnableContainer id="mRec" visible.hovered="true" width.normal="80" width.hovered="240"  height.normal="60" height.hovered="180" horizontalCenter="0" verticalCenter="0" >	
-		<s1:VGroup top="0" left="0" right="0" bottom="0" paddingBottom="5" paddingLeft="5" paddingRight="5" paddingTop="5"
-				   paddingBottom.hovered="205" paddingLeft.hovered="455" paddingRight.hovered="5" paddingTop.hovered="5" top.hovered="0" left.hovered="0" bottom.hovered="-140" right.hovered="-373">
-			<!--Display icon and type of this renderer -->
-			<s1:HGroup id="hlg" width="100%" includeInLayout="false" visible.hovered="true">
-				<s:Image id="icon" width="40%" visible="true"/>
-				<s1:Label id="type" width="60%" fontWeight="bold" visible="true"/>				
+	<s1:SkinnableContainer id="mRec"  depth.normal="0" visible="true" width="100" height="80" horizontalCenter="0" verticalCenter="0" depth.hovered="1" >	
+		
+		<s1:layout>
+			<s1:VerticalLayout/>
+		</s1:layout>
+		<s:Image id="icon" scaleX="0.05" scaleY="0.05" horizontalAlign="center" />
+		<s1:RichText id="dataDisplayN" color="0xFFFFFF" maxWidth.normal="{mRec.width}" height.hovered="0"  textAlign="left" visible.hovered="false" fontWeight.normal="bold" fontSize.normal="12" fontSize.hovered="1"  />
+		<s1:RichText id="dataDisplayH" color="0xFFFFFF" maxWidth.hovered="{mRec.width}" maxHeight.hovered="{mRec.height}" textAlign="left" visible.normal="false" visible.hovered="true"  fontSize.hovered="8" />
+		<!--s1:VGroup top="0" left="0" right="0" bottom="0" paddingBottom="5" paddingLeft="5" paddingRight="5" paddingTop="5">
+			<s1:HGroup id="hlg" width="100%"  visible.hovered="false">
+				
+				<s1:Label id="type" width="60%" fontWeight="bold" />				
 			</s1:HGroup> 
-			<!-- display the date -->
-			<s1:Label id="dateDisplay"  color="0x000000" visible.normal="true" visible.hovered="false" fontWeight="normal"  width.normal="65"/>
-			<!-- display the data -->
-			<s1:Label id="dataDisplay"  visible.normal="true" visible.hovered="false" fontWeight="bold"  width.normal="69"/>
-			<!--/s1:VGroup-->
 			
-			<!-- when expanded display -->
-			<s1:Label id="hoveredDisplay"  visible.normal="false" visible.hovered="true" 
-					  fontSize="30" />
+			<s1:VGroup visible.hovered="false" width="100%">
+				
+			</s1:VGroup>	
 		</s1:VGroup>
+		<s1:VScrollBar viewport="{expandedDisplay}" 
+					   top="10" 
+					   left="{expandedDisplay.x + expandedDisplay.width + 10}" 
+					   height="{expandedDisplay.height}" /-->
 		
 	</s1:SkinnableContainer>
 	
