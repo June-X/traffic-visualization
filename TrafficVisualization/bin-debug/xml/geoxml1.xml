@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<event date="2010-4-12 20:57:3.270" type="KB" tl="BASE" keys="www.google.com" />
+<event date="2010-4-12 20:57:12.718" type="KB" tl="BASE" keys="www.akamai.com" />
+<event date="2010-4-12 20:57:23.140" type="KB" tl="BASE" keys="www.digg.com" />
+<event date="2010-4-12 20:57:32.863" type="KB" tl="BASE" keys="www.baidu.com" />
+<event date="2010-4-12 20:57:38.166" type="KB" tl="BASE" keys="www.cnn.com" />
+<event date="2010-4-12 20:58:42.34" type="KB" tl="BASE" keys="www.youtube.com" />
+<event date="2010-4-12 20:58:47.479" type="KB" tl="BASE" keys="www.akamai.com" />
+<event date="2010-4-12 20:58:54.154" type="KB" tl="BASE" keys="www.cnn.com" />
+<event date="2010-4-12 20:59:0.766" type="KB" tl="BASE" keys="www.digg.com" />
+<event date="2010-4-12 20:59:6.844" type="KB" tl="BASE" keys="www.baidu.com" />
+<event date="2010-4-12 21:1:47.761" type="KB" tl="BASE" keys="www.google.com" />
+<event date="2010-4-12 21:1:53.934" type="KB" tl="BASE" keys="www.cnn.com" />
+<event date="2010-4-12 21:2:1.474" type="KB" tl="BASE" keys="www.digg.com" />
+<event date="2010-4-12 21:2:24.21" type="MC" tl="BASE" domain="cnn.com" URL="http://amfix.blogs.cnn.com/2010/04/12/assessing-chinas-impact-on-america/" />
+<event date="2010-4-12 21:2:29.991" type="KB" tl="BASE" keys="www.youtube.com" />
+<event date="2010-4-12 21:2:39.630" type="KB" tl="BASE" keys="akamai.com" />
+<event date="2010-04-12 21:03:52.116647" type="URL" tl="BASE" ip="66.249.81.104" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:31.565634" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:31.668336" type="URL" tl="BASE" ip="64.94.107.29" domain="quantserve.com" lat="37.7757987976" lng="-122.41280365" city="San Francisco" region="CA" country="US" postalcode="94103" />
+<event date="2010-04-12 21:04:31.679921" type="URL" tl="BASE" ip="74.200.247.60" domain="wordpress.com" lat="33.0346984863" lng="-96.8134002686" city="Plano" region="TX" country="US" postalcode="75093" />
+<event date="2010-04-12 21:04:32.176532" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:32.926644" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:32.993802" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:34.643106" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:37.888223" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:04:39.451802" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:04:41.574814" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:04:57.472142" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:05:18.620630" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:23.585634" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+<event date="2010-04-12 21:05:36.966364" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:37.128124" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:37.380756" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:37.380892" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:37.741211" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:38.555516" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:40.187704" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:41.582337" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:43.452249" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.603953" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:43.857206" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.860621" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.865975" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.897289" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:43.908762" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:43.984869" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.127264" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.127485" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.140126" type="URL" tl="BASE" ip="98.142.98.50" domain="diggstatic.com" lat="37.4980010986" lng="-122.267196655" city="San Carlos" region="CA" country="US" postalcode="94070" />
+<event date="2010-04-12 21:05:44.222165" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:44.846271" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:44.864247" type="URL" tl="BASE" ip="66.235.133.33" domain="digg.com" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
+<event date="2010-04-12 21:05:44.900588" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:44.978605" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:44.978985" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.68592" type="URL" tl="BASE" ip="64.191.203.30" domain="digg.com" lat="37.7696990967" lng="-122.393302917" city="San Francisco" region="CA" country="US" postalcode="94107" />
+<event date="2010-04-12 21:05:45.103784" type="URL" tl="BASE" ip="198.82.164.41" domain="scorecardresearch.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:45.104364" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.321952" type="URL" tl="BASE" ip="206.16.21.32" domain="atdmt.com" lat="32.9014015198" lng="-117.207901001" city="San Diego" region="CA" country="US" postalcode="92121" />
+<event date="2010-04-12 21:05:45.322092" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.322221" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.343917" type="URL" tl="BASE" ip="206.16.21.32" domain="atdmt.com" lat="32.9014015198" lng="-117.207901001" city="San Diego" region="CA" country="US" postalcode="92121" />
+<event date="2010-04-12 21:05:45.603935" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.668026" type="URL" tl="BASE" ip="198.82.164.42" domain="atdmt.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:45.670835" type="URL" tl="BASE" ip="69.176.111.135" domain="specificmedia.com" lat="40.8944015503" lng="-73.3710021973" city="Centerport" region="NY" country="US" postalcode="11721" />
+<event date="2010-04-12 21:05:45.696050" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.700363" type="URL" tl="BASE" ip="216.38.166.107" domain="doubleverify.com" lat="42.6105003357" lng="-71.2305984497" city="Tewksbury" region="MA" country="US" postalcode="01876" />
+<event date="2010-04-12 21:05:45.741424" type="URL" tl="BASE" ip="198.82.164.41" domain="atdmt.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:45.780287" type="URL" tl="BASE" ip="66.249.81.148" domain="specificmedia.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.780706" type="URL" tl="BASE" ip="66.114.52.25" domain="specificmedia.com" lat="37.3874015808" lng="-121.902397156" city="San Jose" region="CA" country="US" postalcode="95131" />
+<event date="2010-04-12 21:05:45.912710" type="URL" tl="BASE" ip="65.61.163.44" domain="doubleverify.com" lat="35.1371002197" lng="-85.0367965698" city="Ooltewah" region="TN" country="US" postalcode="37363" />
+<event date="2010-04-12 21:05:45.936603" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:45.946821" type="URL" tl="BASE" ip="216.38.166.107" domain="doubleverify.com" lat="42.6105003357" lng="-71.2305984497" city="Tewksbury" region="MA" country="US" postalcode="01876" />
+<event date="2010-04-12 21:05:46.9469" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.177751" type="URL" tl="BASE" ip="67.228.212.201" domain="doubleverify.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
+<event date="2010-04-12 21:05:46.567467" type="URL" tl="BASE" ip="74.125.93.139" domain="youtube.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.744104" type="URL" tl="BASE" ip="66.249.81.148" domain="specificmedia.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.798747" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:46.938177" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.55546" type="URL" tl="BASE" ip="67.228.212.201" domain="doubleverify.com" lat="32.7825012207" lng="-96.8207015991" city="Dallas" region="TX" country="US" postalcode="75207" />
+<event date="2010-04-12 21:05:47.185018" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.235123" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.251158" type="URL" tl="BASE" ip="74.125.93.118" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.421213" type="URL" tl="BASE" ip="66.249.81.148" domain="doubleclick.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.608566" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.771295" type="URL" tl="BASE" ip="72.14.204.149" domain="2mdn.net" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.885424" type="URL" tl="BASE" ip="74.125.53.100" domain="gstatic.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.892225" type="URL" tl="BASE" ip="74.125.0.160" domain="ytimg.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:05:47.893615" type="URL" tl="BASE" ip="66.235.133.1" domain="digg.com" lat="40.2967987061" lng="-111.676101685" city="Orem" region="UT" country="US" postalcode="84097" />
+<event date="2010-04-12 21:05:52.523712" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.348314" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" lat="47.6102981567" lng="-122.334197998" city="Seattle" region="WA" country="US" postalcode="98101" />
+<event date="2010-04-12 21:05:54.390412" type="URL" tl="BASE" ip="198.82.164.40" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.618793" type="URL" tl="BASE" ip="66.150.117.25" domain="webtrendslive.com" lat="45.5181007385" lng="-122.675102234" city="Portland" region="OR" country="US" postalcode="97204" />
+<event date="2010-04-12 21:05:54.706094" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" lat="44.5577011108" lng="-123.297798157" city="Corvallis" region="OR" country="US" postalcode="97339" />
+<event date="2010-04-12 21:05:54.841255" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:54.945669" type="URL" tl="BASE" ip="72.247.242.230" domain="edgefcs.net" lat="42.3625984192" lng="-71.0842971802" city="Cambridge" region="MA" country="US" postalcode="02142" />
+<event date="2010-04-12 21:05:54.968305" type="URL" tl="BASE" ip="198.82.164.41" domain="akamai.com" lat="37.2668991089" lng="-80.4325027466" city="Blacksburg" region="VA" country="US" postalcode="24060" />
+<event date="2010-04-12 21:05:55.13689" type="URL" tl="BASE" ip="72.247.242.230" domain="edgefcs.net" lat="42.3625984192" lng="-71.0842971802" city="Cambridge" region="MA" country="US" postalcode="02142" />
+<event date="2010-04-12 21:05:55.46604" type="URL" tl="BASE" ip="204.13.8.181" domain="demandbase.com" lat="44.5577011108" lng="-123.297798157" city="Corvallis" region="OR" country="US" postalcode="97339" />
+<event date="2010-04-12 21:06:02.869680" type="URL" tl="BASE" ip="66.150.11.145" domain="instantservice.com" lat="47.6102981567" lng="-122.334197998" city="Seattle" region="WA" country="US" postalcode="98101" />
+<event date="2010-04-12 21:06:10.847338" type="URL" tl="BASE" ip="74.125.172.35" domain="google.com" lat="37.4192008972" lng="-122.057403564" city="Mountain View" region="CA" country="US" postalcode="94043" />
+<event date="2010-04-12 21:06:15.807475" type="URL" tl="BASE" ip="72.21.91.19" domain="wp.com" lat="34.0119018555" lng="-118.468200684" city="Santa Monica" region="CA" country="US" postalcode="90405" />
+</list>
