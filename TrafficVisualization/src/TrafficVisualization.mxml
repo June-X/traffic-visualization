@@ -3,7 +3,7 @@
 					   xmlns:s="library://ns.adobe.com/flex/spark"
 					   xmlns:s1="library://ns.adobe.com/flex/spark"
 					   xmlns:mx="library://ns.adobe.com/flex/mx" xmlns:View="View.*" xmlns:local="*" xmlns:maps="com.google.maps.*" 
-					    >
+					    creationComplete="init()">
 	
 	
 	<fx:Declarations>
@@ -11,7 +11,7 @@
 		<mx:SolidColorStroke id="DateAxisStroke" color="0x000000"
 							 weight="8" alpha=".75" caps="none" />
 		<!-- source="../xml/geoxml.xml" -->	
-		<!--fx:XML id="mydata" source="../xml/2010-8-3.xml" /-->
+		<fx:XML id="mydata" source="../xml/2010-8-3.xml" />
 		<mx:DateFormatter id="df" />
 	
 		<mx:SolidColorStroke id="scrollerStroke" weight="8" color="0x000000" alpha="0.6" caps="round" />
@@ -65,18 +65,18 @@
 			[Bindable]private var _currentLat:String = "39.1915";
 			[Bindable]private var _currentLng:String = "-77.3238";
 			
-			public var myTrafficChart:LineChart;
-			public var pdata:PlotSeries;
-			public var ldata:LineSeries;
-			public var vdata:HLOCSeries;
+			//public var myTrafficChart:LineChart;
+			//public var pdata:PlotSeries;
+			//public var ldata:LineSeries;
+			//public var vdata:HLOCSeries;
 			
 			//Dynamically generate this in future 
 			private var XML_PATH:String = "C:/Users/June/workspace/TrafficVisualization/src/xml/";
-			[Bindable]public var mydata:XML;
+			//[Bindable]public var mydata:XML;
 			
 			[Bindable]private var xcategoryAC:ArrayCollection = new ArrayCollection([{type:"MC"}, {type:"KB"},{type:"BASE"}, {type:"URL"}]);
 			
-			private var _markers:Array;
+			private var _markers:Array = new Array();
 			
 			
 			//load data to xml object
@@ -291,6 +291,8 @@
 					clearMarkers();
 					lat = Number(e.hitData.item.@lat);
 					lng = Number(e.hitData.item.@lng);
+					trace(lat);
+					trace(lng);
 					title= type + ":" + e.hitData.item.@domain;
 					//var postal:String = e.hitData.item.@postal;
 					content = "Visited on " + e.hitData.item.@date + "\n" + "From:\n " + e.hitData.item.@city + "\n" + e.hitData.item.@region +", " + e.hitData.item.@country ;
@@ -352,12 +354,12 @@
 				
 			}
 			
-			//public function init():void{
+			public function init():void{
 				
 				//loadXML();		
-				//myTrafficChart.addEventListener(ChartItemEvent.ITEM_CLICK, myitemclickListener);
+				myTrafficChart.addEventListener(ChartItemEvent.ITEM_ROLL_OVER, myitemrolloverListener);
 				//myTrafficChart.addEventListener(ChartItemEvent.ITEM_ROLL_OUT, myitemrolloutListener);	
-			//}
+			}
 
 		]]>
 	</fx:Script>
@@ -397,37 +399,37 @@
 		
 		<!--<s:Scroller width="600" height="550" horizontalScrollPolicy="auto" verticalScrollPolicy="auto"> -->
 		<mx:Canvas id="bdr" width="{sliderW.value}" height="{sliderH.value}"  borderVisible="false" depth="0">
-			<!--mx:LineChart id="myTrafficChart" width="100%" height="100%" showDataTips="false" selectionMode="none" visible="true" -->
-				<!--mx:dataProvider>
+			<mx:LineChart id="myTrafficChart" width="100%" height="100%" showDataTips="false" selectionMode="none" visible="true" >
+				<mx:dataProvider>
 					<mx:XMLListCollection source="{mydata.item}" />
 				</mx:dataProvider>
 				<mx:backgroundElements>
 					<mx:GridLines visible="false"/>
-				</mx:backgroundElements-->
+				</mx:backgroundElements>
 				
 				
 				<!--parseFunction="parseDate" mx:SeriesSlide  id="exp" direction="down" elementOffset="150" dataUnits="seconds" dataInterval="0.1" parseFunction="parseDate" / -->
-				<!--mx:horizontalAxis>
+				<mx:horizontalAxis>
 					<mx:DateTimeAxis id="DateAxis" dataUnits="seconds" displayLocalTime="true" dataInterval="0.1" direction="normal" parseFunction="parseDate"  />
-				</mx:horizontalAxis-->
+				</mx:horizontalAxis>
 				
-				<!--mx:horizontalAxisRenderers>
+				<mx:horizontalAxisRenderers>
 					<local:ScrollableAxisRenderer id="hscrollAxisRenderer" axis="{DateAxis}" tickPlacement="none"  
 												  placement="bottom" showLine="true" axisStroke="{scrollerStroke}" />
-				</mx:horizontalAxisRenderers-->
+				</mx:horizontalAxisRenderers>
 				
-				<!--mx:verticalAxis>
+				<mx:verticalAxis>
 					<mx:CategoryAxis id="TypeAxis" dataProvider="{xcategoryAC}" categoryField="type" />
-				</mx:verticalAxis-->
+				</mx:verticalAxis>
 				
 				
-				<!--mx:verticalAxisRenderers>
+				<mx:verticalAxisRenderers>
 					<local:ScrollableAxisRenderer id="vscrollAxisRenderer" axis="{TypeAxis}" showLabels="false" showLine="false"
 												  tickPlacement="none" minorTickPlacement="none"/>
-				</mx:verticalAxisRenderers-->
+				</mx:verticalAxisRenderers>
 				
 				<!--itemRenderer="MyDataRenderer" -->
-				<!--mx:series>
+				<mx:series>
 					<mx:PlotSeries id="pdata" xField="@date" yField="@type" itemRenderer="MyDataRenderer" showEffect="{effSlide}" >
 						<mx:dataProvider>
 							<mx:XMLListCollection source="{mydata.item}" />
@@ -452,9 +454,9 @@
 							<s:SolidColorStroke weight="1" color="0xF0F8FF"/>
 						</mx:stroke>
 					</mx:HLOCSeries>
-				</mx:series-->
+				</mx:series>
 			
-			<!--/mx:LineChart-->
+			</mx:LineChart>
 		</mx:Canvas>
 		<!--</s:Scroller> -->
 	</s:Panel>

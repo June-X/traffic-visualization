@@ -23,9 +23,9 @@
 			<!--s:SolidColor color="{getStyle('backgroundColor')}" alpha="{getStyle('backgroundAlpha')}"/-->
 			<s:LinearGradient rotation="90">
 				<s:entries>
-					<s:GradientEntry id="rf1" color="0x3399CC" ratio="0.0" alpha.normal="0.8" alpha.hovered="1.0"/>
-					<s:GradientEntry id="rf2" color="0x3399FF" ratio="1.0" alpha.normal="0.5" alpha.hovered="1.0"/>
-					<s:GradientEntry id="rf3" color="0xCCCCCC" ratio="0.5" alpha.normal=".8" alpha.hovered="1.0" />
+					<s:GradientEntry id="rf1" color="0x336699" ratio="0.0" alpha.normal="0.8" alpha.hovered="1.0"/>
+					<!--s:GradientEntry id="rf2" color="0x330000" ratio="1.0" alpha.normal="0.5" alpha.hovered="1.0"/-->
+					<!--s:GradientEntry id="rf3" color="0xCCCCCC" ratio="0.5" alpha.normal=".8" alpha.hovered="1.0" /-->
 				</s:entries>
 			</s:LinearGradient>    
 		</s:fill>
