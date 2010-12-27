@@ -23,9 +23,9 @@
 		<s:fill>
 			<s:LinearGradient rotation="90">
 				<s:entries>
-					<s:GradientEntry id="rf1" color="0x9966CC" ratio="0.00" alpha.normal="0.8" alpha.hovered="1.0"/>
-					<s:GradientEntry id="rf2" color="0x9966FF" ratio="1.0" alpha.normal="0.5" alpha.hovered="1.0"/>
-					<s:GradientEntry id="rf3" color="0xCCCCCC" ratio="0.5" alpha.normal=".8" alpha.hovered="1.0"/>
+					<s:GradientEntry id="rf1" color="0xA2B700" ratio="0.00" alpha.normal="0.8" alpha.hovered="1.0"/>
+					<!--s:GradientEntry id="rf2" color="0x9966FF" ratio="1.0" alpha.normal="0.5" alpha.hovered="1.0"/-->
+					<!--s:GradientEntry id="rf3" color="0xCCCCCC" ratio="0.5" alpha.normal=".8" alpha.hovered="1.0"/-->
 				</s:entries>
 			</s:LinearGradient>    
 		</s:fill>
